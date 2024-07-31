@@ -5,6 +5,7 @@ permalink: Home
 tags: 
 description: Max Robert's home on the internet. Welcome.
 image: '"Published/Published Files/Published Images/Static Page Images/MF_Site.png"'
+title: Home
 ---
 ![[MF_Site Banner_small_shadow.png]]
 [[About]] | [[Chapter Select]] | [[The Max Frequency Podcast|MFP]] | [[Chasing the Stick – The History of Naughty Dog|Naughty Dog History]] | [[Podcasts]]

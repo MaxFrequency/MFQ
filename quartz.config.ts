@@ -8,46 +8,46 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Max Frequency",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "quartz.maxfrequency.net",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Poppins",
+        body: "Poppins",
+        code: "Silkscreen",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#e1dedf", /**page background */ /**bg1 in Obsidian CSS */
+          lightgray: "#6c5cb2", /**borders */ /**ui1 */
+          gray: "#889EAA", /**graph links, heavier borders */ /**ax3? */
+          darkgray: "#242327", /** body text */ /**tx1 */
+          dark: "#42474a", /** header text and icons */ /**tx1 */
+          secondary: "#6c5cb2", /**link color, current graph node */ /**ax1 */
+          tertiary: "#8177c0", /**hover states and visited graph nodes */ /**ax2 */
+          /**highlight: "hsla(251,48%,51%,25%)", */ /**internal link background, highlighted text, highlighted lines of code */ /**hl1 */ /**this places a box around links, acting as a bolder callout of them */
+          textHighlight: "#fff23688", /** markdown highlighted test background */
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1e1e1e", /**page background */ /**bg1 in Obsidian CSS */
+          lightgray: "#463a8d", /**borders */ /**ui1 */
+          gray: "#38c6c0", /**graph links, heavier borders */ /**ax3? */
+          darkgray: "#d2d4d4", /** body text */ /**tx1 */
+          dark: "#ababab", /** header text and icons */ /**tx1 */
+          secondary: "#38c6c0", /**link color, current graph node */ /**ax1 */
+          tertiary: "#2a9998", /**hover states and visited graph nodes */ /**ax2 */
+          /**highlight: "hsla(251,48%,51%,50%)", */ /**internal link background, highlighted text, highlighted lines of code */ /**hl1 */
+          textHighlight: "#fff23688", /** markdown highlighted test background */
         },
       },
     },

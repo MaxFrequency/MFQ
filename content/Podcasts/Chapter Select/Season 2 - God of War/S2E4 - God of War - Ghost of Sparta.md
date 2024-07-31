@@ -1,0 +1,56 @@
+---
+Guest: 
+Recording Date: 2021-11-02
+Published: 2021-11-24
+tags:
+  - CS
+  - GodOfWar
+  - PlayStation/PSP
+  - PlayStation/PS3
+URL: https://maxfrequency.net/2021/11/24/chapter-select-s2e4/
+permalink: 2021/11/24/chapter-select-s2e4/
+---
+![[S2E4 Art.jpg]]
+
+For the first time in the series, Kratos is on a journey for salvation rather than vengeance. Released just eight months after *God of War III*, the Marked Warrior returned to the PlayStation Portable in grand fashion. Max and Logan sink the city of Atlantis to find out if Kratos can save his family before he seeks revenge.
+
+<audio controls>
+  <source src="https://traffic.libsyn.com/chapterselectpod/CS_S2E4_Final.mp3">
+</audio>
+
+- *[Download](https://traffic.libsyn.com/chapterselectpod/CS_S2E4_Final.mp3) (34MB)  — [[CS_S2E4_Transcript_Ghost.pdf|Episode Transcript]]*
+- [RSS Feed](https://chapterselectpod.libsyn.com/rss)
+- [Overcast](https://overcast.fm/itunes1568777352/chapter-select)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/chapter-select/id1568777352)
+- [Spotify](https://open.spotify.com/show/4f1TLZXbwtSX7uHROe9KlS)
+# *God of War: Ghost of Sparta*
+
+- Developer – Ready at Dawn Studios
+- Platform – PlayStation Portable (Remaster released on PS3)
+- Release Date – November 2, 2010 (Sept. 11, 2011 on PS3)
+- Game Director – [Dana Jan](https://www.mobygames.com/developer/sheet/view/developerId,155804/) (Game Director) and [Ru Weerasuriya](https://www.mobygames.com/developer/sheet/view/developerId,63409/) (Creative Director)
+- Producer – [Marc Turndorf](https://www.mobygames.com/developer/sheet/view/developerId,9212/)
+- Combat Designers – [Derek Mulder](https://www.mobygames.com/developer/sheet/view/developerId,188316/)
+- Composers – [Gerard Marino](https://en.wikipedia.org/wiki/Gerard_Marino) and [Mike Reagan](https://en.wikipedia.org/wiki/Mike_Reagan)
+- Writer – [Cory Barlog](https://en.wikipedia.org/wiki/Cory_Barlog)
+- Consultant – [Eric Williams](https://www.mobygames.com/developer/sheet/view/developerId,73057/)
+
+[Metacritic](https://www.metacritic.com/game/psp/god-of-war-ghost-of-sparta) – 86/100
+# Links
+
+- [*God of War: Ghost of Sparta* Wikipedia](https://en.wikipedia.org/wiki/God_of_War:_Ghost_of_Sparta)
+- [Eric Williams’ Résumé](https://www.ign.com/articles/god-of-war-ragnarok-eric-williams-cory-barlog-interview)
+- Soundtrack
+	- [YouTube](https://youtube.com/playlist?list=PLA33F7CA784FB0DC9)
+- [Cory’s Anniversary Twitter Thread](https://twitter.com/corybarlog/status/1455748671656456195)
+
+---
+*This episode was originally recorded on November 2, 2021.*
+
+[Max’s Twitter](https://www.twitter.com/maxroberts143)
+[Logan’s Twitter](https://www.twitter.com/mooreman12)
+
+Researcher, Editor, and Producer – Max Roberts
+Hosted by Logan Moore & Max Roberts
+Season Art Statue Photo by [Simone Pellegrini](https://unsplash.com/@mazerone) on [Unsplash](https://unsplash.com/photos/L3QG_OBluT0) and designed by Max Roberts
+Episode Cover Art Water designed by Max Roberts

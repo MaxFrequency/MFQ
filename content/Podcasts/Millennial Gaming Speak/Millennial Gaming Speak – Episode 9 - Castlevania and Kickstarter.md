@@ -1,0 +1,57 @@
+---
+Recording Date: 2015-05-17
+Published: 2015-05-20
+Hosts:
+  - Max Roberts
+  - "[[Logan Moore]]"
+URL: https://maxfrequency.net/2015/05/20/mgs-9/
+tags:
+  - MGS
+  - Castlevania
+  - Kickstarter
+  - Bloodstained
+  - YookaLaylee
+  - Witcher
+permalink: 2015/05/20/mgs-9/
+---
+%%Google Doc Link - https://docs.google.com/document/d/15_Z6AZDIz5P6KtNx43NpYmJJ7BEom4KZqzi9MkhRgR8/edit?usp=sharing%%
+
+<iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-9-Castlevania-and-Kickstarter-e1adhrr/a-a6ts43a" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
+%%# Show Notes
+
+1. Intro/Welcome to MGS
+2. Obligatory News
+	1. Kickstarter-palooza!!
+		1. Yooka-Laylee
+			1. $2.5 million dollars
+		2. Bloodstained: Ritual of the Night
+			1. $2.2 million dollars
+		3. Just discuss thoughts on kickstarter in general and these games
+	2. Assassin's Creed: Syndicate revealed!!
+	3. Quick Fire News!!
+		1. Silver Mario Amiibo coming later this month
+		2. Gears of War Ultimate Edition nearly confirmed
+3. Play and Report Returns!!
+	1. Discuss Castlevania: SotN
+4. Topics Segment
+	1. Logan’s Topic --- Witcher 3 hype
+	2. Max’s Topic --- Final thoughts on PT. RIP
+5. Closing
+	1. Email us at mgspodcast@gmail.com. 
+	2. Drop some twitter handles: @MooreMan12 & @MaxTheWhite
+	3. See ya next week!%%
+
+# Show Description
+
+MGS is back after another brief hiatus! Max and Logan dig into all of the news that has occurred since the last episode and talk about the new kickstarter games *Yooka-Laylee* and *Bloodstained: Ritual of the Night*.
+
+Also this week, play and report returns! The guys discuss their thoughts on *Castlevania: Symphony of the Night* before engaging into some *Witcher 3* hype talk. Take a listen!
+
+Follow Max and Logan on Twitter!
+
+@MaxRoberts143
+@MooreMan12
+
+Intro and Outro song is “OHC3” by Kris Keyser

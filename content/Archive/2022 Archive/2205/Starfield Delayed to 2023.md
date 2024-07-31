@@ -1,0 +1,20 @@
+---
+Published: 2022-05-12
+URL: https://maxfrequency.net/2022/05/12/starfield-delayed/
+permalink: 2022/05/12/starfield-delayed/
+tags:
+  - Starfield
+  - Bethesda
+  - Xbox
+---
+Speaking of Xbox, Bethesda announced the delay of Starfield today on [Twitter](https://twitter.com/bethesda/status/1524721132720566272).
+
+> “We’ve made the decision to delay the launches of *Redfall* and *Starfield* to the first half of 2023.
+
+Yours truly in [[Big Three Predictions 2022|my annual predictions]]:
+
+> I’m sorry to be so negative with Xbox. I just don’t believe that *Starfield* could have a date before *Halo Infinite* and them stick to said date, especially in these remote work times. Throw in the fact that *Halo Infinite* is incomplete, I just don’t see *Starfield* hitting their date and if they do, it being a buggy or incomplete mess. Mind you, I personally don’t think it will be a big delay, but a delay nonetheless.
+
+*Halo Infinite* still does not have campaign co-op, just started season 2 of their free-to-play (but you’ll pay for the battlepass and armor) multiplayer.
+
+There was no way *Starfield* was hitting this year. Wonder if we will see it at E3 (RIP) in 2023 as well. Late June is still the first half of 2023…

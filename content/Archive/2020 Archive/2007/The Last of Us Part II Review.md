@@ -1,0 +1,98 @@
+---
+Published: 2020-07-25
+URL: https://maxfrequency.net/2020/07/25/the-last-of-us-part-ii-review/
+permalink: 2020/07/25/the-last-of-us-part-ii-review/
+tags:
+  - Review
+  - NaughtyDog/TLOU
+---
+![[blue-boat.jpg]]
+[John Sweeney](https://twitter.com/johnsweeney2147/status/1283457350062370816), Art Director at Naughty Dog
+
+For this review, I am going to delve into the entire plot of *The Last of Us Part II*. I want to fully discuss this game’s narrative, themes, and how they are explored through mechanics and design. Don’t worry, this will be here when you finish the game.
+
+---
+
+When *The Last of Us Part II* was revealed at the 2016 PlayStation Experience, director Neil Druckmann appeared on a panel and discussed the surprise sequel’s overarching theme.
+
+“If the first game was really like the core of it, the theme was about love between these two characters and how we build that through story, music, interaction, gameplay, mechanics. This story is the counter of that. This story is about hate—and how we use all those same things to make the player feel that through Ellie this time,” Druckmann said.
+
+Hate has been attached to *The Last of Us Part II* since the very beginning. Even the teaser reveal ended with Ellie declaring she would “find and kill every last one of them.” This association immediately set a tone. The dark cloud loomed over Naughty Dog for the next four years of development. It permeated discussions, reveals, and leaks. The theme of hate [[The Last of Us Part II has brought out the worst of us – VG247|brought out]] [[280 Characters is Not Enough|the worst]] in “fans.”
+
+Despite this, I was prepared for immersing myself in this narrative fueled by hate. The world after the cordyceps infection is a grim place; this was something I learned from the first game. 
+
+I was not prepared for the real theme to ultimately be about empathy. Naughty Dog really pushed their mission of “putting it on the stick” to an unmatched level. Like pointillism, Naughty Dog has dotted *The Last of Us Part II*’s canvas with hate, violence, trauma, fear, loss, love, forgiveness, peace, abuse, dread, obsession, war, and grace that, when viewed as a whole, imparts on the player a captivating display of empathy.
+
+This is implemented most strongly by making the game a dual protagonist experience. Not like *The Last of Us* back in 2013, where you play as Ellie for a shorter chunk of the whole game. *Part II* feels evenly split between Ellie and an entirely new character—Abby. I can’t recall a surprise on the level of who you actually play as since *Metal Gear Solid 2: Sons of Liberty* in 2001. Where the game punches the player in the gut is when Abby ends up being Joel’s killer and then makes the player take control of her for half of the journey. It’s an unsettling swap, one that I was unsure would work.
+
+This is what I wrote down in my notes just after arriving in Seattle:
+
+> “What does it mean to play as Abby? How can I, the player and lover of Joel as a character, feel anything but hate and distain for her. What does gameplay do for her and me? What is her story? Why did she seek vengeance? What pushed her? Why did I play as Abby?”
+
+In the opening three hours of *The Last of Us Part II*, Naughty Dog plants the seed for Abby’s half of the game by switching between her and Ellie during Joel’s last day. Tension thrums beneath the surface until it shatters from the blast of a shotgun. What’s left is a raw, traumatic death and perfect alignment between Ellie and the player: Abby needs to die.
+
+After this introduction, the narrative is split in two. The first half you play as Ellie, spending three days in the heart of darkness that is Seattle. At the climax of her arc, the game abruptly stops on a cliffhanger like a huge television season finale. Naughty Dog then puts you in control of Abby, back on the day her father dies; her father the surgeon that could have made a cure for the cordyceps infection if Joel had not murdered him to save Ellie’s life. The similarities between Ellie, Abby, Joel, Lev, and the surrounding cast only builds from there. 
+
+Naughty Dog uses dramatic irony with deft precision. Every character, scenario, and theme are used to elevate the relationship between Ellie and Abby with the player as the strongest invisible cord between them. Abby’s own quest for vengeance meets its end at the start of the game. She is effectively a few chapters ahead of Ellie in this regard. Both through playable flashbacks and conversation between characters in the present, we see what Abby’s obsession cost her. Lifelong relationships fractured with every swing of the golf club. Abby couldn’t put them back together. Vengeance did not heal her wounds, but instead made new ones. She still has her nightmares. After being graciously saved by two young Seraphite – Yara and Lev – Abby began her journey for redemption. The consequences from killing Joel came brutally knocking, but Abby actively makes the choice to break her own cycle of violence and pursue some semblance of peace.
+
+For Ellie, we see the pursuit for self-proclaimed justice from start to finish. It’s a tragic decent into darkness; one that I imagine is not too far off from Joel and Tommy’s in the early years of the fall of man. Tommy even left Jackson alone to try and protect Ellie from herself. The consequences of this type of pursuit weigh on the soul and no soul escapes unscathed.
+
+*The Last of Us* showed us Joel’s path to finding redemption though. In *Part II*, we have an opportunity to see the aftermath of that quest in Joel and Ellie flashbacks. Joel never waivers in his resolve to save Ellie’s life. We see this same selfish pursuit of redemption turn into an emotional bond again with Abby and Lev. The narrative is rich with constant comparison and reflection that sucks the marrow out of the emotional core of these two games.
+
+I don’t think there are better examples of this than with the two Ellie and Abby boss fights. Once you bring Abby’s portion of the story back to the fateful night at the theater, you are thrust into a boss fight *against* Ellie. It’s an encounter that immediately causes hesitation. You don’t want to fight and/or kill Ellie. Fans of the first game have an inherent bias towards her, but it reenforces Abby’s perspective that Naughty Dog has spent the back half of the game developing. It results in a powerful moment of grace as Abby spares Ellie, Dina, and their unborn child. This grace is not from kindness, but from Abby’s own journey to find redemption and grace through her relationship with Lev, a child born her enemy.
+
+ The final boss fight, again between Ellie and Abby, but this time you are controlling Ellie. I can’t think of a boss fight where I didn’t actively want to fight and kill the boss myself. I’m not the one on the beach fighting Abby though. Ellie is, I am just controlling it. Through that control, my emotions are tangled in the fight. I’ve been both Ellie and Abby. I know both their stories. The prices paid for their obsessions. It is in this moment that *The Last of Us Part II*’s ultimate theme of empathy reaches its peak. When Ellie lets Abby and Lev go, it’s not because she empathizes with them. She has no clue as to their side of this journey. In the final moments of the struggle, Ellie realizes that killing Abby will not silence the memories of Joel’s untimely death. Ellie does what Abby could not for Joel. Not out of moral superiority, but out of a broken spirit longing for closure; both from this journey and the lost relationship she can never mend with Joel.
+
+Put as the player, the power of empathy shines through. This moment exemplifies the power gameplay can have in storytelling. Like when authors change characters every chapter, you gain an understanding and empathy. I walked my fair share of miles in both Ellie and Abby’s shoes. There is more than one side to every story. We all would do well to remember that and to lead with grace instead of preconceived righteousness.
+
+# Gameplay
+
+Refinement. Fluidity. Weight. These are the words that I kept coming back to when thinking about the gameplay in *The Last of Us Part II*. 
+
+The core of the stealth combat and world exploration is intact from The Last of Us. Clickers still elevate my heart rate. Picking off an enemy group in total silence is elating just as much as surviving an all-out confrontation with one bullet and a sliver of health. The survival crafting mechanic is identical in regard to the crossover of materials needed to craft certain items; will I make a health kit or a molotov? The range of craftable items has been expanded. Ellie can make trip mines and smoke screens. Arrows for a bow are able to be made on the fly. Abby and Ellie have some differences in crafting though. For example, Abby can make pipe bombs instead of trip mines. The crafting has been tailored to the character you are playing as.
+
+Skills trees are similarly tailored, which I enjoyed getting two chances to build up characters based on their personalities and my play style. I’ve always been a player that tries to act out what a character would do themselves, while imparting my vision on them when I can; I am the player after all. This is probably why I am drawn toward Naughty Dog games so heavily. 
+
+For example, one of the new craftable items is a silencer for a handgun. Ellie is a wiry person with nimble movements. Abby on the other hand is built and moves with powerful precision. Ellie’s skill tree has the silencer perk sooner in the stealth category, while Abby has it further down the tree. While this is Naughty Dog intentionally structuring skill trees to match their characters’ personalities, the trade-offs work to the player’s benefit. Abby’s skill trees have far more physical and tactical options. She may not be able to craft arrows, but she can make fiery shotgun ammo. She’s not barred from the silencer either, it just requires deliberation from the player.
+
+I found the combat to have the ebb and flow that was truly refined in *Uncharted 4: A Thief’s End*. Here is how I described the fusion of 2013’s *The Last of Us* combat and AI with *Uncharted*’s signature bombastic fire fights in [[Chasing the Stick - The History of Naughty Dog during the PS4 Era|Chasing the Stick]]:
+
+> “Instead of having combat arenas forcing loud shootouts, Uncharted 4 gives the player real choice. Enemy AI has the ability to lose track of Nate, giving combat the opportunity to have an ebb and flow between shootouts and skulking in the brush.”
+
+Rather than the brush of Madagascar, you’ll be crawling through the nature-reclaimed suburbs and city of Seattle. Environments are dense. Not just thick with foliage, but with the dilapidated remains of  civilization. Evidence of life is ever present. This goes beyond visually rich locations, but translates to the mechanical level as well. Combat arenas aren’t truncated digital boxes where enemies spawn from predetermined points. They are built as real spaces with a fluidity in design. You can weave inside and outside of buildings through cracks in the wall or by crawling through openings. Slink behind counters, crawl through tall grass, jump across scaffolding: You have navigational freedom to plan and approach the world as you see fit. 
+
+Stealth, in particular, feels entirely new. In the first game, stealth was all about crouching behind boxes and slinking up behind unsuspecting Hunters. You could reenter stealth if discovered, but your only real choice was ducking out of sight. In *Part II*, you have the ability to go prone and crawl. There is varying heights of grass that create an analog cover system, removing the traditional binary cover status of “hidden” or “discoverable” by the AI. Crawling under vehicles is an option, as well as climbing up structures to gain the high ground. I was often reminded of *Metal Gear Solid V: Ground Zeroes*’ open-ended approach to stealthily navigating a small area.
+
+You don’t have safety and security in hiding though. The enemy feels ever present, constantly putting pressure on you. Dogs that pick up your scent spark on-your-feet thinking, while the sheer number of foes dawns on you more than once. The scope of environments far exceeded my expectations my first time through the game. I didn’t feel like it was cheap, but that it actually reenforced the overwhelming presences the WLF and the Seraphites were supposed to have. I was playing as one person against hundreds.
+
+The NPCs that you fight are more than coded baddies that walk in a pattern for you to quickly memorize, plan, and then strike. While that may be the core of the encounters, Naughty Dog went through great effort to humanize the enemies. More than just giving them all individual names or emotional reactions, the game uses the dual protagonist setup to explore sympathy. When playing as Abby for the second portion of the game, you immediately start inside the WLF’s base at a stadium. They have schools, “neighborhoods,” families, and community. Layers of the never-ending conflict between the WLF and the Seraphites reveals itself through dialogue and collectible notes. 
+
+This humanization is not intended to make you feel bad about killing NPCs. They usually shoot first. Your defense is justifiable, but Naughty Dogs efforts do make the enemies feel like more than ones and zeroes. The conflict is no longer a black and white transaction, but a muddled gray affair. It offers you perspective and an opportunity to nurture the seed of empathy. It falls on the you whether or not you open yourself up to it.
+
+The Infected have also been refined and expanded upon. Mostly, the core lineage of Infected has been polished in *Part II*. Runners appear to swarm and hit harder than last time. Clickers remain iconic and retain their one-hit kill lethality. Bloaters are still titans. I actually found them to be more aggressive. The charge toward you and use their mass like a bull would. They still toss projectiles, but would much rather get up in your face.
+
+The Stalker has had the largest overhaul out of the old guard. They feel less like a Runner this time around and have a far more threatening presence. Stalkers were originally late development additions in the first game, but with years to think about their design, the team was able to enhance the stalking part of their name. They crouch behind furniture just enough to let you know they are watching. They scurry away when a light hits them and surround you effectively like pack hunters. 
+
+Shamblers are one of two new additions. They charge toward their target and spew acidic gas. They blunder. I always tried to deal with them first, not because they were foreign to me, but because I realized the new threat they presented to me in combat.
+
+The final new addition is technically the oldest; The Ratking is one of the first Infected from breakout day, September 26, 2013. The game’s de facto boss shows fans what 26 years of cordyceps infection can turn into and it is a terrifying hive mind powered beast. [Inside](https://vignette.wikia.nocookie.net/inside2518/images/f/f4/Inside_Huddle_Concept_Art.png/revision/latest?cb=20190108224151) the basement of a hospital, Naughty Dog leans into the horror element of *The Last of Us* so hard that I just kept uttering “nope, nope, nope,” with every terrifying development.
+
+I think the Infected are in their “true form” when playing on Survivor difficulty. While not for everyone (and by no means necessary), the risk vs. reward mentality I had with each Infected encounter felt like something I could easily imagine if all of this was real. The Ratking on Survivor though broke down a bit for me. While I didn’t find it difficult per se (I defeated it on my third attempt), the inherently limited ammo of the mode lead to lots of running around the environment scavenging for ammo and items. The beast applies constant pressure creating the most stressful encounter in the game.
+
+# Visuals
+
+There are few developers where it is an actual joy to watch their artistic and graphical prowess be pushed to the max at the end of a generation. Naughty Dog always seems to figure out some secret code and extract every single watt of power out of the PlayStation.The end-of-the-generation result that is *The Last of Us Part II* is, frankly, astounding. I have never seen a game with such lifelike animation, minutely detailed environments, and genuine looking characters. There really is not another game like it.
+
+# Music and Sound Design
+
+It wouldn’t be *The Last of Us* without an original score from Gustavo Santaolalla. The Argentine composer delivers once again; this time reinterpreting his iconic themes from the first game into chilling counterparts. Gustavo’s music weaves beautifully into the scenes and strikes that emotional chord consistently. 
+
+Gustavo is not alone though. There is additional music from composer Mac Quayle. Mac’s music is a raw, tribal beat behind the violence in the game. The tension-fueled drums blend seamlessly with the intense combat throughout the game. The two composers work come together to make a wholly unique soundtrack.
+
+I also briefly want to mention the sound design. The guttural clicking cry that the iconic Clickers make still sends chills down my spine, seven years later. Rarely is an enemy design so spot on in its first iteration. The Shambler’s rumbling reminded me often of Bloaters, which amped up my dread of what could be around the corner. 
+
+I didn’t think Naughty Dog could make another common sound like clicking and turn it into an immediate “fight or flight” trigger, but the whistling that the Seraphites do to communicate is terrifying. I think part of it stems from knowing that they are actively using the shrill whistles for communicating. It is a language I don’t understand, but do know that it is regarding my presence and safety. That created genuine uneasiness within me.
+
+# Conclusion
+
+Naughty Dog has put their decades of hard work, refinement, and obsession into practice. Gameplay, music, art, and story meld together to create a storytelling experience that they’ve been [[Chasing the Stick - The History of Naughty Dog during the PS4 Era|chasing the entire generation]]. Naughty Dog has wielded the power of the gameplay to create an emotionally engaging experience that is wholly unique to the medium in which it is told. They earned the “Part II” in the name. The two games are inseparable to me now; two halves of a whole. *The Last of Us Part II* is a bold, generation defining experience. Through the dark cloud of hate, Naughty Dog found the light.

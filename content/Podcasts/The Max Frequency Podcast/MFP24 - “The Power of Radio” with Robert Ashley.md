@@ -1,0 +1,89 @@
+---
+Guest: "[[Robert Ashley]]"
+Recording Date: 2023-02-27
+Published: 2023-03-15
+tags:
+  - MFP
+  - Tetris
+  - SuperMario
+  - Zelda/OoT
+  - Speedrun
+  - GDQ
+  - Podcast
+  - Cooking
+  - EGM
+URL: https://maxfrequency.net/2023/03/15/mfp-24/
+permalink: 2023/03/15/mfp-24/
+---
+Editor and host Robert Ashley sits down with Max to talk about reviving the timeless internet radio show *[A Life Well Wasted](https://alifewellwasted.com/)*, how good material is king, and the act of listening.
+
+<audio controls>
+  <source src="https://traffic.libsyn.com/maxfrequency/MF24_Final_v2.mp3">
+</audio>
+
+- *[Download](https://traffic.libsyn.com/maxfrequency/MF24_Final_v2.mp3) (50MB)  — [[MFP24_Transcription.pdf|Episode Transcript]]*
+- [RSS Feed](https://maxfrequency.libsyn.com/rss)
+- [Overcast](https://overcast.fm/itunes1557043396)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-max-frequency-podcast/id1557043396)
+- [Spotify](https://open.spotify.com/show/3W1LwBNmhZ6s5QmQViWXKn)
+
+> [!warning] Mature Content Notice: 
+> Language and discussion about male genitalia, in regards to episode 6 of A Life Well Wasted‘s story on Jonah Falcon.
+
+# Show Notes
+## Why Now?
+
+- [*A Life Well Wasted*](https://alifewellwasted.com/)
+- [*Milky Way Underground*](https://milkywayunderground.com/)
+- [Steam Controller](https://en.wikipedia.org/wiki/Steam_Controller)
+## Editing in Space and Time
+
+- [Reaper](https://www.reaper.fm/)
+## Childlike Wonder
+
+- [Miyamoto Climbing Trees](https://kotaku.com/when-miyamoto-first-played-zelda-breath-of-the-wild-h-1793017234)
+- *[Ōkami](https://en.wikipedia.org/wiki/Ōkami)*
+- [[EGM-207-Okami-Reviews.pdf|Robert’s Ōkami Review – EGM 207, Sept. 2006]]
+## 97.5 the Brodeo
+
+- [Robert’s Giant Bomb Profile](https://www.giantbomb.com/robert-ashley/3040-100600/)
+- [GFW Radio Ep. 116, June 26, 2008](https://ia800600.us.archive.org/29/items/GFWRadioCollection/All%20Episodes/116%20062608.mp3)
+- [Shawn Elliott](https://www.giantbomb.com/shawn-elliott/3040-90332/)
+## Story and Presentation
+
+- [*Tetris* Movie Trailer](https://youtu.be/-BLM1naCfME)
+- [[Tetris Effect Review — The Puzzle Icon Reimagined]]
+## Musical Scaffolding
+
+- [Bubzia’s GDQ 2021 Blindfolded *Super Mario 64* Speedrun](https://youtube.com/watch?v=rKnDj3wMNik&t=38)
+- [Blind Gamer Beats *Ocarina of Time*](https://www.pedestrian.tv/entertainment/insanely-skilled-gamer-just-beat-ocarina-of-time-blindfolded/) (2008)
+- [Blind Gamer Beats *Ocarina of Time*](https://www.eurogamer.net/blind-gamer-completes-the-legend-of-zelda-ocarina-of-time) (2016)
+- [Runnerguy2489’s GDQ 2015 Blindfolded *Ocarina of Time* Speedrun](https://youtube.com/watch?v=IhHMW_atNG4&t=805)
+- [*I Come to Shanghai*](https://icometoshanghai.bandcamp.com/album/low-pressure)
+## Trusted Storyteller
+
+- [Jeri Ellsworth Keeping Valve AR Tech](https://uploadvr.com/ar-tech-tilt-five-valve/)
+- [Tilt Five AR Tabletop Glasses](https://www.kickstarter.com/projects/tiltfive/holographic-tabletop-gaming)
+## A Radio Dominated Time
+
+- [Lucky Ju Ju Pinball Museum](http://www.ujuju.com/)
+## A Life Well Tasted
+
+- [*Flour Water Salt Yeast* by Ken Forkish](https://kensartisan.com/flour-water-salt-yeast)
+- [Cookbook Roundup – A Life Well Tasted](https://youtu.be/2ngVyoXTCFA)
+- [*Yan Can Cook*](https://en.wikipedia.org/wiki/Yan_Can_Cook)
+- [*Pasta* by Missy Robbins](https://www.missyrobbins.com/)
+- [Kimchi Smash Burger](https://youtu.be/e5R6O5-NVcQ)
+- [Sweet & Spicy Wings](https://youtu.be/riqPXNs91Qk)
+
+---
+# Robert Ashley
+
+- [Robert’s Twitter @RobertAshley](https://www.twitter.com/robertashley)
+- *[A Life Well Wasted](https://alifewellwasted.com/)*
+
+[Max Frequency](https://www.maxfrequency.net/)
+
+[[Chapter Select]] @ChapterSelect
+
+[Max’s Twitter @MaxRoberts143](https://www.twitter.com/MaxRoberts143)

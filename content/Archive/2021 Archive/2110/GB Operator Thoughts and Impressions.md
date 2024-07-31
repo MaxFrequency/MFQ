@@ -1,0 +1,60 @@
+---
+Published: 2021-10-04
+URL: https://maxfrequency.net/2021/10/04/gb-operator-review/
+permalink: 2021/10/04/gb-operator-review/
+tags:
+  - Nintendo/GameBoy
+  - Nintendo/GBA
+  - Review
+---
+> [!info] Notice:
+> This GB Operator was provided for review by Epilogue. I reached out and asked if they’d be willing to do so and they were kind enough to oblige.
+
+It is a [secret to everybody](http://secrettoeverybody.com/) that I have spent plenty of time and money in pursuit of archiving my game collection and emulating it in high fidelity. From [[MiSTer FPGA Thoughts and Impressions – My Tool for Researching the Past|building my own MiSTer]] to buying premium products from [[My Journey to Playing with Super Power – Thoughts on the Super NT|Analogue]] to upgrading original hardware, [[Preserving and Rediscovering My Game Collection|I have fallen in love with digitizing my physical games]]. It provides me with a peace of mind, freedom of accessibility, and it’s just plain fun to tinker and experiment.
+
+I think a place folks like myself often start out at is with the Game Boy line of systems and games. Spanning 32 years, Nintendo’s iconic handheld line is near and dear to many. I dove in head first with the Gamecube and its Game Boy Player: Real GBA hardware slapped on the bottom of Nintendo’s powerful cube.
+
+One [tidbit](https://youtube.com/watch?v=_tVJYdZRAXg&t=1869) I picked up from My Life in Gaming was that through the power of homebrew I could dump my Game Boy Advance games and saves to an SD card. This method wouldn’t work Game Boy or Game Boy Color games though, due to the system booting directly into the relevant mode. Between waiting for my [[Analogue Pocket Preview|Analogue Pocket]] and building my MiSTer, I decided to use the hardware at my disposal to digitize my GBA collection.
+
+This was a tedious process. I had to reset or power the GameCube on and off each dump. Some carts would work, others needed to be cleaned. Pokémon saves were different than other games. I figured it all out, but it definitely took time and research.
+
+While waiting for the Analogue Pocket and its presumed ability to dump games like their other consoles, I learned about a new little device called the [GB Operator](https://www.epilogue.co/product/gb-operator) from a company called Epilogue.
+
+This $50 “cartridge slot for your computer” removes all confusion from handling Game Boy games in a modern way. It tears down the barriers for preserving save data, just one dead battery away from vanishing. It makes playing these games in higher resolutions plug-n-play. The typical emulation process, which can be filled with forums, technical specs, and sketchy websites is refined to a clean and clear product. While it does not have all the features a user may want, the initial launch and 0.7 beta software promises a strong foundation for the future of Epilogue’s product.
+# The Hardware
+
+I love the look of the GB Operator. The see-through plastic immediately calls me back to the transparent Game Boy consoles I grew up with. Without a screen though, the games and their labels face you and show themselves off for a change. You can finally see your funky colored [[leafgreen-in-gbo.jpg|Pokémon game in all its translucent glory]] or the bright pop of *Metroid Fusion*‘s striking blue label.
+
+With the circuit board on display for all to see, Epilogue came up with a real nice design. From the black PCB to the flush ribbon cable that connects the cartridge slot to the board, it’s a beautiful object that I don’t want to tuck away when I am not using it.
+
+Thankfully, the GB Operator employs the use of USB-C for its means of connection. It’s a small, but modern progression that makes me enjoy the GB Operator more. I did have an issue connecting it to my iMac through a Thunderbolt dock. Using both the provided USB-A to USB-C cable and my own USB-C cable, the GB Operator would not connect through my Thunderbolt dock at all. This meant that the included cable was not usable with my iMac at all. Thankfully, I had a slew of USB-C cables to chose from a directly plug into my iMac. If you’re computer only has USB-C ports (most likely only an issue for those on a Mac), you’ll need to have a C-to-C cable.
+
+Once you do have the GB Operator plugged in, the LED will shine bright and you can start popping in cartridges. Well, you also need to download their [Operator software](https://www.epilogue.co/downloads).
+# The Software
+
+The Operator software is the real brains behind the (GB) operation. As I write the review, it is currently in 0.7.1 beta across macOS, Windows, and Linux. Being in beta has led to some bugs and quirks. Epilogue does have a [roadmap](https://support.epilogue.co/hc/en-us/articles/4405966582674-Operator-Roadmap) for Operator, which is comforting to see what is coming down the pipeline. Some of these [near-term updates](https://support.epilogue.co/hc/en-us/articles/4405966784658-v0-8-beta-Planned-Features) contain important features like borderless full-screen and support for “most common controllers.” For example, my 8BitDo SN30 Pro doesn’t appear in Operator (Bluetooth or wired), but my 8BitDo Arcade stick does show up. Other features coming are more esoteric, like using a Game Boy Camera s a webcam.
+
+As for the current state of Operator, I has its cornerstone features in place to build upon. It reads games when placed in the cartridge slot, pulling in the artwork and a description. You can play the games using their version of the popular mGBA emulator. You can backup both the game and its save to your computer, or even upload a save to the cartridge.
+
+That is the feature I wanted to dig into first. I grabbed all of my Game Boy and Game Boy Color games and got to backing up. Within three to five minutes, I had all 10 of them dumped to my SSD and transferred over to my MiSTer and the [[Delta 1.3 Thoughts & Impressions|Delta emulator on my phone]]. Compared to the hour or so it took to transfer all 16 or so Game Boy Advance games with my GameCube setup, this was delightful. No fuss whatsoever.
+
+There is even an upload feature for writing save data to the cartridge and writing a game to a rewritable cartridge. I tossed in my copy of Pokémon Blue, played through a battle, saved – all in Operator’s emulator. When I saved and ended the emulation, Operator prompted me to ask if I wanted to overwrite the save data on the cartridge. I did and immediately put the game in my [[The Spice of Life – Adding a Spice Orange GameCube to my Collection|Spice Orange GBA]]. Sure enough, the save was updated to what I had just played on my iMac.
+
+This feature alone is a night and day difference to what I have previously experienced. I allows me to access *all* of my Game Boy games, not just the GBA titles. I can move data to and from the games: This will make playing a game on my MiSTer then transferring it to my phone or the original game a breeze. With the power to dump the games, you are given the flexibility to use the ROMs wherever you’d like, which you may want to do until Operator gets more features.
+
+Operator’s version of mGBA works functionally well. The games are crisp and appear to run initially at a 4.5x scale, based off my [[211004_gbo_4.5x.jpg|comparison]] between it and my macOS emulator application of choice OpenEMU. You can scale the Operator window, but without proper scaling tools/options, I was never sure what the games were running at.
+
+The roadmap I mentioned earlier presents a paint by numbers picture of where Operator currently stands compared to fuller featured emulators. The early and important numbers are shaded in— actually playing the game, some controller support, rich sound — but all the tiny later numbers are still being worked on — shaders, scalers, cheat support, pausing the emulator, etc. Eventually, the pictures will look similar, maybe shaded differently, but I am confident Operator will be fully featured by version 1.0.
+
+Another interesting bit I noticed was that the game cartridge has to stay inserted the entire time while emulating the game. Pull it out and the emulation ends immediately. This is just like non-jailbroken Analogue systems: to play a game, you need the cartridge to supply the ROM. Similarly, the GB Operator has to be plugged in for the Operator software to work. I wish Operator would create a game library and store my digital copies there. I would love for Operator to go in this direction and be a digital library of my collection that beautifully presents them and runs them. Maybe this is to prevent legal repercussions and encouraging piracy. I’m not quite sure, but the fact that I can still get the files off the cartridge and manage them how I see fit is a win.
+
+Here are some of the other bits and bobs I noticed in my testing:
+
+- Some of the box art Operator would display for the game would be [[210930_gbo_pinball_box.jpg|oddly colored]] or be the [[210930_gbo_drmario.jpg|Japanese version]] (even for a NA cartridge). I’m curious what database these are pulled from, it even matched the art originally displayed in Delta on iOS. Thankfully, Delta let’s you change the box art. I hope Operator will allow that some day.
+- Similarly, the [[210930_gbo_mgs.jpg|game descriptions]] occasionally had typos or grammatical errors. Some would be so long, that they’d be cut off and you couldn’t finish reading them.
+- My copy of *Frogger 2* was [[211001_gbo_frogger2.jpg|unidentifiable]] to Operator. I could [submit information](https://support.epilogue.co/hc/en-us/articles/360021972360-How-can-I-add-a-game-to-the-database-) via email so that the game could be included in a future update.
+- The GB Operator is quite sensitive to dirty contacts. I had to clean my copy of *Super Mario Land 2: 6 Golden Coins* before it would be loaded by the device.
+- I had a similar issue with *The Legend of Zelda: Minish Cap*. This cartridge has always given me trouble for some reason, even with original hardware. After a cleaning, my GBA would load the game instantly, but the GB Operator took some finagling.
+- The GB Operator also offers reproduction cart detection. To test this, I went out and bought a reproduction of *Pokémon Emerald*. While [[img_4785.jpg|popping open the cartridge]] makes it readily apparent that it was a fake, not everyone has the tools to do so. The software [[210930_gbo_emerald_fake_close.jpg|immediately]] recognized the reproduction cart and offered me the option to upload a ROM to the cartridge. 👀
+
+The GB Operator is sleek, simple, and versatile. Even with beta software, the future of both the GB Operator and Epilogue is bright. For the enthusiast, it is an affordable tool for preservation, development, and emulation. For the lapsed fan that found a box of old games in their parent’s attic, it is a window to their past with modern accessibility. Epilogue has struck that balance beautifully. There is power in its elegance. The GB Operator truly is a “cartridge slot for your computer.”

@@ -1,0 +1,38 @@
+---
+Published: 2020-04-11
+Publication: 
+URL: https://maxfrequency.net/2020/04/11/the-meta-form-of-art-john-gruber/
+tags:
+  - Halo
+  - Avengers
+  - NaughtyDog
+  - Tetris
+permalink: 2020/04/11/the-meta-form-of-art-john-gruber/
+---
+I was listening to [“Episode 281: ‘A Kryptonian Baby’, With Rene Ritchie”](https://overcast.fm/+B7NCK7OZo/10:55) of [The Talk Show with John Gruber](https://daringfireball.net/thetalkshow/) this past week and John shared his opinion on film and how it culminates the arts. You can click the link in the episode title to be taken right to the chunk of the episode I am referring to, if you’d like. John says he considers movies to be the meta form of art because movies contain all other art.
+
+Those forms of art are:
+
+- The writing of fiction
+- Acting and the actor’s ability to own a character and bring them to life
+- Photography
+- The art/language of cinema
+- Music
+
+During this quarantine, it seems to have idly occurred to John why credits are so long (he said this with a chuckle, I’m sure John knew beforehand why credits are so long). John’s opinion got me thinking: Video games can have all of that plus interactivity and the design challenges that come with it.
+
+I’m not writing this to argue with John or try to change his mind. That would be pointless, rude, and silly. I just want to talk about video games and John has given me something to chew on.
+
+The interactivity in games thrives at creating empathy between the player and the game character. There is just something about putting people in control of a character that can make the player feel a sense of ownership. But with this new category of interactivity, the bar to entry goes up. There is an inherent skill level to playing a game. That bar is getting lower every year with developers making games more [accessible](https://www.youtube.com/playlist?list=PLc38fcMFcV_vvWOhMDriBlVocTZ8mKQzR) than ever. The [Xbox Adaptive controller](https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller) is a feat unto itself and opens the doors on millions of games for millions of people. It is wonderful to see games becoming more approachable than ever.
+
+It helps when nearly everyone has a gaming device in their pocket. Whether it is playing a quick round of *Threes* or watching a person stream a round of Fortnite on Twitch, more eyes are on gaming than ever before. It certainly helps explain why the video game industry has the highest revenue in entertainment. In [2019](https://www.superdataresearch.com/reports/2019-year-in-review) alone, video games generated $120 billion! Mobile gaming alone made over $64 billion.
+
+That’s 43 [Avengers: Endgame worldwide box office records.](https://www.boxofficemojo.com/releasegroup/gr3511898629/)
+
+When think about interactivity as art, my brain immediately goes to Naughty Dog, because [[Announcing Chasing the Stick|they have been on my mind quite a bit lately]]. So to avoid running the well dry, let’s turn to Nintendo and Xbox.
+
+[[Remembering SWAT and Factions|I recently replayed half of the Halo games]] with some friends. During [the high-action opening of Halo 5: Guardians](https://youtube.com/watch?v=44oJi5w2Wjc&t=79), I couldn’t help but feel that it would have been much cooler to play it instead of watch it. Nearly all the moves that the characters perform in the cinematic are actions you can implement in play, with a chunk of them being brand new to the *Halo* series. Especially with a new group of characters (except for Buck), I feel like playing through this rush down a mountain would have amped fans up while showcasing just what these new Spartans are capable of, while teaching the new mechanics for a nearly 15-year-old series at the time.
+
+On the other end of the scale, Nintendo gives players the keys to the kingdom in *The Legend of Zelda: Breath of the Wild*. Nintendo teaches you the new mechanics in the game’s opening area: Players learn about the new physics, tools, and environments all through interaction. It eases you into this new version of Hyrule with engagement rather than show and tell.
+
+Not all games have “main characters” or even stories to follow. Just look at mega popular games such as *Tetris* or *Candy Crush*. Despite what the Tetris company [would like you to believe](https://www.theverge.com/2016/6/27/12048422/tetris-movie-trilogy-why), those [Tetrominoes](https://en.wikipedia.org/wiki/Tetromino) are not characters. So not every game will get players to engage on an emotional or critical level, but movies don’t either. If it all did, I think it’d be exhausting. Sometimes you need just the bombast of a Halo game or an [[Remembering Avengers - Endgame|Avengers]] movie. Other times you want to engage with the art like with [Journey](https://thatgamecompany.com/journey/) or [Parasite](https://en.wikipedia.org/wiki/Parasite_(2019_film)). Sometimes you just want to be stressed out to the max like when playing *Resident Evil 7* in VR or when watching *Uncut Gems*. It’s that added edge of interactivity that I think can elevate video games to the top. Maybe next time you’ll stick around for the [credits](https://youtube.com/watch?v=RLOPbZECC4E&t=192) in a video game too.

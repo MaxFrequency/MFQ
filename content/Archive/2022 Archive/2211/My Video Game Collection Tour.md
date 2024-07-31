@@ -1,0 +1,34 @@
+---
+Published: 2022-11-08
+URL: https://maxfrequency.net/2022/11/08/my-video-game-collection-tour/
+permalink: 2022/11/08/my-video-game-collection-tour/
+tags:
+  - Video
+  - YouTube
+  - Collection
+---
+I made a video.
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_FRIsnYMNfw?si=qhzmdiZHqVEY0ZGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+[My Massive Video Game Collection!](https://youtube.com/watch?v=_FRIsnYMNfw)
+
+I know the title and thumbnail are in the clickbait vein of YouTube. I feel a twinge of cringe at it.
+
+But, I also sort of had fun making it that way. 😬
+
+I made this tour video for a slew of reasons. I suppose the first is because I wanted to make it. I haven’t made [a game collection video since December 13, 2008](https://youtu.be/0vvE1FclYV0)—near 15 years ago! You could say I was on the cutting edge of game collection videos; and all I made those videos with was my cell phone.
+
+Well, I also made this new one with my cell phone. From 480p on a sliding keyboard phone to 4K60 on an iPhone 14 Pro Max; the leap in quality in just 15 years astounds me. I mounted the iPhone in a phone grip from Elgato and onto a handheld tripod I have lying around. I even wrapped my Apple Watch around the side to try and use as a view finder. I wish I had the thought to not point the camera up my nose. I’ll fix that next time.
+
+I have all these cameras and microphones around. I want to use them more and more. I’ve spent a bit of the year doing [live streams on YouTube](http://maxfrequency.live/) and have had a ton of fun doing so. I recently bought some upgrade to make streams a bit better, once I find a good time to regularly stream again. Having a one month old has made time fly by lately. This video was a way to utilize some of those tools, while Abby and Eloise were out of the house.
+
+This project was also meant to help push my editing technique. I tried to implement cuts and have some sort of pace. At 28 minutes, the pace could be much better. I threw in some jokes and sound effects, hopefully in a manner that elevates the content.
+
+I was nervous to edit this video. I knew I wanted it to be more “modern” (i.e. clickbaity) and I’ve often refrained more presenting my work that way. I do the work and let it speak for itself. I left the files on my computer for a few days after shooting, wondering if I’d go through with producing and publishing it. Since I’ve run out of podcasts to edit at the moment, I decided to give it a go.
+
+It didn’t take long into the edit to realize I had nothing to be nervous about. I was having fun in post-production too. The creative process has been instrumental to my life this year as a consistent outlet for me. I find myself pushing my own boundaries and trying mew ideas.
+
+I enjoy seeing other folks’ collections and talking about them. I have [[Gear|a gear page]] here on Max Frequency (which is due for another update). It’s much easier to show these off in video rather than in writing. If you check out the video, I hope you enjoy!

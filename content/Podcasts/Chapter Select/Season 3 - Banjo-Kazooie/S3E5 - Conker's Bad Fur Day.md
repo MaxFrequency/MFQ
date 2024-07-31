@@ -1,0 +1,60 @@
+---
+Guest: 
+Recording Date: 2022-07-09
+Published: 2022-07-13
+tags:
+  - CS
+  - Nintendo/N64
+  - Xbox
+URL: https://maxfrequency.net/2022/07/13/cs-s3e5/
+permalink: 2022/07/13/cs-s3e5/
+---
+![[S3E5 Art.jpg]]
+
+Banjo and Kazooie weren’t the only 3D platformer mascots Rare created for the Nintendo 64. Often lauded as one of the console’s best, Max Roberts and Logan Moore decided to both play *Conker’s Bad Fur Day* for the very first time. Was Rare firing on all cylinders in the late 90s or is *Conker* actually a great and mighty pile of poo?
+
+<audio controls>
+  <source src="https://traffic.libsyn.com/chapterselectpod/CS_S3E5_Final.mp3">
+</audio>
+
+- *[Download](https://traffic.libsyn.com/chapterselectpod/CS_S3E5_Final.mp3) (40MB)  — [[CS_S3E5_Transcript_Conk.pdf|Episode Transcript]]*
+- [RSS Feed](https://chapterselectpod.libsyn.com/rss)
+- [Overcast](https://overcast.fm/itunes1568777352/chapter-select)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/chapter-select/id1568777352)
+- [Spotify](https://open.spotify.com/show/4f1TLZXbwtSX7uHROe9KlS)
+
+> [!scs]+ S3E5 Super Edition
+> On Super Chapter Select: Max and Logan review *Thor: Love & Thunder* and talk about drowning in *Star Wars* content.
+> [Download](https://traffic.libsyn.com/chapterselectpod/CS_S3E5_Member_Edition.mp3) (53MB)
+
+# *Conker’s Bad Fur Day*
+
+Developer – Rare
+Platform – Nintendo 64 (Xbox)
+Release Date – March 5, 2001 (June 21, 2005 for Xbox)
+Game Director – [Chris Seavor](https://rare.fandom.com/wiki/Chris_Seavor)
+Producer – ?
+Composer – [Robin Beanland](https://en.wikipedia.org/wiki/Robin_Beanland)
+
+[Metacritic](https://www.metacritic.com/game/nintendo-64/conkers-bad-fur-day) – 92/100 (78/100 for [Xbox](https://www.metacritic.com/game/xbox/conker-live-reloaded))
+# Links
+
+- [*Conker’s Bad Fur Day* Wikipedia](https://en.wikipedia.org/wiki/Conker%27s_Bad_Fur_Day)
+- [The Making of *Conker’s Bad Fur Day*](https://youtu.be/IN-YRqbEkKE)
+- [Rare Revealed: A Rare Look at *Twelve Tales: Conker 64*](https://youtu.be/dDnvVbdEs7c)
+- [*Conker’s Bad Fur Day* Marketing](https://en.wikipedia.org/wiki/Conker%27s_Bad_Fur_Day#Marketing_campaign)
+- [*GoldenEye 007* by Alyse Knorr](https://bossfightbooks.com/products/goldeneye-007-by-alyse-knorr)
+- Soundtrack
+	- [Spotify (Live & Reloaded)](https://open.spotify.com/album/0SoND9QOup7ZPmx6ASMVSO)
+	- [YouTube](https://youtube.com/playlist?list=PLD07895DD80131E06)
+
+---
+This episode was originally recorded on July 9, 2022.
+
+[@ChapterSelect](https://www.twitter.com/chapterselect)
+[Max’s Twitter @MaxRoberts143](https://www.twitter.com/maxroberts143)
+[Logan’s Twitter @MooreMan12](https://www.twitter.com/mooreman12)
+
+Researcher, Editor, and Producer – Max Roberts
+Hosted by Logan Moore & Max Roberts
+[Font](https://www.reddit.com/r/BanjoKazooie/comments/etfrrz/i_tried_to_recreate_the_banjotooie_font_you_guys/) by [Oakland Elliff](https://twitter.com/oakieland). Art designed by Max Roberts.

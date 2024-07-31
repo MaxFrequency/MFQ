@@ -1,0 +1,16 @@
+---
+Published: 2021-02-23
+URL: https://maxfrequency.net/2021/02/23/analogue-pocket-limited-quantity-edition-supply-chain-release/
+permalink: 2021/02/23/analogue-pocket-limited-quantity-edition-supply-chain-release/
+tags:
+  - Analogue
+---
+[2021: Pocket, Bots, Scalpers, Limited Quantities vs Limited Editions and Customer Support – 2/22/21 – Analogue](https://support.analogue.co/hc/en-us/articles/360052609632-2021-Pocket-Bots-Scalpers-Limited-Quantities-vs-Limited-Editions-and-Customer-Support-2-22-21)
+
+> The current global state of affairs has resulted in consequences that have affected the worldwide supply chain and this has temporarily slowed our ability to keep many of our products in stock (Super Nt, Mega Sg) and reduced production capacity for Pocket. We are aware that many users are frustrated that Pocket pre-orders sold out quickly and both Super Nt and Mega Sg are currently unavailable.
+> 
+> Pocket is not a Limited Edition product.  See below for a description of all terminology Analogue products are presented in. More Pockets will be available for purchase in 2021. With all things considered, we will be doing our best to keep Pocket in stock in 2021. Please sign up for a Stock Notification at analogue.co/store and you will be sent an email when Pocket will be available to purchase.
+
+Analogue went all out with communication with their audience and being more transparent. It seems the company has heard the cries about the [[Analogue Pocket Sells Out in 10 Minutes|rough Pocket pre-order process]] and the their [[Analogue Consoles Entirely Out of Stock|stock of other consoles being low/limited]]. This news comes as a positive sign that Analogue may be more open in the future. They still shared this information just months away from the [[Analogue Console Restock Incoming|restock of the Super NT, Mega SG, and DAC]] and the release of the [[Analogue Pocket Pre-Orders Go Live on August 3|Pocket]], but some communication is better than none!
+
+Between the restock, (hopefully) steady supply of Pocket consoles, and the launch of the Duo, Analogue is shaping up to have a solid 2021.

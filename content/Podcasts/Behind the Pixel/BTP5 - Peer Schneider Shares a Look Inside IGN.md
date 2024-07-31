@@ -1,0 +1,51 @@
+---
+Guest: Peer Schneider
+Recording Date: 2017-07-26
+Published: 2017-07-28
+tags:
+  - MFP
+  - IGN
+  - Nintendo/N64
+URL: https://maxfrequency.net/2021/07/27/btp-05/
+permalink: 2021/07/27/btp-05/
+---
+> [!info]
+> Part of creating *The Max Frequency Podcast* was to restore all the episodes of *Behind the Pixel*, an interview show I did in 2017 for seven episodes. These will be mixed into this feed so that the show can live on podcast services once more. Below are the original show notes, with some light editing. I hope you enjoy.
+
+<audio controls>
+  <source src="https://traffic.libsyn.com/forcedn/maxfrequency/BTP_Ep5_Peer.mp3">
+</audio>
+
+- *[Download](https://traffic.libsyn.com/forcedn/maxfrequency/BTP_Ep5_Peer.mp3) (32MB)*
+- [RSS Feed](https://maxfrequency.libsyn.com/rss)
+- [Overcast](https://overcast.fm/itunes1557043396)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-max-frequency-podcast/id1557043396)
+- [Spotify](https://open.spotify.com/show/3W1LwBNmhZ6s5QmQViWXKn)
+
+Co-founder of IGN, Peer Schneider sits down with Max Roberts to offer a look inside the world’s largest gaming website—IGN. Peer shares about bringing video games back on TV, reacting and responding to the audience, and how to keep reporting entertainment and gaming news fresh over the course of 20 years. With 156 million monthly users across 12 platforms, IGN is a massive machine. Join us for a peek at the parts the make it all work and the community that fuels it.
+
+Follow Peer on Twitter [@PeerIGN](https://www.twitter.com/PeerIGN)
+Follow [IGN](https://ign.com/) on Twitter [@IGN](https://www.twitter.com/ign).
+# Dope facts about Peer Schneider
+
+- Peer is a meme. For real. [Check it out](http://knowyourmeme.com/memes/reaction-guys-gaijin-4koma#fn3).
+- Peer grew up in Germany, went to college in Japan, and now helps run IGN in America.
+- [Peer wrote the IGN review for *Paper Mario and the Thousand Year Door*](http://www.ign.com/articles/2004/10/12/paper-mario-2-the-thousand-year-door?page=1). I love that game dearly.
+# Links to articles mentioned in the interview
+
+(Listed in order of publication date)
+
+- [N64.com](https://web.archive.org/web/19961221020752/http://www.n64.com:80/n64_ext_stan.html)
+- [Imagine Games Network](https://web.archive.org/web/19961221193045/http://www.imaginegames.com:80/) (Original Website)
+- [Origins: The History of IGN](http://www.ign.com/articles/2008/01/11/origins-the-history-of-ign)
+- [Airship Travelogues Episode 006: IGN64 Nostalgia](http://www.nintendojo.com/features/podcasts/airship-travelogues/airship-travelogues-episode-006-ign64-nostalgia)
+- [Peer Schneider (Special Guest) – Kinda Funny Gamescast Ep. 89](https://www.youtube.com/watch?v=KISCGZ4Chz4)
+- [IGN X Twitter E3 2017 Coverage Press Release](http://corp.ign.com/press/2017/ign-entertainment-and-twitter-announce-week-long-exclusive-global-live-stream-partnership-for-e3-expo-2017)
+- [Don’t Die Interview with Peer Schneider](https://nodontdie.com/peer-schneider/)
+- [Action and Reaction with Peer Schneider: Pockets Full of Soup Ep. 48](https://www.youtube.com/watch?v=u4Y68PwnQoE)
+- [Games You Should Be Playing Right Now – The IGN Show EP. 7](http://www.ign.com/videos/2017/07/26/games-you-should-be-playing-right-now-the-ign-show-ep-7)
+
+> [!quote]
+> “If you frequent websites and YouTube channels and Twitch streams and you like something, say so. You do not understand how important it is to laud people for a job well done. And usually, we have this reaction where we want to say ‘That was awesome’ and step away. You can’t do that. Just like when you are angry—so important to give feedback when you are angry or when you disagree, very important to give that feedback—but remember to do it when you like something.” — Peer Schneider on Action and Reaction with Peer Schneider: Pockets Full of Soup Ep. 48.
+
+*This episode was recorded on July 26, 2017.*

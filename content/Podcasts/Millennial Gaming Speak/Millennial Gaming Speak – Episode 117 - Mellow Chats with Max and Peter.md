@@ -1,0 +1,28 @@
+---
+Recording Date: 
+Published: 2017-11-07
+Hosts:
+  - Max Roberts
+  - "[[Peter Spezia]]"
+URL: https://maxfrequency.net/2017/11/07/mgs-117/
+tags:
+  - MGS
+permalink: 2017/11/07/mgs-117/
+---
+<iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-117-Mellow-Chats-with-Max-and-Peter-e1adhqn/a-a6ts407" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
+
+# Show Description
+
+Max has returned to the Internet! And Logan has disappeared from MGS! To fill the void Logan left behind, friend-of-the-show Peter Spezia joins Max for a mellow discussion of things Max missed along with the latest impressions on video games and their news.
+
+Follow Max and Logan on Twitter!
+
+@MGSpodcast
+@MaxRoberts143
+@MooreMan12
+
+Email us at mgspodcast@gmail.com
+
+Intro and Outro song is “OHC3” by Kris Keyser

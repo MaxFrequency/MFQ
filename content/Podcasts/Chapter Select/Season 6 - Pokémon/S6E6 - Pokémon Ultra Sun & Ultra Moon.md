@@ -1,0 +1,61 @@
+---
+Guest: "[[Grant Callahan]]"
+Recording Date: 2023-07-12
+Published: 2023-11-01
+tags:
+  - CS
+  - Pokémon
+  - Nintendo/3DS
+URL: https://maxfrequency.net/2023/11/01/chapter-select-s6e6/
+permalink: 2023/11/01/chapter-select-s6e6/
+---
+![[S6E6 Art.jpg]]
+
+It’s time to catch some waves and some Pokémon! Kanto-natives Max Roberts and Logan Moore are joined by islander Grant Callahan to explore the interdimensional tropics of *Pokémon Ultra Sun* and *Ultra Moon*. Does breaking tradition lead to a better game or was this a trial that Game Freak couldn’t complete?
+
+<audio controls>
+  <source src="https://traffic.libsyn.com/chapterselectpod/CS_S6E6_Final.mp3">
+</audio>
+
+- *[Download](https://traffic.libsyn.com/chapterselectpod/CS_S6E6_Final.mp3) (56MB)  — [[CS_S6E6 Transcript_ults.pdf|Episode Transcript]]*
+- [RSS Feed](https://chapterselectpod.libsyn.com/rss)
+- [Overcast](https://overcast.fm/itunes1568777352/chapter-select)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/chapter-select/id1568777352)
+- [Spotify](https://open.spotify.com/show/4f1TLZXbwtSX7uHROe9KlS)
+
+> [!scs] Super Chapter Select
+> Super Chapter Select is a premium version of the show that provides access to longer and exclusive episodes, as well as bonus videos. Sign up for [$2.50/month](https://maxfrequency.memberful.com/checkout?plan=99142) or [$20/year](https://maxfrequency.memberful.com/checkout?plan=76115) to gain access to everything!
+
+# *Pokémon Sun* and *Moon*
+
+- Developer – Game Freak
+- Platform – Nintendo 3DS
+- Release Date – November 18, 2016
+	- November 17, 2017 for *Ultra*
+- Game Directors – [Shigeru Ohmori](https://en.wikipedia.org/wiki/Shigeru_Ohmori) (*Sun/Moon*) and [Kazumasa Iwao](https://nintendo.fandom.com/wiki/Kazumasa_Iwao) (*Ultra*)
+- Producers – [Junichi Masuda](https://en.wikipedia.org/wiki/Junichi_Masuda), [Shin Uwai](https://www.mobygames.com/person/593405/shin-uwai/), [Takato Utsunomiya](https://nintendo.fandom.com/wiki/Takato_Utsunomiya), and [Hitoshi Yamagami](https://nintendo.fandom.com/wiki/Hitoshi_Yamagami)
+	- Same as base *Sun* and *Moon*, [Takanori Sowa](https://www.mobygames.com/person/841851/takanori-sowa/) and [Shigeru Ohmori](https://en.wikipedia.org/wiki/Shigeru_Ohmori)(*Ultra*)
+- Composers – [Minako Adachi](https://nintendo.fandom.com/wiki/Minako_Adachi), [Go Ichinose](https://nintendo.fandom.com/wiki/Go_Ichinose), [Junichi Masuda](https://en.wikipedia.org/wiki/Junichi_Masuda), [Tomoaki Oga](https://www.mobygames.com/person/850796/tomoaki-oga/), [Hitomi Sato](https://nintendo.fandom.com/wiki/Hitomi_Sato_(Game_Freak)), and [Hideaki Kuroda](https://www.mobygames.com/person/566298/hideaki-kuroda/)
+	- [Minako Adachi](https://nintendo.fandom.com/wiki/Minako_Adachi), [Go Ichinose](https://nintendo.fandom.com/wiki/Go_Ichinose), [Junichi Masuda](https://en.wikipedia.org/wiki/Junichi_Masuda), and [Tomoaki Oga](https://www.mobygames.com/person/850796/tomoaki-oga/) (*Ultra*)
+
+[Metacritic](https://www.metacritic.com/game/3ds/pokemon-sun) – 87/100 ([84/100](https://www.metacritic.com/game/3ds/pokemon-ultra-sun) for *Ultra*)
+# Links
+
+- [*Pokémon Sun* and *Moon* Wikipedia](https://en.wikipedia.org/wiki/Pokémon_Sun_and_Moon)
+- [*Pokémon Ultra Sun* and *Ultra Moon* Wikipedia](https://en.wikipedia.org/wiki/Pokémon_Ultra_Sun_and_Ultra_Moon)
+- [Battling Professor Oak](https://www.thegamer.com/pokemon-gen-1-hidden-oak-battle-genius/)
+- [Defending the Your Championship](https://www.serebii.net/ultrasunultramoon/elitefour.shtml)
+- Soundtrack
+	- [YouTube](https://youtube.com/playlist?list=PL7arMfuVnQpjWCxwEIKPS_2aIoLf0LDDQ)
+
+---
+*This episode was originally recorded on July 12, 2023.*
+
+[@ChapterSelect](https://www.twitter.com/chapterselect)
+[Max’s Twitter @MaxRoberts143](https://www.twitter.com/maxroberts143)
+[Logan’s Twitter @MooreMan12](https://www.twitter.com/mooreman12)
+[Grant’s Threads @grant__callahan](https://www.threads.net/@grant__callahan)
+
+Researcher, Editor, and Producer – Max Roberts
+Hosted by Logan Moore & Max Roberts
+Art inspired by the *Pokémon Ultra Sun* start screen, designed by Max Roberts

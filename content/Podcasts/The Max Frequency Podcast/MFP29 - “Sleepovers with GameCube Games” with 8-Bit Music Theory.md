@@ -1,0 +1,75 @@
+---
+Guest: "[[8-Bit Music Theory]]"
+Recording Date: 2023-07-13
+Published: 2023-07-14
+tags:
+  - MFP
+  - Nintendo/GameCube
+  - Jazz
+  - YouTube
+  - Beatles
+URL: https://maxfrequency.net/2023/07/14/mfp-29/
+permalink: 2023/07/14/mfp-29/
+---
+8-Bit Music Theory stops and bops on by to edutain Max on the musician behind the theory and explore the journey of making a GameCube jazz fusion album.
+
+<audio controls>
+  <source src="https://traffic.libsyn.com/maxfrequency/MFP29_Final.mp3">
+</audio>
+
+- *[Download](https://traffic.libsyn.com/maxfrequency/MFP29_Final.mp3) (38MB)  — [[MFP29 Transcript.pdf|Episode Transcript]]*
+- [RSS Feed](https://maxfrequency.libsyn.com/rss)
+- [Overcast](https://overcast.fm/itunes1557043396)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-max-frequency-podcast/id1557043396)
+- [Spotify](https://open.spotify.com/show/3W1LwBNmhZ6s5QmQViWXKn)
+
+# Show Notes
+## Casiopea
+
+- [CASIOPEA LIVE](https://music.apple.com/us/album/casiopea-live/1535035229)
+## The Drummer Behind 8-Bit
+
+- [WUCF 89.9 FM Jazz & More](https://www.wucf.org/listen/)
+- [*The Songwriting Secrets Of The Beatles* by Dominic Pedler](https://www.amazon.com/Songwriting-Secrets-Beatles-Dominic-Pedler-ebook/dp/B003NX6KSM/)
+## Edutainment
+
+- [The *Phoenix Wright* Musical Formula – 8-Bit Music Theory](https://youtu.be/ZKPXV4sg1uc)
+- [Every Frame A Painting](https://www.youtube.com/@everyframeapainting)
+- [*Voir* – Netflix](https://www.netflix.com/title/80990130)
+## 8-Bit Production
+
+- [Hitfilm](https://fxhome.com/product/hitfilm)
+- [Reaper](https://www.reaper.fm/)
+- [The Hype-est track from *Mega Man Battle Network* – 8-Bit Music Theory](https://youtu.be/H_a-78XJGl4)
+- [Game Score Fanfare](https://www.youtube.com/@GameScoreFanfare)
+- [*The Beatles: Get Back* – Disney+](https://www.disneyplus.com/series/the-beatles-get-back/7DcWEeWVqrkE)
+## The Copyright Dance
+
+- [[I’m Done Being a Content Creator – insaneintherainmusic]]
+- [Understanding the Magic of Joe Hisaishi MUTED – 8-Bit Music Theory](https://youtu.be/ovhS3HB80UA)
+	- [Unmuted Vimeo Version](https://vimeo.com/841096031)
+- [*Spider-Man* and the Effective Use of Musical Clichés – 8-Bit Music Theory](https://youtu.be/ibmGg-5xDDg)
+## *Let’s Play*
+
+- *Let’s Play* by 8-Bit & The Single Players
+	- [Music](https://music.apple.com/us/album/lets-play/1622346166)
+	- [Bandcamp](https://8bitmt.bandcamp.com/album/lets-play)
+	- [Spotify](https://open.spotify.com/album/0SoQt2Gjy6pUG47duACVua)
+	- [YouTube](https://youtube.com/playlist?list=PL-ZQIvQFPv4LU8jcoLiR2531AIu7mUWJx)
+- [Kind of Bloop](https://kindofbloop.com/)
+- [Kind of Screwed](https://waxy.org/2011/06/kind_of_screwed/)
+- [Ep 13: Analyzing Video Game Music with 8-bit Music Theory – Composer Code](https://composercode.com/ep-13/)
+- [How I Turned Rainbow Road into a Jazz Fusion Jam – 8-Bit Music Theory](https://youtu.be/5P_2aOzei_g)
+
+---
+# 8-Bit Music Theory
+
+- [8-Bit Music Theory’s YouTube Channel](https://www.youtube.com/8bitmusictheory)
+- [8-Bit Music Theory’s Patreon](https://www.patreon.com/8bitmusictheory)
+- [8-Bit Music Theory’s Twitter](https://twitter.com/8bitMusicTheory)
+
+[Max Frequency](https://www.maxfrequency.net/)
+
+[[Chapter Select]] @ChapterSelect
+
+[Max’s Twitter @MaxRoberts143](https://www.twitter.com/MaxRoberts143)

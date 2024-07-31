@@ -1,0 +1,59 @@
+---
+Recording Date: 2016-08-21
+Published: 2016-08-22
+Hosts:
+  - Max Roberts
+  - "[[Logan Moore]]"
+URL: https://maxfrequency.net/2016/08/19/mgs-55/
+tags:
+  - MGS
+  - PlayStation
+  - PlayStation/PSVR
+  - MetalGear
+  - Zelda/OoT
+permalink: 2016/08/19/mgs-55/
+---
+<iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-55-Ocarina-of-Time-in-Hindsight-e1adhua/a-a6ts43q" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Qol3_IJFceA?si=pmzuF5AqTduO2ILL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+%%
+https://www.youtube.com/live/Qol3_IJFceA
+
+# Show Notes
+
+## Intro
+
+- Max played more PS VR
+## News
+
+- Metal Gear Survive announced
+	- http://www.ign.com/videos/2016/08/17/metal-gear-survive-first-trailer-gamescom-2016 
+- PS4 Slim Leak
+	- http://www.neogaf.com/forum/showthread.php?t=1267071&page=19
+	- http://www.neogaf.com/forum/showthread.php?t=1267071 
+- Iterative consoles
+## Topics
+
+- OoT%%
+# Show Description
+
+Max finally finished *Ocarina of Time*! Logan talks with him about his experience with the game and what his thoughts are after playing it. They also talk about a leaked PS4 slim model that has shown up on Neogaf recently.
+
+[Logan’s article about Neo’s release date](http://playstationinsider.com/2016/08/opinion-youre-insane-if-you-think-the-playstation-neo-is-releasing-this-year/)
+
+Follow Max and Logan on Twitter!
+
+@MGSpodcast
+@MaxRoberts143
+@MooreMan12
+
+Email us at mgspodcast@gmail.com
+
+Intro and Outro song is “OHC3” by Kris Keyser
+
+Break song is “Gerudo Valley” by Koji Kondo from “*The Legend of Zelda: Ocarina of Time*.”

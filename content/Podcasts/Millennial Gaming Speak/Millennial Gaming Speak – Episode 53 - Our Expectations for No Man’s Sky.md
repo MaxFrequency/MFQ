@@ -1,0 +1,41 @@
+---
+Recording Date: 2016-08-07
+Published: 2016-08-08
+Hosts:
+  - Max Roberts
+  - "[[Logan Moore]]"
+URL: https://maxfrequency.net/2016/08/03/mgs-53/
+tags:
+  - MGS
+  - NoMansSky
+  - Pokémon
+  - Nintendo
+permalink: 2016/08/03/mgs-53/
+---
+<iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-53-Our-Expectations-for-No-Mans-Sky-e1adht2/a-a6ts44t" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/De6QWc1WuHo?si=SwOn-tsZwG-EYgL6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+%%https://www.youtube.com/live/De6QWc1WuHo%%
+
+# Show Description
+
+We give our thoughts on *No Man’s Sky* ahead of its release and then talk about the recent *Pokémon Sun* and *Moon* news. Later in the show, Max and Logan talk about their ideal NX launch year lineup and the times they stepped away from gaming.
+
+[*No Man’s Sky* Day “Zero” patch notes](http://www.no-mans-sky.com/2016/08/update-1-03/)
+
+Follow Max and Logan on Twitter!
+
+@MGSpodcast
+@MaxRoberts143
+@MooreMan12
+
+Email us at mgspodcast@gmail.com
+
+Intro and Outro song is “OHC3” by Kris Keyser
+
+Break song is “Asimov” by 65daysofstatic from “*No Man’s Sky*.”

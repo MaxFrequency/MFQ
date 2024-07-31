@@ -1,0 +1,19 @@
+---
+Published: 2022-06-23
+URL: https://maxfrequency.net/2022/06/23/michael-mumbauer-web3/
+permalink: 2022/06/23/michael-mumbauer-web3/
+tags:
+  - DaysGone
+  - Ashfall/TraceWar
+---
+[[PlayStation’s Blockbuster Garden|Michael Mumbauer]] has left That’s No Moon Entertainment roughly [[That’s No Moon Studio Announced, Former PlayStation Devs Behind It|one year after]] founding said developer. That’s No Moon was co-founded with a three other devs, including former PlayStation and Naughty Dog developer Taylor Kurosaki. Michael’s new studio – Liithos – is co-founded with John Garvin of PlayStation studio Bend fame.
+
+> The studio has assembled an impressive roster of award-winning talent including Michael Mumbauer, former Head of Visual Arts at Playstation (*The Last of Us*, *Uncharted*) and John Garvin, writer & co-creator of the massively successful open-world title *Days Gone*.
+> 
+> — Hedera on [Twitter](https://twitter.com/hedera/status/1539962613227933699)
+
+They are wholly leaning into Web3. A slate of NFTs already for sale.
+
+I wonder how long Michael will stay at Liithos.
+
+Update: Michael and John were clearly not in the room together when [this](https://pbs.twimg.com/media/FV8FAyDUsAAEpQx?format=jpg) photo was taken/made. Reminds me of [Beyoncé](https://www.buzzfeed.com/alliehayes/john-oliver-beyonce-photoshop-lion-king).

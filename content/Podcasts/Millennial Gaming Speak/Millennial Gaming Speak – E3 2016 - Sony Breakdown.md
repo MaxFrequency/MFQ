@@ -1,0 +1,77 @@
+---
+Recording Date: 2016-06-14
+Published: 2016-06-14
+Hosts:
+  - Max Roberts
+  - "[[Logan Moore]]"
+URL: https://maxfrequency.net/2016/06/12/mgs-e3-2016-playstation/
+tags:
+  - MGS
+  - E3
+  - PlayStation
+  - PlayStation/PSVR
+  - Detroit
+  - DaysGone
+  - GodOfWar
+  - Horizon
+  - ResidentEvil
+  - Farpoint
+  - StarWars
+  - FinalFantasy
+  - LastGuardian
+  - COD
+  - DeathStranding
+  - SpiderMan
+  - Arkham
+permalink: 2016/06/12/mgs-e3-2016-playstation/
+---
+<iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/E3-2016-Sony-Breakdown-e1adhsp/a-a6ts45l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cMUbxkcPSf8?si=sYUxfl-oESuPmgN1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+%%# Show Notes
+
+- God of War (4?) Live demo
+	- Norse mythology, little boy, beard, axe, gahhhhhh
+	- https://www.youtube.com/watch?v=CJ_GCPaKywg 
+	- http://blog.us.playstation.com/2016/06/13/first-look-santa-monica-studios-new-god-of-war-on-ps4/ 
+- Bend’s game- Days Gone Trailer
+	- Motorcycle rider, zombies, pretty, live demo to close show
+- The Last Guardian trailer
+	- Release on Oct. 25, 2016
+- Horizon Zero Dawn demo
+	- https://www.youtube.com/watch?v=T5Xx3MdqdgM 
+- Detroit: Become Human
+	- https://www.youtube.com/watch?v=QD1pbWCJcKQ 
+	- Full VR experience
+- Resident Evil 7 demo, full VR, demo out now
+	- https://www.youtube.com/watch?v=V_Hbr9ITvc0 
+- PS VR out Oct 13, 2016
+- Farpoint demo/trailer
+- Star Wars Battlefront VR mission
+- Batman Arkham VR, Rocksteady, out Oct 2016
+- FF XV trailer, VR experience announced with BREASTS
+- COD Infinite Warfare in VR, also footage of MW remaster. Gilly suit!
+- Crash Bandicoot remasters coming, 1-3
+- Kojima real time trailer for new game with Norman Reedus, Death Stranding
+	- https://www.youtube.com/watch?v=yC19PWQN6Hg 
+- Spider Man from Insomniac
+	- https://www.youtube.com/watch?v=3R2uvJqWeVg
+- Days Gone demo (I’m sure is discussed earlier)%%
+# Show Description
+
+Logan and Max breakdown day two of E3 2016 with Sony’s press conference!
+
+Follow Max and Logan on Twitter!
+
+@MGSpodcast
+@MaxRoberts143
+@MooreMan12
+
+Email us at mgspodcast@gmail.com
+
+Intro and Outro song is “OHC3” by Kris Keyser

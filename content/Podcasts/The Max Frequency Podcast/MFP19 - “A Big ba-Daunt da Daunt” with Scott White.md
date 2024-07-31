@@ -1,0 +1,86 @@
+---
+Guest: "[[Scott White]]"
+Recording Date: 2023-01-11
+Published: 2023-01-15
+tags:
+  - MFP
+  - MegaMan/BattleNetwork
+  - retro
+  - Collection
+  - ResidentEvil
+  - VR
+  - FinalFantasy
+URL: https://maxfrequency.net/2023/01/15/mfp-19/
+permalink: 2023/01/15/mfp-19/
+---
+As one of the four *Mega Man Battle Network* fans in the world, Scott White joins Max to talk about the Blue Bomber’s new collection, the love of (and fear of) RPGs, the power of VR, and retro game collecting.
+
+<audio controls>
+  <source src="https://traffic.libsyn.com/maxfrequency/MF19_Final.mp3">
+</audio>
+
+- *[Download](https://traffic.libsyn.com/maxfrequency/MF19_Final.mp3) (37MB)  — [[MFP19_Transcription.pdf|Episode Transcript]]*
+- [RSS Feed](https://maxfrequency.libsyn.com/rss)
+- [Overcast](https://overcast.fm/itunes1557043396)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-max-frequency-podcast/id1557043396)
+- [Spotify](https://open.spotify.com/show/3W1LwBNmhZ6s5QmQViWXKn)
+
+# Show Notes
+## Welcome
+
+- [[S1E3 - Paper Mario - The Thousand-Year Door]]
+## Becoming The Professor
+
+- [*Legend of Heroes: Trails of Cold Steel 3* Primer](https://irrationalpassions.com/professor-rpg-legend-of-heroes-trails-of-cold-steel-3-basics-primer/)
+- [*Alliance Alive* Primer](https://irrationalpassions.com/professor-rpg-the-alliance-alive-basics-primer/)
+- [RPG University Episode 1](https://podcasts.apple.com/us/podcast/rpg-university-episode-1-tales-of-vesperia-w-alex-oneill/id1477910451?i=1000448202946)
+## The Love and the Daunt of RPGs
+
+- [*Dragon Quest* Door/Stairs Menu](https://eu-images.contentstack.com/v3/assets/blt95b381df7c12c15d/bltb1c6cf41d6e0f9f1/611e48682baae13d22fdc90e/dq1-1.png?width=828&quality=80&format=webply&disable=upscale) via [Gamedeveloper.com](https://www.gamedeveloper.com/console/the-history-of-dragon-quest)
+- [*Final Fantasy III* (Now *FFVI*) Intro](https://youtu.be/8hvWxRBByt0)
+- [[Forgive Me Uematsu, For I Have Sinned – Final Fantasy VI by Sebastian Deken and Boss Fight Books|Max’s Review of Final Fantasy VI by Sebastian Deken]]
+## A *Resident Evil* Digression
+
+- [[S5 - Resident Evil|Chapter Select Season 5 – Resident Evil]]
+- [Max Streaming *Resident Evil 4 VR*](https://youtube.com/playlist?list=PLxCxW3Sbhy5Z7jiYi0aoQAU0ZRIaBjNJR)
+- [*Resident Evil 2* & *3* VR Mods](https://uploadvr.com/resident-evil-2-3-vr-mods-released/)
+- [*Resident Evil Village* PS VR2 Teaser](https://youtu.be/Q6kgFBKAfIk)
+- [[RE Engine May be the Most Flexible Proprietary Engine Out There]]
+## *Mega Man Battle Network Legacy Collection*
+
+- [Mega Man Battle Network Legacy Collection Official Site](https://www.capcom-games.com/megaman/exe/en-us/)
+- [*MMBN3* Final Boss Alpha](https://megaman.fandom.com/wiki/Alpha)
+- [*MMBN3* Final Boss and Ending](https://youtu.be/bGHwpltW3dg)
+- [*MMBN* Prices](https://www.pricecharting.com/search-products?q=mega+man+battle+network&type=prices&sort=name&console-uid=G1&region-name=all&exclude-variants=false)
+- [*Mega Man Network Transmission*](https://en.wikipedia.org/wiki/Mega_Man_Network_Transmission)
+- [*MMBN* Music Collection](https://music.apple.com/us/album/ロックマンエグゼ-サウンドbox/1562048833)
+- [*MMBNLC* Code Basis](https://news.capcomusa.com/2022/12/13/mega-man-battle-network-legacy-collection-transmits-to-modern-platforms-on-april-14-2023/)
+- [[MMBN-Font-Compare.jpg|MMBN Font Comparison]]
+- [*MMBNLC* Trophies](https://www.playstationtrophies.org/game/mega-man-battle-network-legacy-collection/trophies/)
+- [*Rockman EXE Operate Shooting Star*](https://megaman.fandom.com/wiki/Rockman.EXE_Operate_Shooting_Star)
+	- [English Translation Patch](https://forums.therockmanexezone.com/rockman-exe-operate-shooting-star-translation-proj-t4427.html)
+- [[MFP18 - “Trawling Through the Wayback Machine” with Matt from I Finished A Video Game]]
+## Retro Collecting and Preservation
+
+- [Scott’s GB Operator Review](https://irrationalpassions.com/gb-operator-review/)
+- [[GB Operator Thoughts and Impressions|Max’s GB Operator Review]]
+- [[Preserving and Rediscovering My Game Collection]]
+- [[Dolphin Emulator Ported Natively to Apple’s M1 Processor]]
+- [Open Source CRT Monitor](https://www.reddit.com/r/crtgaming/comments/r6h39t/open_source_crt_monitor_vcf_west_2021/)
+- [Retro Styled Modular IPS Display Kickstarter](https://www.kickstarter.com/projects/checkmate1500mini/retro-styled-modular-ips-display-for-old-and-new-systems/)
+- [[MFP11 - “A 1,000 Labels Falling onto the Floor” with Phil Summers]]
+- [SNES Manual Archive](https://sites.google.com/view/snesmanuals?pli=1)
+
+---
+# Scott White
+
+- [@ProfessorRPG](https://twitter.com/professorrpg)
+- [RPG University](https://linktr.ee/RPGU_IP)
+- [Irrational Passions](https://irrationalpassions.com/author/scott-white/)
+- [RPG Site](https://www.rpgsite.net/author/Scott%20White)
+
+[Max Frequency](https://www.maxfrequency.net/)
+
+[[Chapter Select]] @ChapterSelect
+
+[Max’s Twitter @MaxRoberts143](https://www.twitter.com/MaxRoberts143)

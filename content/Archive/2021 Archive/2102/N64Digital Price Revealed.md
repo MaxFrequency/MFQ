@@ -1,0 +1,19 @@
+---
+Published: 2021-02-07
+URL: https://maxfrequency.net/2021/02/07/n64digital-price-revealed/
+permalink: 2021/02/07/n64digital-price-revealed/
+tags:
+  - PixelFX
+  - Nintendo/N64
+---
+[shmups.system11.org • View topic – UltraHDMI group-buy ROUND 7 – 2021-01-30 UPDATE](https://shmups.system11.org/viewtopic.php?f=6&t=63381&start=570): via [sentient6 on Twitter](https://twitter.com/sentientsixp/status/1358165613156433922)
+
+> The major differences are the lag and scalers used. Here is a more detailed info of what the N64D will be able to do at launch.
+> 
+> https://www.pixelfx.co/content/roadmap.html
+> 
+> The sale price will be 160. We actually lowered the hardware cost vs PS1D but the added DAC and filter pushed it right back up. – citrus3000psi
+
+Straight from citrus3000psi on the shmups forums. Nice to know the price for the N64Digital is in line with the PS1Digital. Although, I find it even more interesting that the price was lower before adding in the DAC for RGB output and the “filter,” which I take to mean the advanced smoothing filters detailed in the [[N64Digital Roadmap Revealed|roadmap]].
+
+All that is left is a specific date in April and to see the mod in action. I can’t wait.

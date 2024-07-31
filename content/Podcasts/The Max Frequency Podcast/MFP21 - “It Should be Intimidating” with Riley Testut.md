@@ -1,0 +1,69 @@
+---
+Guest: "[[Riley Testut]]"
+Recording Date: 2023-01-20
+Published: 2023-02-06
+tags:
+- MFP
+- Apple
+- Emulation
+URL: https://maxfrequency.net/2023/02/06/mfp-21/
+permalink: 2023/02/06/mfp-21/
+---
+App developer, sideloader, and emulator enthusiast Riley Testut teaches Max all about the delicate dance of stretching Apple’s rule and guidelines. It’s going to be a big year for both Apple and Riley as we speculate what 2023 will bring to light.
+
+<audio controls>
+<source src="https://traffic.libsyn.com/maxfrequency/MF21_Final.mp3">
+</audio>
+
+- *[Download](https://traffic.libsyn.com/maxfrequency/MF21_Final.mp3) (39MB)— [[MFP21_Transcription.pdf|Episode Transcript]]*
+- [RSS Feed](https://maxfrequency.libsyn.com/rss)
+- [Overcast](https://overcast.fm/itunes1557043396)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-max-frequency-podcast/id1557043396)
+- [Spotify](https://open.spotify.com/show/3W1LwBNmhZ6s5QmQViWXKn)
+
+# Show Notes
+## Sideloading on iOS
+
+• [Riley Mentioned on Daring Fireball](https://daringfireball.net/2022/12/third_party_app_store_forest)
+• [Riley’s Sideloading Twitter Thread](https://twitter.com/rileytestut/status/1602803031984279552)
+• [Apple to Allow Outside App Stores in Overhaul Spurred by EU Laws](https://www.bloomberg.com/news/articles/2022-12-13/will-apple-allow-users-to-install-third-party-app-stores-sideload-in-europe#xj4y7vzkg)
+• [Xbox Game Pass App not Allowed on iOS](https://toucharcade.com/2020/08/06/apples-statement-regarding-xcloud-on-ios/)
+• [Apple Allows Alternative Payments in Dutch Dating Apps](https://www.theverge.com/2022/3/30/23003571/apple-app-store-netherlands-acm-alternate-payment-systems-binaries-ios)
+• [StoreKit External Entitlement Support](https://developer.apple.com/support/storekit-external-entitlement/)
+• [Sideloading Woes](https://maxfrequency.net/2022/12/07/sideloading-woes/)
+• [[Delta 1.3 Thoughts & Impressions]]
+• [Ryujinx Ported to Apple Silicon](https://blog.ryujinx.org/the-impossible-port-macos/)
+• [[Dolphin Emulator Ported Natively to Apple’s M1 Processor]]
+## altStore Documentation
+
+• [altStore Support](https://faq.altstore.io/)
+• [Make iOS A FREE Nintendo Switch Killer](https://youtu.be/Kztd8S0nzVw)
+## Apple’s VR/AR Headset 
+
+• [Breath of the Wild gets Labo VR Support](https://www.videogameschronicle.com/news/zelda-breath-of-the-wild-and-mario-odyssey-getting-labo-vr-support/)
+• [Playing The Legend of Zelda: Breath of the Wild on PlayStation VR](https://youtu.be/A6Xg8GPJmqs)
+• [[Apple’s Outward Focus to VR]]
+• [Virtual Boy](https://en.wikipedia.org/wiki/Virtual_Boy)
+## Delta—Riley’s Nintendo Emulator
+
+• [Delta 1.3 Announcement](http://rileytestut.com/blog/2021/04/21/delta-1-3-ds-for-everyone/)
+• [melonDS](https://melonds.kuribo64.net/)
+• [Using a Real N64 with Delta](https://twitter.com/MaxRoberts143/status/1426222845764505600)
+• [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS)
+## Post-Show: Ocarina of Time PC Port
+
+• [[MFP20 - “A Gift to the Zelda Community” with Javed Sterritt]]
+• [*Ocarina of Time* PC Port](https://www.videogameschronicle.com/news/zelda-ocarina-of-time-pc-port/)
+• [[OoT-Mac-Menu.jpg|The Ocarina of Time Mac Menus]]
+
+---
+# Riley Testut
+• [Mastodon](https://mastodon.social/@rileytestut)
+• [altStore](https://altstore.io/)
+• [Patreon](https://www.patreon.com/rileyshane)
+
+[Max Frequency](https://www.maxfrequency.net/)
+
+[[Chapter Select]] @ChapterSelect
+
+[Max’s Twitter @MaxRoberts143](https://www.twitter.com/MaxRoberts143)

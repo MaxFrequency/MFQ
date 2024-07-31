@@ -1,0 +1,36 @@
+---
+Recording Date: 2017-06-13
+Published: 2017-06-13
+Hosts:
+  - Max Roberts
+  - "[[Peter Spezia]]"
+URL: https://maxfrequency.net/2017/06/12/mgs-e3-2017-nintendo/
+tags:
+  - MGS
+  - E3
+  - Nintendo
+  - SuperMario
+  - Metroid/Prime
+permalink: 2017/06/12/mgs-e3-2017-nintendo/
+---
+<iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/E3-2017-Nintendo-Breakdown-e1adhui/a-a6ts458" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fiLffhsYVc0?si=YfEXP_1a4_5Y-Yva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+# Show Description
+
+Max and special guest Peter Spezia tackle all the hot Nintendo news from their E3 2017 Spotlight, including Super Mario Odyssey and Metroid Prime 4!
+
+Follow Max and Logan on Twitter!
+
+@MGSpodcast
+@MaxRoberts143
+@MooreMan12
+
+Email us at mgspodcast@gmail.com
+
+Intro and Outro song is “OHC3” by Kris Keyser

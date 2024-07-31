@@ -1,0 +1,13 @@
+---
+Published: 2020-08-09
+URL: https://maxfrequency.net/2020/08/09/ps1digital-df-review-share/
+permalink: 2020/08/09/ps1digital-df-review-share/
+tags:
+  - DigitalFoundry
+  - PlayStation/PS1
+---
+[DF Retro Hardware: PS1Digital Review – HDMI for PlayStation 1 – Pristine Image Quality!](https://www.youtube.com/watch?v=fmvs_ob4t3w) by John Linneman for Digital Foundry
+
+The PS1 is getting some time to shine in the FPGA spot light. This is not using a FPGA to emulate the hardware, but rather to upscale and output the video signal in a digital format.
+
+This is a huge stride toward bringing real PS1 hardware to the modern display era. You seriously cannot believe that a game console from 1994 is capable of outputting such clean, sharp pixels. This video also makes me want to replay *Castlevania: Symphony of the Night*.

@@ -1,0 +1,57 @@
+---
+Recording Date: 2015-07-20
+Published: 2015-07-22
+Hosts:
+  - Max Roberts
+  - "[[Logan Moore]]"
+URL: https://maxfrequency.net/2015/07/22/mgs-14/
+tags:
+  - MGS
+  - Kojima
+  - MetalGear
+  - Konami
+  - Destiny
+  - Arkham
+permalink: 2015/07/22/mgs-14/
+---
+%%Google Doc Link - https://docs.google.com/document/d/1lx5X1MPOnx8XfpKluAYaJxUmAFmRhswgKkWPo_a2Qzo/edit?usp=sharing%%
+
+<iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-14-Kojima--Indie-Games--and-Kevins-e1adhsn/a-a6ts462" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
+%%# Show Notes
+
+1. Intro/Welcome to MGS
+2. Obligatory News
+	1. Kojima
+	2. Batgirl/Skins
+	3. Destiny Update
+	4. Until Dawn Preview
+3. Pick Three!
+	1. Top 3 Favorite Indie Games!
+4. Topics Segment
+	1. Logan’s Topic --- 
+	2. Max’s Topic --- 
+5. Closing
+	1. Email us at mgspodcast@gmail.com. 
+	2. Drop some twitter handles: @MooreMan12 & @MaxTheWhite
+	3. See ya next week!
+
+%%
+# Show Description
+
+This week, in the words of Logan Moore, is a “Kevin-tastic” episode. A tad zanier than usual, Logan and Max deliver the news and their take on Kojima foreshadowing his departure and *Destiny*‘s weapon patch.
+
+Max rants about *Batman: Arkham Knight*‘s DLC plans. To close the show, we introduce a top three segment and share our favorite indie titles.
+
+Follow Max and Logan on Twitter!
+
+@MGSpodcast
+@MaxRoberts143
+@MooreMan12
+
+Email us at mgspodcast@gmail.com
+
+Intro and Outro song is “OHC3” by Kris Keyser
+
+The break song is “Adventure” by Disasterpeace from “*Fez*.”

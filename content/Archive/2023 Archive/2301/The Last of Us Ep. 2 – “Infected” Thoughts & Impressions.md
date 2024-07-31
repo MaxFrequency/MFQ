@@ -1,0 +1,45 @@
+---
+Published: 2023-01-28
+URL: https://maxfrequency.net/2023/01/28/the-last-of-us-ep-2-review/
+permalink: 2023/01/28/the-last-of-us-ep-2-review/
+tags:
+  - NaughtyDog/TLOU
+  - HBO
+  - Review
+---
+I was excited to watch this week’s episode because it was Neil Druckmann’s (television) directorial debut. I wanted to see how his style would translate from the world of games to TV. This episode was primed for big moments like the reveal of the Clickers and the death of Tess.
+
+The connecting fiber of this episode is the idea of a second chance. Tess sees Ellie’s immunity has a chance for redemption. Joel and Ellie take a second shot at introductions. The biggest second chance though occurs off screen with Neil and the team having the opportunity to recontextualize the world for TV.
+
+We see this at the start of the episode with the cold open set in Jakarta, Indonesia at the onset of the outbreak. Leveraging the ability to tell the story away from Joel or Ellie’s perspective, the show explains the origin of the cordyceps infection. We are shown how terrifying the revelation of the mutation is when a humble professor[^1] does not hesitate to recommend bombing an entire city in an attempt to eradicate the fungus. There is no cure. There is no vaccine. Demolishing a city is the best defense against this creature.
+
+This intro scene is a solid foundation that the episode builds upon. The bombings in Boston are now given a human backstory. They weren’t the decision at the end of a struggle, but the first response. We witness the inception. This also lends itself to seriousness and rarity of Ellie’s immunity. Up until her, there has been no chance for a vaccine. As someone that has played the game countless times, it’s easy to wave off Ellie’s resistance. This episode reminded me how vital her life would be for all of mankind. And it is portrayed against Tess’ own demise in deft fashion.
+
+Tess has a strong episode. Her interactions with Ellie are a treat. She acts as a teacher for both Ellie and the audience. We see the two of them begin a bond, while Joel maintains his distance. Tess’ big moment is her death though, which has been completely altered from the game and for the better.
+
+When Ellie was bitten for the second time, I nearly rolled my eyes. “This is how we will prove to people she is immune every time it comes up?” We see Ellie sick of proving her immunity in her first scene of the episode. I was feeling the same way. But having Ellie and Tess bitten *at the same time* reaffirms the reality of Ellie’s gift and gives Tess something to anchor to in the storm that is her impending death.
+
+This episode made me a believer in the switch to tendrils. Tess’ actual death scene feeds back into a teaching moment she had earlier in the episode. Joel steps on a life line to the cordyceps, waking up the writhing horde we from the hotel roof. They sprint toward our heroes’ destination. The hive mind nature of the cordyceps amplifies the fear. We see the monsters welcome a new member as the one approaches and kisses Tess with a mouthful of tentacles. It’s horrific and consuming. Tess fumbling with the lighter before blowing them all to smithereens is way cooler than her popping off a couple shots at the FEDRA agents in the game.
+
+Overall, “Infected” was strong because of the changes made for television. The medium was effectively leveraged to enrich the world. We see scenes interconnect to create a stronger, cohesive narrative that feeds back into the core duo. After this one (and the growth in viewership), its not hard to see why Season 2 was green lit this week.
+
+---
+
+That review took longer than I ever wanted. I’ve been sick since last Friday and it knocked me on my butt all week. Sickness is the worst form of writer’s block. After Sunday night though, I knew I wanted to focus on how the game world was recontextualized for TV.
+
+Continuing from last week, I had plenty of observations that I wanted to mention that didn’t fit within the focus of the strict review.
+
+- The opening scene with Ellie, Tess, and Joel has a shot where Ellie is bathed in light and Joel is covered in darkness.[^2][^3] Tess is kneeling and looking up at Ellie. Just a beautiful shot that portrays the trio’s entire dynamic.
+- The set design is immaculate. The fungal webs, the decayed city of Boston, and the way nature has reclaimed it is just how one would imagine it.
+	- Speaking of set design, they absolutely recreated the hotel lobby from Pittsburgh. I was stunned. I wonder how much was a set and how much was digitally made. I wish there was time for Joel to comment on missing coffee, but we haven’t quite earned that personal insight for his character yet.
+- Ellie’s repeated asking for a gun helps establish a baseline for when she actually gets one. Excited to see those moments pay off.
+- Just wait until season 2 shows off a super infected that blows up spores at our heroes.
+- Neil’s directorial debut for TV was well done. Fear is established. I thought the use of hand cam shots mirrored that you might find on the mocap stage. We’ll see how much that type of camera work is used throughout the season or if I’m just making an arbitrary connection.
+- Speaking of fear, the two Clickers were executed perfectly. From the prosthetics to ripping the assault rifle out of Joel’s hands, they were represented beautifully. Two have so much power. Tess and Joel going silent in the museum was gripping.
+- Tess asked Joel to get Ellie to Bill and Frank’s so that they could finish the mission of delivering Ellie. This feels strange. Bill the recluse never struck me as a character that would freely take a girl across the country. With Frank being cast and in this adaption, the next episode will surely be the biggest departure from the game to date.
+- The closing song is “Allowed to be Happy” from The Last of Us Part II. This is the kind of change from the original game we need to hear more of. Gustavo’s music is a triumph.
+
+---
+[^1]: The way her hand shakes at the news of the missing people was spine-tinglingly good.
+[^2]: I would have taken a screenshot of the this exact moment, but DRM really hates the idea you’d share a still image from a TV show or movie. You’d think Hollywood would want the free promotion.
+[^3]: Update: You don’t wanna know the daisy-chain it took to get [[Joel-v-Ellie-Light-Shot.jpg|this]] screenshot. I tweaked the color slightly to better see Joel, since the capture is accurate. If only there were official means to take screenshots of shows and movies.

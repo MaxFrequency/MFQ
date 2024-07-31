@@ -1,0 +1,33 @@
+---
+Recording Date: 
+Published: 2015-11-22
+Hosts:
+  - Max Roberts
+  - "[[Logan Moore]]"
+URL: https://maxfrequency.net/2015/11/22/mgs-29/
+tags:
+  - MGS
+  - VR
+  - StarWars
+permalink: 2015/11/22/mgs-29/
+---
+<iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-29-The-Tides-are-Changing-e1adhu0/a-a6ts48f" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
+# Show Description
+
+This week is a jam packed episode! The crew opens with a mini review of *Battlefront* and Max tried VR with the HTC Vive!
+
+In the news department, Logan and Max discuss blacklisting, stealth releases, and how February 2016 isn’t as packed anymore. They wrap up the show with a discussion on stories in games and possible open world fatigue on the market.
+
+Follow Max and Logan on Twitter!
+
+@MGSpodcast
+@MaxRoberts143
+@MooreMan12
+
+Email us at mgspodcast@gmail.com
+
+Intro and Outro song is “OHC3” by Kris Keyser
+
+The break song is “Banjo’s Theme” by Grant Kirkhope from “*Banjo-Tooie*.”

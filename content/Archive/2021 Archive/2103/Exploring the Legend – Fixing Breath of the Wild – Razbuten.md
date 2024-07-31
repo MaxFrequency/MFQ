@@ -1,0 +1,18 @@
+---
+Published: 2021-03-24
+URL: https://maxfrequency.net/2021/03/24/fixing-breath-of-the-wild-razbuten/
+permalink: 2021/03/24/fixing-breath-of-the-wild-razbuten/
+tags:
+  - Zelda/BotW
+---
+[Fixing *Breath of the Wild*](https://www.youtube.com/watch?v=zhvuDcUx13Q) by Razbuten on YouTube
+
+> Breath of the Wild is one of my favorite games ever made, but there are elements about it that I wish had been a bit different. Here is my best attempt at trying to solve those problems without reinventing the whole game. I like doing these sorts of thought experiments in order to try to better understand game design and what I like about games. Does this video matter much? lol no but hopefully it is interesting and fun. Anyway this is my attempt at fixing *Breath of the Wild*.
+
+This will not be the only Razbuten video I plan to call out through out the 35th year of *The Legend of Zelda*’s existence, but as a new release today, I had to share it. Razbuten explores a well tread topic underneath the umbrella that is “how to improve Breath of the Wild.” When a game is [both the 13th and 25th highest scored game of all time](https://www.metacritic.com/browse/games/score/metascore/all/psvita/filtered) (thanks Wii U and Switch versions), that game is bound to have endless discussions about how it could have been better. It is a common format: take popular thing, criticize it, tear it down, etc.
+
+Razbuten takes a much, much better approach here with a more rigid focus of tweaking the gameplay in small ways to create better incentives. Instead of remaking *Breath of the Wild*, Razbuten is approaching the game’s design and potential frustrations from a different angle; a more creative one I think, which is actually a key element in *Breath of the Wild*’s design that makes it an undeniable tour de force in gaming.
+
+I don’t think there’s a more spot on example of this in the video than Razbuten’s focus on weapon durability. Since the game’s launch, weapon durability has been arguably the most contentious element of its design. Personally, I love when a weapon breaks as it encourages me to try new and different weapons, especially those I would have never used if I could just keep my favorite weapons. Instead of striking the mechanic all together or inventing some sort of repair/item longevity mechanic, Razbuten suggests leaning into the destructibility and incentivizing it. Make players reap rewards when their item breaks, beyond the rush of solving the current combat situation. I found the suggestion to be elegant.
+
+This video is a treat and thought-provoking. Proof that *Breath of the Wild* has a strong legacy, even just four years after its release in 2017. It is rare to get a game this refreshing and engaging. It really is the gift that keeps on giving.

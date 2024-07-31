@@ -1,0 +1,44 @@
+---
+Published: 2023-04-04
+URL: https://maxfrequency.net/2023/04/04/the-last-of-us-ep-8-review/
+permalink: 2023/04/04/the-last-of-us-ep-8-review/
+tags:
+  - NaughtyDog/TLOU
+  - HBO
+  - Review
+---
+Sometimes throughout the season, I wish I wasn’t intimately familiar with the source material. This episode was the biggest disappointment so far, as a fan.[^1] Winter is a part of the game ripe with superb performances, gripping scenarios, and an ending that sticks. When translating Winter to TV, the old adage of “the book is better than the movie” rang so true.
+
+I understand that Hollywood cannot fit everything in to a show. I get that these performances are the vision and interpretation of the writers, directors, and actors. It is not supposed to be the same. It should stand shoulder to shoulder or be better, like episode three did with Bill and Frank. The cut corners rob the end pacing of the story.
+
+I want to focus on the elements I enjoyed first though. The star of the episode was hands down Troy Baker. His role as David’s right-hand man was executed with a quiet conviction. At times, Troy was more David-like than Scott Shepherd. Any time Troy was one screen, he stole the scene.
+
+The sound design and music hit home for me as well. The scene where David’s folk is eating and all you hear is spoons clanking into the bowls with a ravenous fervor. The sound makes the hair on your neck stand up as sadness and fear swirl around in your stomach, while theirs swirl with the remains of neighbors. Immaculate sound design.
+
+Combative scenes use music from *The Last of Us Part II* to great effect. I like them tapping into the well of *Part II*‘s music. This is a far more effective use of resources than trying to layer themes and motifs on top of the base game. Let the work speak for itself rather than cramming in all you can.
+
+I would be remiss if I did not call out my favorite moment from Winter. They did use the Joel “pop your goddamn knee off” line. Granted, I felt Pedro’s delivery was rushed, but this moment is top tier. It is a real window into Joel’s past actions, more than a line or story told in passing. I got both Alone and Forsaken and the knee? Maybe the season wasn’t so bad after all.
+
+Or maybe it was.
+
+This episode floundered who should have stolen the show—David. From the quiet, calm, and intelligent performance by Nolan North in the game to the religious, abusive, lost version on HBO, I am shocked at how they ruined David. I felt like Don Corleone [looking upon](https://youtube.com/watch?v=sk1S9Z_TDvI&t=93) the aftermath of his son’s massacre.
+
+My biggest grievance is with the added layer of religion. It feels like another attempt to add on *Part II* narrative elements. The writers give David this unnecessary shroud of creepy pastor. Instead of elevating the character of David or changing him in a meaningful way, they cut off his imposition at the knees. It’s a crutch that David never needed, but now he is falling all over himself. The original character was far more effective with his bond built with Ellie (built during gameplay). Being a cannibal and a predator was enough. This new trait muddies the waters, leans into stereotypical cult Hollywood writing and weakens a striking villain.
+
+This episode bummed me way out and, honestly, it doesn’t improve from here. But, like fans of books over movie adaptations, they can never take away the original version. The attempts to strip gameplay scenarios proves how effective that hands-on interaction is for telling a powerful story. It also may be showing how lacking a story like *The Last of Us* can be outside of its intended medium. Without the intimate connection, the ability to walk a mile in the character’s shoes, do the highs and lows reach the same levels? Is David’s effectiveness bound to fighting off Infected alongside him?[^2] Do Joel and Ellie work has this father/daughter bond without putting the audience in each role?
+
+It’s odd to see a show so bound to the original source material that when it branches away, it more often fails than succeed. Yet, remaining so true to the source in other areas shows how essential the original medium is to elevating that tale. It’s a catch-22. And sometimes, I wish I wasn’t so familiar with the source material.
+
+---
+
+I am sorry this review (and the finale review) are so late. [[A Small Update|I’ve been tied up]]. And honestly, reviewing these last two episodes makes me a bit sad. It’s a rough and rushed end to an adaption that started strong. I am hopeful that future seasons lean into the knowledge of said future seasons to craft a better adaptation. We shall see, but until 2024 or 2025, here are some observations I made during the episode that didn’t make the cut of being mentioned in the review.
+
+- The girl in David’s “flock,” Joyce, is the daughter of the man Joel killed at the university. Feels a bit on the nose, but a nice touch to this world. 👀
+- Joel had a very nice knife to the neck stealth kill that felt gamey.
+- Ellie does *not* eat the meat that David offers up. In the game, she does and that conveys her true level of hunger. I kinda wish she partook on the show, but maybe seeing real people eat other “real” people is tougher for audiences to swallow?
+- I wish the kept the bunny kill. Overall, I felt like Ellie was more incapable in the show. Like Joel hadn’t spent off camera time teaching her to survive like he did in the game. Felt strange to me.
+- Yet, Ellie’s killing of David is far more gruesome and, once again, reminds me of a particular scene in *Part II*. I do think it went on for a few swings too long. And I found it interesting that Joel doesn’t find her inside the burning building, but outside of it.
+
+---
+[^1]: That would be until the finale, but we watched them back to back. It was a quick one-two punch.
+[^2]: I’d wager no in David’s case, far more tied to delivery and how the character was written versus rewritten.

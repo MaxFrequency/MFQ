@@ -1,0 +1,11 @@
+---
+Published: 2022-03-31
+URL: https://maxfrequency.net/2022/03/31/delayed-game-quote-origins/
+permalink: 2022/03/31/delayed-game-quote-origins/
+tags:
+  - Miyamoto
+---
+> I will legit give $100 to the person who can find the origin of Shigeru Miyamoto’s quote ‘A delayed game is eventually good, but a rushed game is forever bad.’
+> I’m not looking for articles who quote it. I’m looking for the ORIGINAL thing. – [@JavedLSterritt](https://twitter.com/JavedLSterritt/status/1504647303633670149)
+
+Speaking of [[The Sequel to Breath of the Wild is Delayed|The Sequel to Breath of the Wild is Delayed|delaying a game]]—a Nintendo game no less—the Miyamoto quote about delaying a game was flying all around Twitter. A few weeks prior I noticed [this thread](https://twitter.com/GameResearch_E/status/1504663521539375104) sparked by Javed Sterritt of Good Blood. A [fascinating dive](https://twitter.com/GameResearch_E/status/1504663521539375104) (with sources!) that shows how a quote morphed over the decades. It is vital for journalists to source quotes. I always report with sources, links, etc. Sometimes pop culture takes over and leads to fun stories like this though.

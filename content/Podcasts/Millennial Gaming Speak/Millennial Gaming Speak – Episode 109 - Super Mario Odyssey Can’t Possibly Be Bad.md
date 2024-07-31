@@ -1,0 +1,38 @@
+---
+Recording Date: 
+Published: 2017-09-12
+Hosts:
+  - Max Roberts
+  - "[[Logan Moore]]"
+URL: https://maxfrequency.net/2017/09/12/mgs-109/
+tags:
+  - MGS
+  - SuperMario
+  - Xenoblade
+  - Nintendo
+  - Bethesda
+permalink: 2017/09/12/mgs-109/
+---
+<iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-109-Super-Mario-Odyssey-Cant-Possibly-Be-Bad-e1adhsk/a-a6ts45o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
+
+%%# Show Notes
+
+Words%%
+
+# Show Description
+
+Using the magic of non-linear editing once again, the MGS crew delivers hot takes on the September Nintendo Direct. Hear the spiciest opinions on Super Mario Odyssey, Bethesda’s Switch support, Xenoblade‘s massive world, and more!
+
+Follow Max and Logan on Twitter!
+
+@MGSpodcast
+@MaxRoberts143
+@MooreMan12
+
+Email us at mgspodcast@gmail.com
+
+Intro and Outro song is “OHC3” by Kris Keyser
+
+Break song is “Champion’s Road“ by Mahito Yokota, Toru Minegishi, Koji Kondo, and Yasuaki Iwata from “*Super Mario 3D World.*”

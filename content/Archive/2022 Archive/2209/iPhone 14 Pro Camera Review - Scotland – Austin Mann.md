@@ -1,0 +1,24 @@
+---
+Published: 2022-09-15
+URL: https://maxfrequency.net/2022/09/15/iphone-14-pro-camera-review-scotland-austin-mann/
+permalink: 2022/09/15/iphone-14-pro-camera-review-scotland-austin-mann/
+tags:
+  - Apple/iPhone
+---
+[iPhone 14 Pro Camera Review: Scotland – Austin Mann](https://www.austinmann.com/trek/iphone-14-pro-camera-review-scotland)
+
+I was hoping this would drop yesterday. I have three must-read (or watch) as soon as they are available iPhone reviews; [MKBHD](https://youtu.be/SdLShOCvVeM), John Gruber, and Austin Mann.[^1]
+
+> The iPhone camera has touted a 12 megapixel camera for seven years, and the last time it saw an upgrade the jump was from 8MP to 12MP on the iPhone 6s. The iPhone 14 Pro introduces a massive resolution jump to 48MP, quadrupling the iPhone 13 Pro’s sensor.
+> 
+> When I learned about the increase in resolution of the iPhone 14 Pro sensor, I was cautiously excited. I’ve long been happy with the 12MP files coming out of my iPhone, and I know higher resolution sensors often have their trade-offs. All that said, I was excited to see this massive jump in megapixels in the iPhone 14 Pro as it will open doors to capture more detail, crop in on images, and also open up new possibilities for larger format prints at higher DPIs.
+
+Four of those years, I’ve been rocking my iPhone Xs Max, which I dubbed iPhone MaXs.
+
+> When we went out on the boat looking for whales in the evening, I switched from 48MP to 12MP because I knew I’d be dealing with fast-moving subjects (animals) and shooting from a moving platform on the boat. This meant the camera is super responsive and will be rendering the best possible image files in these limited lighting conditions.
+
+I hear babies are fast-moving subjects. And that apartments have limited lighting conditions.
+
+---
+
+[^1]: It actually took so long for me to share, that my mom forwarded Austin’s review to me, not knowing that his reviews have become an annual iPhone season highlight for me. I never would have guessed my mom was subscribed to Austin’s newsletter.

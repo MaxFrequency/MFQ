@@ -1,0 +1,11 @@
+---
+Published: 2022-01-27
+URL: https://maxfrequency.net/2022/01/27/horizon-forbidden-west-ps4-pro-gameplay/
+permalink: 2022/01/27/horizon-forbidden-west-ps4-pro-gameplay/
+tags:
+  - Horizon
+  - PlayStation/PS4
+---
+[A glimpse at Horizon Forbidden West PS4 gameplay](https://blog.playstation.com/2022/01/27/a-glimpse-at-horizon-forbidden-west-ps4-gameplay/) by Angie Smets for the PlayStation.Blog
+
+Nice to see some PS4 Pro gameplay in these three short silent clips. *Horizon Forbidden West* looks stunning, even though I’ve been avoiding the trailers. Why look when I know I am going to play in just three weeks? It does help that this game started development as a PS4 game. I wish they had some side-by-side screenshots or footage with PS5. I guess we’ll just have to wait for Digital Foundry’s analysis at launch for that and some base PS4 console gameplay.

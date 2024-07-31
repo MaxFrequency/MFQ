@@ -1,0 +1,90 @@
+---
+Recording Date: 2017-04-17
+Published: 2017-04-18
+Hosts:
+  - Max Roberts
+  - "[[Logan Moore]]"
+URL: https://maxfrequency.net/2017/04/18/mgs-89/
+tags:
+  - MGS
+  - Nintendo
+  - StarWars
+  - NaughtyDog/Uncharted
+  - Splatoon
+  - Prey
+  - ARMS
+permalink: 2017/04/18/mgs-89/
+---
+<iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-89-Battlefront-II-Looks-Really-Freaking-Awesome-e1adhrf/a-a6ts405" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_f9eTrT8ylw?si=nTu1qzvF24-pFW-T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+%%
+https://www.youtube.com/live/_f9eTrT8ylw
+
+# Show Notes
+
+## News
+
+- NES Classic Has Been Discontinued Because Nintendo Hates Money? -- http://www.dualshockers.com/2017/04/13/nintendo-discontinuing-nes-classic-edition-end-month/
+- Battlefront II Finally Revealed -- http://www.dualshockers.com/2017/04/15/first-details-star-wars-battlefront-ii-arrive-launches-year-november-17/
+	- New Additions Coming
+		- Single Player Story, Written by Mitch Dyer
+		- New Multiplayer Features
+		- Class System
+		- Published: November 17
+		- Season Pass Potentially Gone?
+- Prey is getting a free demo at the end of April -- https://bethesda.net/en/article/26eSYIuwYUw62amIgCwaos/prey-demo-play-the-opening-hour
+- Nintendo Direct Roundup:
+	- Splatoon Release Date -- http://www.dualshockers.com/2017/04/12/nintendo-switch-exclusive-splatoon-2-gets-release-date-july/ 
+	- ARMS Release Date -- June 16th, New character shown off
+	- Anything else notable (Amiibo?) -- 
+- Uncharted: The Lost Legacy Releases on August 22 for $39.99 -- http://www.dualshockers.com/2017/04/11/uncharted-the-lost-legacy-launches-august-22-2017/
+- Microsoft Confirms Scorpio Will Be Full Revealed at E3 (duh) -- https://news.xbox.com/2017/04/13/project-scorpio-most-powerful-place-to-create-and-play/?ocid=ProjectScorpio_soc_omc_xbo_tw_Photo_lrn_4.13.1
+- New Nex Machina Details Arrive -- http://blog.us.playstation.com/2017/04/14/nex-machina-seasons-challenges-and-replays/ 
+
+## Topics
+
+- Logan - What’s the value of buying games at launch?
+- Max - %%
+# Show Description
+
+This week Max and Logan dive head first into the massive amount of news there is ranging from *Battlefront II, Prey, Splatoon 2, ARMS, Uncharted: The Lost Legacy*, and Nintendo’s cancellation of the NES Classic. Logan then asks what the value of purchasing a game is on launch day.
+
+Timestamps:
+Intro- 0:00-5:52
+What are we playing- 5:52-7:25
+Breath of the Wild Spoilers-7:25-17:20
+What are we playing (con.)- 17:20-38:30
+
+News
+Prey Demo 38:30-44:00
+Uncharted 4: The Lost Legacy– 44:00-53:30
+Xbox Scorpio @ E3- 53:30-56:00
+Nex Machina– 56:00-58:57
+Battlefront II Revealed- 58:57-1:19:14
+Nintendo Direct- 1:19:14-1:29:30
+
+Break- 1:29:30-1:30:05
+
+NES Classic- 1:30:12-1:38:35
+
+Value of Buying a Game Day One- 1:38:36-1:58:05
+
+Close- 1:58:05-2:01:35
+
+Follow Max and Logan on Twitter!
+
+@MGSpodcast
+@MaxRoberts143
+@MooreMan12
+
+Email us at mgspodcast@gmail.com
+
+Intro and Outro song is “OHC3” by Kris Keyser
+
+Break song is “The Price of Doing Business (Iron Whale)” by Jake Kaufman from “*Shovel Knight: Specter of Torment*.”

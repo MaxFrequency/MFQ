@@ -1,0 +1,42 @@
+---
+Published: 2021-08-12
+URL: https://maxfrequency.net/2021/08/12/chapter-select-season-1-wrap-up/
+permalink: 2021/08/12/chapter-select-season-1-wrap-up/
+tags:
+  - PaperMario
+  - BtS
+  - CS
+---
+![[S1 Art.jpg]]
+
+And that’s a wrap on Season 1 of Chapter Select!
+
+It feels great to finish one season of this idea I’ve had for over three years. Playing the games and making the podcast has been my creative highlight of the year so far. I haven’t been this excited about podcasting before and I am really looking forward to the future of the show.
+
+Here at the end of Season 1, I wanted to share my thoughts about how the season went, some behind-the-scenes, as well as some insight to the show’s future.
+
+The format of the show was, I think, a great success. While I can’t speak to the audience’s reaction beyond sheer numbers, I can attest to how it influenced discussion. The best example I can point to is Episodes 4-6 (*Color Splash*, *Super Paper Mario*, and *Sticker Star*). Talk with any *Paper Mario* fan and it won’t take long to learn that *Super* is different/weird and that *Sticker Star* and *Color Splash* are a real similar pair of frowned upon games.
+
+Playing *Super* after *Color Splash* gave me appreciation for the whacky Wii game I don’t think I would have gotten playing in release order. It felt truly refreshing after two classic games and two modern incarnations. Then whipping back around to play *Sticker Star* gave me the context for why Nintendo pivoted so hard into the no fluff narrative and sticker-based gameplay. It also made me appreciate what worked in *Sticker Star* and wonder how *Color Splash* took, what I consider, wrong turns in its design.
+
+I was thinking about and engaging in these games in a way I never would have previously. And I think it was for the better of myself, the games, and the show over all.
+
+Speaking of numbers, over the course of two months and some change, Chapter Select had over 393 unique downloads and stream when looking across Libsyn, Spotify, and Apple Podcasts. I am super happy with that! This was also before [[S1E6 - Paper Mario - Sticker Star|Episode 6: Paper Mario: Sticker Star]] was even published. That was all with promotion on our Twitter accounts and occasionally sharing in the [Relay FM](https://www.relay.fm/) Discord channel.
+
+The craziest (and most confounding number) was the downloads on the cross-promotional episode I put in the [[Chasing the Stick - The History of Naughty Dog during the PS4 Era|Chasing the Stick: The History of Naughty Dog during the PS4 Era]] podcast feed. As of this writing, that episode is over 20,000 downloads. I wish that translated to the Chapter Select feed! Logan and I have no idea why the downloads are so high.
+
+Having guests join us for individual games rather than one guest for a whole season was a real treat as well. While Logan and myself could keep the through line theme and focus all season long, our guests enriched the individual discussions. They also helped keep me grounded to the individual game rather than trailing off. Everyone’s story and experience with Paper Mario was unique, adding that personal touch I was hoping for to the show. I cannot thank them enough for playing through these games with us ([[S1E4 - Paper Mario - Color Splash|especially Tomas, who bought Color Splash digitally in the year 2021 at the full price of $59.99]]). I am excited to start booking guests for Season 2! [If you are interested, send me a message on Twitter](https://twitter.com/MaxRoberts143/status/1423015318495113226).
+
+A big lesson we learned was the types of games we choose for each season. Our current goal is two seasons a year: That feels like like an achievable goal. Properly kicking it all off with a series of 20~ hour RPGs probably wasn’t the best idea. Our next season has been planned to focus on a shorter game series, in regards to play time. We realized that we ought to work on longer games and/or series throughout the year, banking episodes and keeping that season for the back half of the year. As for the front half of a year, that can be a season focusing on a shorter series, whether in game quantity or actual game length. You will definitely see that approach taken for seasons 3 and 4.
+
+Speaking of which, we do have season 2 and 3 picked out already! I am quite eager to get to playing them. Especially Season 2 after 145+ hours with *Paper Mario*; the pivot in gameplay is gonna be great. We have a loose schedule in place for all of this. We will announce Season 2 when it is a bit closer, which should hopefully be in the coming months. We do plan on taking at least August and September off from releasing anything new.
+
+As far as releasing the episodes in Season 1, I have to admit that I didn’t think we could keep the two week release schedule up for the whole season. When we started publishing Season 1 on June 2, 2021, we only had three episodes in the bag. We were in the middle of playing *Color Splash*! Logan definitely encouraged these last three games to stick to the calendar. The two weeks gave us enough cushion to finish out the season while the episodes were being released.
+
+The wider window also gave me plenty of time to edit the show and really give it my best. I wanted to really leverage the audio podcast medium with a tight edit and rich audio. I put Easter Eggs in the episodes, whether it was clips or secret chapter art (if your podcast player supports it). Episodes 3 and 5 have my favorites.
+
+The show was remarkably consistent as well. Over half the episodes sit right in between 70 and 80 minutes, giving listeners a consistent length that, I think, is quite listenable/achievable to finish. I am curious how that window of time will hold up in the coming seasons.
+
+I throughly enjoyed making the art for each episode. I really pushed my design chops to try and capture the vibe of each game and the paper aesthetic. The toughest by far was [[S1E5 - Super Paper Mario|Episode 5: Super Paper Mario]]. I wanted to play with perspective in the art, but just couldn’t find a way to make the logos legible and the art not look sloppy. For [[S1E3 - Paper Mario - The Thousand-Year Door|Episode 3: Paper Mario: The Thousand-Year Door]], I scanned the cover of my Japanese copy of the game for the art, which lends itself even more so the paper aesthetic, since the cover is cardboard. I love the little Shy Guy slurping the color out of the letter “P” in the art for [[S1E4 - Paper Mario - Color Splash|Episode 4: Paper Mario: Color Splash]]. By far, the easiest to design was [[S1E6 - Paper Mario - Sticker Star|Episode 6: Paper Mario: Sticker Star]].
+
+I’ve said it before, but I truly have not had this much fun creating a podcast before. From playing the games to recording the show to writing show notes, I have had a blast. This project feels focused and sustainable. I am really trying to keep ambitions in check. Thankfully, Logan helps with that. I couldn’t (as always) ask for a better partner in all this. I cannot wait to announce and share Season 2. If you listened, I hope you enjoyed [[S1 - Paper Mario|Season 1 – Paper Mario]]!

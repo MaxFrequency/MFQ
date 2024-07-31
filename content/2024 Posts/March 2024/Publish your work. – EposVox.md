@@ -1,0 +1,49 @@
+---
+Published: 2024-03-05
+URL: https://maxfrequency.net/2024/03/05/ship-publish-own/
+permalink: 2024/03/05/ship-publish-own/
+tags:
+  - Creativity
+  - YouTube
+---
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dIWTXrCNpLY?si=VvCegwL6BwgJ0MtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+[Publish your work.](https://youtube.com/watch?v=dIWTXrCNpLY) by EposVox
+
+I watched this video this morning while making breakfast. The title alone told me this was a subject I'd care about and relate to.
+
+EposVox opens up about writing, photography, and getting your work published—whether by yourself or through an outlet. "Don't let it sit. Get it out there," is how I would summarize the core message.
+
+In other words, "ship it."
+
+I'm a huge proponent of this mantra. I may not always practice what I preach, but I do believe it. And while EposVox's crux here is to *publish* the work, I don't think everything has to go out for the world to see. Sometimes, making the thing is enough.
+
+I wrapped up Mike Schmitz's [Obsidian PKM Cohort](https://www.obsidianuniversity.com/cohort) last month and one nugget I took away (of many) was to be like a river. Conveniently, Mike just wrote about this in [his newsletter yesterday](https://practicalpkm.ck.page/posts/get-in-the-flow-how-to-have-more-better-ideas).
+
+> Be a River, Not a Reservoir
+> 
+> The trick to making sense of things (and sparking great ideas) is to force yourself to create an output.
+> 
+> It doesn’t matter what the output is. It could be a blog post, a podcast episode, a YouTube video, or simply an opinion note you create in your PKM system. It doesn’t have to be public, but you do need a place where you can play with the parts you’ve collected and you do need to assemble them into something new.
+> 
+> You need to have an input, and an output. Just like a river.
+
+In other words, "what comes in, goes out."
+
+If you just take in other people's work and admire it, without creating your own, your creativity will be stunted. The idea, the work, the thing, may not turn out to be just like you imagined, but it's one step closer to what you are chasing. Before you know it, your work is better than when you started. 
+
+Don't [[Introducing The Max Frequency Podcast|kick the proverbial can]] down the road. Do the thing.
+
+It should be no surprise to anyone that I am a huge proponent of [self-publishing](https://youtube.com/watch?v=dIWTXrCNpLY&t=468). Own your work. Take credit for it. 
+
+> "If anyone in Gen Z is reading this, remember: it's never too late to start a website. It doesn't have to be perfect. It doesn't have to get a million readers. It doesn't have to change the world. All it has to be is a reflection on the past, a time capsule for the future — a document for the now. Your readers are out there, waiting. They'll find you."
+
+Jason Kottke wrote this in a [celebratory post](https://kottke.org/23/11/snarkmarket-turns-20) about a site called the Snarkmarket a few months ago. I saved that quote for a future post[^1][^2], but I think it works quite well here.
+
+So, in other words, "Ship it. Publish it. Own it."
+
+---
+[^1]: That should be seeing the light of day here at the end of March or early April. Just have a big list of stuff to get done first. 👀
+[^2]: And why not use the quote twice? Who cares? It's good advice!

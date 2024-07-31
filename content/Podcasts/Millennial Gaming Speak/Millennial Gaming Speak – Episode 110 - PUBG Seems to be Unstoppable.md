@@ -1,0 +1,56 @@
+---
+Recording Date: 2017-09-19
+Published: 2017-09-20
+Hosts:
+  - Max Roberts
+  - "[[Logan Moore]]"
+URL: https://maxfrequency.net/2017/09/19/mgs-110/
+tags:
+  - MGS
+  - PUBG
+  - NaughtyDog
+  - Xbox
+  - Fortnite
+permalink: 2017/09/19/mgs-110/
+---
+<iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-110-PUBG-Seems-to-be-Unstoppable-e1adhr6/a-a6ts3vu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
+%%# Show Notes
+
+## News
+
+- Phil Spencer joins Microsoft Senior Leadership Team
+	- http://www.gamesindustry.biz/articles/2017-09-19-phil-spencer-joins-microsoft-senior-leadership-team 
+- TGS
+- PUBG
+- Switch-y Switch
+
+Second Half Magic%%
+# Show Description
+
+PlayUnknown’s Battlegrounds is quickly becoming a titan within the industry. Sales and records do not seem to be slowing down. Logan and Max take a moment to recognize the rampant success as they anticipate the Xbox One release.
+
+Timestamps:
+Intro- 0:00-14:00
+What we are playing- 14:00-45:00
+
+News
+NBA 2K18 Switch- 45:00-50:20
+Bruce Straley Leaves Naughty Dog- 50:20-57:48
+Phil Spencer Joins Microsoft Elite- 57:48-01:01:08
+PUBG Breaks Records- 01:01:08-01:08:17
+Fortnite Cross Play- 01:08:17-01:12:00
+TGS Brief Summary- 01:12:00-01:16:49
+
+Closing- 01:16:49-01:18:13
+
+Follow Max and Logan on Twitter!
+
+@MGSpodcast
+@MaxRoberts143
+@MooreMan12
+
+Email us at mgspodcast@gmail.com
+
+Intro and Outro song is “OHC3” by Kris Keyser

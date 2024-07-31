@@ -1,0 +1,77 @@
+---
+Recording Date: 2017-05-08
+Published: 2017-05-08
+Hosts:
+  - Max Roberts
+  - "[[Logan Moore]]"
+URL: https://maxfrequency.net/2017/05/08/mgs-92/
+tags:
+  - MGS
+  - Darksiders
+  - Zelda/BotW
+permalink: 2017/05/08/mgs-92/
+---
+<iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-93-Mass-Effect-Goes-Away--Assassins-Creed-Returns-e1adht8/a-a6ts46a" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+[RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jKigOMRsMU4?si=ZnQT7rXEo3rDwbga" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+%%
+https://www.youtube.com/live/jKigOMRsMU4
+
+# Show Notes
+
+## News
+
+- Super secret game developer doing recon for a new western game -- http://www.greatfallstribune.com/story/news/local/2017/05/03/film-crew-poplar-shoot-scenes-video-game/101241072/ 
+	- Game is a sequel to an existing franchise
+	- Releases this September
+	- Has yet to be announced
+	 Group has worked with Ubisoft in the past
+- Darksiders III is a thing and THAT IS AWESOME -- http://www.ign.com/articles/2017/05/02/darksiders-3-announced-a-ign-first
+	- Gameplay -- http://www.ign.com/videos/2017/05/05/darksiders-3-gameplay-reveal-ign-first 
+- Zelda DLC Wave 1 Revealed -- http://zelda.com/breath-of-the-wild/news/expansion-pass-dlc-pack-1-detailed/ 
+- E3 Coliseum, the sequel to Pokemon Coliseum, has been revealed -- https://medium.com/@geoffkeighley/e3coliseum2017-7c01ed2dd0e
+- Sony E3 Conference date/time revealed -- http://www.dualshockers.com/sony-announces-playstation-e3-press-conferences-date-time/
+- Mario x Rabbids RPG is Real according to game canceler Jason Schreier -- http://kotaku.com/source-the-rumored-mario-x-rabbids-rpg-is-real-coming-1794849712 
+## Topics
+
+- Max - 
+- Logan - Best use of licensed music in games%%
+# Show Description
+
+This week we dive right into the wide array of news ranging from the announcement of *Darksiders III*, to breaking down the first details of *Breath of the Wild*‘s DLC. Later, we take a look at how *Guardians of the Galaxy* utilizes music before then trying to figure out which games have implemented licensed tracks in the best way.
+
+Timestamps:
+Intro- 0:32-4:28
+What are we playing-4:28-27:45
+
+News
+Sony E3 Conference-27:45-32:48
+E3 Coliseum- 32:48-38:22
+Zelda DLC- 38:24-44:50
+Mario x Rabbids– 44:50-49:08
+Super Secret Western- 49:08-01:00:33
+Darksiders III– 01:00:33-01:06:05
+
+Break-01:06:28-01:06:57
+
+Topics
+Logan-01:06:57-01:17:19
+
+Close- 01:17:19-01:21:18
+
+Follow Max and Logan on Twitter!
+
+@MGSpodcast
+@MaxRoberts143
+@MooreMan12
+
+Email us at mgspodcast@gmail.com
+
+Intro and Outro song is “OHC3” by Kris Keyser
+
+Break song is “Uroboros” by Eirik Suhrke from “*Downwell*.”

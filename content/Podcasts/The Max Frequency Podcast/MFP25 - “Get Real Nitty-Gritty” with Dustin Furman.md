@@ -1,0 +1,99 @@
+---
+Guest: "[[Dustin Furman]]"
+Recording Date: 2023-03-10
+Published: 2023-03-20
+tags:
+  - MFP
+  - ResidentEvil
+  - PlayStation/PSVR
+  - Podcast
+  - MetalGear
+  - Rockstar/GTA
+  - YouTube
+  - retro
+  - Collection
+URL: https://maxfrequency.net/2023/03/20/mfp-25/
+permalink: 2023/03/20/mfp-25/
+---
+Dustin Furman joins the show to talk about his journey to executive producer of Last Stand Media. Take a peek behind the curtain of production before Max and Dustin chat about PS VR2 and game collecting.
+
+<audio controls>
+  <source src="https://traffic.libsyn.com/maxfrequency/MFP25_Final.mp3">
+</audio>
+
+- *[Download](https://traffic.libsyn.com/maxfrequency/MFP25_Final.mp3) (51MB)  — [[MFP25_Transcription.pdf|Episode Transcript]]*
+- [RSS Feed](https://maxfrequency.libsyn.com/rss)
+- [Overcast](https://overcast.fm/itunes1557043396)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-max-frequency-podcast/id1557043396)
+- [Spotify](https://open.spotify.com/show/3W1LwBNmhZ6s5QmQViWXKn)
+
+> [!info]
+> Check out a [[How I Edit My Podcasts|behind-the-scenes look at how I edit podcasts]]! I filmed a [[How I Edit My Podcasts|tutorial]] editing this episode, which I thought would be a valuable resource for folks. I hope you enjoy!
+
+# Show Notes
+## Welcome
+
+- [[S5E5 - Resident Evil 4|Resident Evil 4 – Chapter Select, S5E5]]
+- [[MFP16 - “A Growing Individualistic Power” with Colin Moriarty]]
+- [The Creator Clash](https://thecreatorclash.com/)
+## BTTV Origins
+
+- [Butler Tornado Television](https://www.instagram.com/p/KsI6pPkcks/)
+- [*Kingdom Hearts* 1 AMV: It’s Already Over](https://youtu.be/ymGFTni_tn4)
+- [[MFP23 - “A Passion for Smash” – Celebrating 15 Years of Super Smash Bros. Brawl with Peter Spezia]]
+## The Journey to Last Stand
+
+- [Meeting Colin](https://www.instagram.com/p/uBz3MwEcnh/)
+- [Handsome Phantom](https://www.handsomephantom.com/)
+- [We’re Headed to E3!](https://youtu.be/jS6DRx-vWnY)
+- [Dustin the Campaign Manager](https://www.instagram.com/p/BTC1bERA7t6/)
+- [Fireside Chats, Episode 42: The Small Town Mayor ](https://www.patreon.com/posts/colins-last-42-19340030)(Patreon Exclusive)
+- [The Education of Filip Miucin | Sacred Symbols+ Episode 117](https://youtu.be/FsfsU5L1ZAc)
+- [IGN Pulls Ex-Editor’s Posts After Dozens More Plagiarism Accusations Surface](https://kotaku.com/ign-pulls-ex-editors-posts-after-dozens-more-plagiarism-1828357792)
+## Dustin’s Production Process
+
+- Dustin’s Hardware
+	- [Shure SM7B Microphone](https://www.shure.com/en-US/products/microphones/sm7b?variant=SM7B)
+	- [Zoom Podtrak 4](https://zoomcorp.com/en/us/podtrak-recorders/podcast-recorders/podtrak-p4/)
+- Dustin’s Software
+	- [Zencaster](https://zencastr.com/)
+	- [Adobe Premiere](https://www.adobe.com/products/premiere.html)
+- [Apple Pro Apps Bundle for Education](https://www.apple.com/us-edu/shop/product/BMGE2Z/A/pro-apps-bundle-for-education)
+- [Delayed Execution | Sacred Symbols: A PlayStation Podcast, Episode 245](https://youtu.be/jN3o6mFbG5Q)
+	- [Outrageous Laughter on Sacred Symbols](https://youtube.com/watch?v=jN3o6mFbG5Q&t=11604)
+## Live Show Production
+
+- [An Evening With Last Stand II Video Announcement Trailer](https://youtu.be/caxmR4M463U)
+- [Catalogue Company](https://www.catalogue-co.com/index.html)
+## PS VR2 Thoughts & Impressions
+
+- [Max Streaming *Resident Evil 4 VR*](https://youtube.com/playlist?list=PLxCxW3Sbhy5Z7jiYi0aoQAU0ZRIaBjNJR)
+- [[RE Engine May be the Most Flexible Proprietary Engine Out There]]
+- [*RE4* Remake VR Mode Development Tweet](https://twitter.com/BIO_OFFICIAL/status/1628309614843559937)
+- [*How to Train Your Dragon* Oculus Rift demo at NYCC 2014](https://www.polygon.com/2014/10/12/6967013/how-to-train-your-dragon-2-oculus-rift-nycc-2014)
+- [*GTA: San Andreas VR*](https://www.inverse.com/gaming/gta-san-andreas-vr-release-date-trailer-price-features-oculus-quest-2)
+- [*Metal Gear Solid* VR Mod](https://kotaku.com/metal-gear-solid-mod-vr-boneworks-vr-solid-snake-kojima-1849431217)
+## Retro Game Collecting in 2023
+
+- [The RAREST games in my collection ✨](https://youtu.be/jjbWe4yFNf4) by Dustin
+- [[My Video Game Collection Tour|My Massive Video Game Collection! by Max]]
+- [*Castlevania: Symphony of the Night* Pricecharting](https://www.pricecharting.com/game/playstation/castlevania-symphony-of-the-night)
+- [*The Misadventures of Tron Bonne* Pricecharting](https://www.pricecharting.com/game/playstation/the-misadventures-of-tron-bonne)
+## Post-Show: Coffee Cutscene
+
+- [What Makes *Persona* So Special – Coffee Cutscene Episode 2](https://youtu.be/JqT6_pVqn4w)
+- [Cometeer](https://cometeer.com/)
+- [xBloom](https://xbloom.com/)
+
+---
+# Dustin Furman
+
+- [Dustin’s Twitter @DustinCanFly](https://www.twitter.com/DustinCanFly)
+- [Last Stand Media Patreon](https://www.patreon.com/LastStandMedia/posts)
+- [Dustin’s YouTube Channel](https://www.youtube.com/@DustinCanFly)
+
+[Max Frequency](https://www.maxfrequency.net/)
+
+[[Chapter Select]] @ChapterSelect
+
+[Max’s Twitter @MaxRoberts143](https://www.twitter.com/MaxRoberts143)

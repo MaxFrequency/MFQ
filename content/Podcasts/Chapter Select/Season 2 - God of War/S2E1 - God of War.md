@@ -1,0 +1,55 @@
+---
+Guest: 
+Recording Date: 2021-09-25
+Published: 2021-10-13
+tags:
+  - CS
+  - GodOfWar
+  - PlayStation/PS2
+  - PlayStation/PS3
+  - PlayStation/Vita
+URL: https://maxfrequency.net/2021/10/13/chapter-select-s2e1/
+permalink: 2021/10/13/chapter-select-s2e1/
+---
+![[S2E1 Art.jpg]]
+
+Season 2 sets a course through the myth of ancient Greece with *God of War*. Max Roberts and Logan Moore travel back to *God of War*, not to be confused with 2018’s *God of War*. Has Kratos changed all that much since 2005? Does the quest for vengeance hold up?
+
+<audio controls>
+  <source src="https://traffic.libsyn.com/chapterselectpod/CS_S2E1_Final.mp3">
+</audio>
+
+- *[Download](https://traffic.libsyn.com/chapterselectpod/CS_S2E1_Final.mp3) (31MB)  — [[CS_S2E1_Transcript_GoW.pdf|Episode Transcript]]*
+- [RSS Feed](https://chapterselectpod.libsyn.com/rss)
+- [Overcast](https://overcast.fm/itunes1568777352/chapter-select)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/chapter-select/id1568777352)
+- [Spotify](https://open.spotify.com/show/4f1TLZXbwtSX7uHROe9KlS)
+# *God of War*
+
+Developer – Sony Santa Monica Studio
+Platform – PlayStation 2 (Remaster released on PlayStation 3 and PS Vita)
+Release Date – March 22, 2005 (Nov. 17, 2009 on PS3, May 6, 2014 on Vita)
+Game Director – [David Jaffe](https://en.wikipedia.org/wiki/David_Jaffe)
+Producer – [Shannon Studstill](https://twitter.com/studstills?lang=en)
+Combat Designers – [Derek Daniels](https://www.mobygames.com/developer/sheet/view/developerId,73059/), [Richard Foge](https://www.mobygames.com/developer/sheet/view/developerId,147293/), [Eric Williams](https://www.mobygames.com/developer/sheet/view/developerId,73057/), [David Jaffe](https://en.wikipedia.org/wiki/David_Jaffe), and [Todd Papy](https://www.mobygames.com/developer/sheet/view/developerId,105409/)
+Composers – [Gerard Marino](https://en.wikipedia.org/wiki/Gerard_Marino), [Mike Reagan](https://en.wikipedia.org/wiki/Mike_Reagan), [Ron Fish](https://en.wikipedia.org/wiki/Ron_Fish), [Winifred Phillips](https://en.wikipedia.org/wiki/Winifred_Phillips), [Winnie Waldron](https://en.wikipedia.org/wiki/Winnie_Waldron), [Cris Velasco](https://en.wikipedia.org/wiki/Cris_Velasco), and [Marcello De Francisci](http://www.marcellodefrancisci.com/video-games/)
+
+[Metacritic](https://www.metacritic.com/game/playstation-2/god-of-war) – 94/100
+# Links
+
+- [*God of War* – Wikipedia](https://en.wikipedia.org/wiki/God_of_War_(2005_video_game))
+- [*God of War* Game Directors Live](https://youtu.be/Pu8TxFYF-Go)
+- [*God of War: Ragnarök* Reveal Trailer](https://youtu.be/EE-4GvjKcfs)
+- Soundtrack
+	- [YouTube](https://youtube.com/playlist?list=PLiJCqXeqyAID45M8m99tpT-eJeaHczl5Z)
+
+---
+*This episode was originally recorded on September 25, 2021.*
+
+[Max’s Twitter](https://www.twitter.com/maxroberts143)
+[Logan’s Twitter](https://www.twitter.com/mooreman12)
+
+Researcher, Editor, and Producer – Max Roberts
+Hosted by Logan Moore & Max Roberts
+Season Art Statue Photo by [Simone Pellegrini](https://unsplash.com/@mazerone) on [Unsplash](https://unsplash.com/photos/L3QG_OBluT0) and designed by Max Roberts
+Episode Cover Art Coals Photo by [SHOT](https://unsplash.com/@shotgram) on [Unsplash](https://unsplash.com/photos/6HwOQGSiNbU) and designed by Max Roberts

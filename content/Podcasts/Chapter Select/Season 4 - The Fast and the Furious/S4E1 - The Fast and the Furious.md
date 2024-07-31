@@ -1,0 +1,61 @@
+---
+Guest: 
+Recording Date: 2022-07-23
+Published: 2022-08-24
+tags:
+  - CS
+  - FastFurious
+  - Hollywood
+URL: https://maxfrequency.net/2022/08/24/chapter-select-s4e1/
+permalink: 2022/08/24/chapter-select-s4e1/
+---
+![[S4E1 Art.jpg]]
+
+It all started with a couple tuna fish sandwiches and some stolen DVD players. In this movie packed with twists and turns (and not just on the streets), Max and Logan explore the origins of this mega blockbuster franchise. Do street races, crime, and Sunday barbecue still win the race or are some movies better off left in the dust?
+
+<audio controls>
+  <source src="https://traffic.libsyn.com/chapterselectpod/CS_S4E1_Final.mp3">
+</audio>
+
+- *[Download](https://traffic.libsyn.com/chapterselectpod/CS_S4E1_Final.mp3) (35MB)  — [[CS_S4E1_Transcript_FF1.pdf|Episode Transcript]]*
+- [RSS Feed](https://chapterselectpod.libsyn.com/rss)
+- [Overcast](https://overcast.fm/itunes1568777352/chapter-select)
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/chapter-select/id1568777352)
+- [Spotify](https://open.spotify.com/show/4f1TLZXbwtSX7uHROe9KlS)
+
+# *The Fast and the Furious*
+
+- Release Date – June 22, 2001
+- Director – [Rob Cohen](https://en.wikipedia.org/wiki/Rob_Cohen)
+- Producer – [Neal H. Moritz](https://en.wikipedia.org/wiki/Neal_H._Moritz)
+- Writers – [Gary Scott Thompson](https://en.wikipedia.org/wiki/Gary_Scott_Thompson), [Erik Bergquist](https://www.imdb.com/name/nm0074980/), and [David Ayer](https://en.wikipedia.org/wiki/David_Ayer)
+- Actors – [Vin Diesel](https://en.wikipedia.org/wiki/Vin_Diesel), [Paul Walker](https://en.wikipedia.org/wiki/Paul_Walker), [Michelle Rodriguez](https://en.wikipedia.org/wiki/Michelle_Rodriguez), and [Jordana Brewster](https://en.wikipedia.org/wiki/Jordana_Brewster)
+- Composer – [BT (Brian Wayne Transeau)](https://en.wikipedia.org/wiki/BT_(musician))
+- Stunt Coordinator – [Mic Rodgers](https://www.imdb.com/name/nm0734747/)
+- Budget / Profit – $38 million / $207.3 million
+
+[Rotten Tomatoes](https://www.rottentomatoes.com/m/1108372-fast_and_the_furious) – 54% critic and 74% viewers
+# Links
+
+- [*The Fast and the Furious* Wikipedia](https://en.wikipedia.org/wiki/The_Fast_and_the_Furious_(2001_film))
+- [*The Fast and the Furious* Trailer](https://youtu.be/ZsJz2TJAPjw)
+- [[S1 - Paper Mario|Chapter Select Season 1 – Paper Mario]]
+- [[S5 - Resident Evil|Chapter Select Season 5 – Resident Evil]]
+- [*Racer X* by Kenneth Li](https://www.vibe.com/features/editorial/racer-x-rafael-estevez-kenneth-li-fast-and-furious-inspiration-may-1998-336369/)
+- [Jesse’s Death](https://youtu.be/ICoeHEapHZs)
+- Soundtrack
+	- [Music](https://music.apple.com/us/album/the-fast-and-the-furious-original/1440921587)
+	- [Spotify](https://open.spotify.com/album/7b1Za3lJeLs6rOSi6a5wqf)
+	- [YouTube](https://www.youtube.com/playlist?list=OLAK5uy_nbKigwJ_83l4dDniAXAXsPbinc8wFXSR4)
+- [*The Fast and the Furious* cars](https://fastandfurious.fandom.com/wiki/Category:The_Fast_and_The_Furious_Cars)
+
+---
+*This episode was originally recorded on July 23, 2022.*
+
+[@ChapterSelect](https://www.twitter.com/chapterselect)
+[Max’s Twitter @MaxRoberts143](https://www.twitter.com/maxroberts143)
+[Logan’s Twitter @MooreMan12](https://www.twitter.com/mooreman12)
+
+Researcher, Editor, and Producer – Max Roberts
+Hosted by Logan Moore & Max Roberts
+Photo and Art designed by Max Roberts.

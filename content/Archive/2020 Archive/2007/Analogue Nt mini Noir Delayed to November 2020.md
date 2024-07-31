@@ -1,0 +1,28 @@
+---
+Published: 2020-07-03
+URL: https://maxfrequency.net/2020/07/03/analogue-delays-nt-mini-noir/
+permalink: 2020/07/03/analogue-delays-nt-mini-noir/
+tags:
+  - Analogue/NTmini
+---
+Nt mini Noir’s ship date has been delayed and will ship in November 2020. Due to the current state of global affairs and sudden supply chain challenges. Any questions about your order or to cancel for a full refund you can do so at any time at http://support.analogue.co. We apologize for this inconvenience.
+
+The Nt mini Noir was originally scheduled to ship sometime this month. This final run was supposed to be just a slightly redesigned of Analogue’s NES FPGA console and sold for $500. The [[Analogue Delays DAC Round 2 Pre-Orders|Analogue DAC was delayed back in April]], but Analogue said that the Nt mini Noir was still on time. To soften the blow of the four month delay, [Analogue announced](https://twitter.com/analogue/status/1279068063569076224) new features in the Nt mini Noir:
+
+- New FPGA, Scaler, and UI
+	- Same as the Mega Sg and [[My Journey to Playing with Super Power – Thoughts on the Super NT|Super Nt]]
+- A perfected NES cartridge slot, designed in house by Analogue
+- Dual, simultaneous HDMI & analog output
+	- Full Analogue DAC support (dual analog output)
+- NES Core 100% rewritten
+- All known game bugs fixed
+- Composite video optimized
+- Microphone input is mic input +a headphone output
+- Controller passthrough mode added
+- Cart slot voltage options added
+- FDS channel redone
+- N163 channel redone
+
+The coolest feature to me is the dual analog support via the DAC. [[Analogue DAC Thoughts and Impressions|I dig my own DAC]] and being able to capture/stream and play on an analog screen will be a welcome feature to those that want it.
+
+This also most assuredly means that the highly coveted [[Analogue Pocket Preview|Analogue Pocket]] will not release in 2020 as originally planned, although Analogue has been mum on the system since February 2020.

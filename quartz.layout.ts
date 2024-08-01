@@ -11,8 +11,10 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
+      "🎙": "https://quartz.maxfrequency.net/tags/Podcast",
+      "🎬": "https://youtube.com/maxfrequency",
+      "🐕": "https://quartz.maxfrequency.net/tags/NaughtyDog",
       "🏆": "https://psnprofiles.com/mudkip143",
-      "🎙": "http://chapterselect.com",
     },
   }),
 }

@@ -165,7 +165,7 @@ type ExplorerNodeProps = {
 export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodeProps) {
   // Get options
   const folderBehavior = opts.folderClickBehavior
-  const isDefaultOpen = opts.folderDefaultState === "closed"
+  const isDefaultOpen = opts.folderDefaultState === "open"
 
   // Calculate current folderPath
   const folderPath = node.name !== "" ? joinSegments(fullPath ?? "", node.name) : ""

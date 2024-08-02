@@ -11,7 +11,6 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
       <a href={baseDir}>
        <img src="/static/og-image.png" />
       </a>
-      //<a href={baseDir}>{title}</a>
     </h1>
   )
 }

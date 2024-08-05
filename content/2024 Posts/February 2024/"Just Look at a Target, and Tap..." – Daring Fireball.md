@@ -1,0 +1,20 @@
+---
+Published: 2024-02-01
+URL: https://maxfrequency.net/2024/02/01/well-actually-vision-pro-gruber/
+permalink: 2024/02/01/well-actually-vision-pro-gruber/
+tags:
+  - Apple/VisionPro
+---
+"[The Vision Pro](https://daringfireball.net/2024/01/the_vision_pro#fnr2-2024-01-30)" by John Gruber of Daring Fireball
+
+> The fundamental interaction model in VisionOS feels like it will be copied by all future VR/AR headsets, in the same way that all desktop computers work like the Mac, and all phones and tablets now work like the iPhone. And when that happens, some will argue that of course they all work that way, because how else could they work? But personal computers didn’t have point-and-click GUIs before the Mac, and phones didn’t have “it’s all just a big touchscreen” interfaces before the iPhone. No other headset today has a “just look at a target, and tap your finger and thumb” interface today. I suspect in a few years they all will.
+
+Apple Vision Pro is out *tomorrow*. While I do not have an order in place, I am hoping to schedule a demo this weekend. I can't wait to try Apple's foray into the world of face computers. 
+
+As such, I've been consuming videos and articles all week long. Chipping through John Gruber's review this morning and I read the paragraph above. I had a "well, actually..." moment with Gruber's penultimate sentence.
+
+> No other headset today has a “just look at a target, and tap your finger and thumb” interface today.
+
+The PS VR2 and its games *do* have a just look and select interface. The tapping is just that of a game controller button and not your finger and thumb together.
+
+Eye-tracking is pure technological magic and the PS VR2's use of it is great. The biggest difference is it is not the core input mechanic for Sony's headset, and that is the real point Gruber is making. This look and pinch/tap approach is natural and seamless. I agree that headsets in the years to come will adopt this model, because eye-tracking is that impactful. But, technically, Sony did it first on a large-scale consumer basis. 

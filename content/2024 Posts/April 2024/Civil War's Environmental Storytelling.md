@@ -42,4 +42,4 @@ So is a movie *just* the movie or does the marketing surrounding it become a par
 
 I'd say A24 succeeded, generative AI or not. The real story is the one we imagine ourselves, not the one the graphics cards whip up.
 
-[^1]: [Las Vegas](https://www.hollywoodreporter.com/wp-content/uploads/2024/04/438864751_788415253351553_3882761211184887117_n-EMBED-2024.jpg?w=1000) is the only one I could say is definitively inside the boundaries of the Loyalist States, but it is on the front lines of California aka half of the Western Forces aka Texas' ally. The sawn boat, I couldn't identify as any place more than "a warm spot with palm trees."
+[^1]: [Las Vegas](https://www.hollywoodreporter.com/wp-content/uploads/2024/04/438864751_788415253351553_3882761211184887117_n-EMBED-2024.jpg?w=1000) is the only one I could say is definitively inside the boundaries of the Loyalist States, but it is on the front lines of California aka half of the Western Forces aka Texas' ally. The swan boat, I couldn't identify as any place more than "a warm spot with palm trees."

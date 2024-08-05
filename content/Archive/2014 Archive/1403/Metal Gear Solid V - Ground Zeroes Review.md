@@ -1,0 +1,43 @@
+---
+Published: 2014-03-30
+URL: https://maxfrequency.net/2014/03/30/metal-gear-solid-v-ground-zeroes-review/
+tags:
+  - MetalGear
+  - Review
+permalink: 2014/03/30/metal-gear-solid-v-ground-zeroes-review/
+---
+The road to Metal Gear Solid V has been a long one. The end of Metal Gear Solid 4 was a perfect note to end the main story on, but there is always more to tell about Big Boss and Snake. Hideo Kojima surprised the industry with the announcement of Metal Gear Solid V: The Phantom Pain in 2012. This game has been designed to bridge the gap for Big Boss’ story between the PSP title, Peace Walker, and Meal Gear Solid 1. The new game boasts Kojima’s brand new FOX Engine, with photo-realism in mind. To hold fans over until The Phantom Pain’s release in 2015, Konami asked Kojima to release the prologue of the game separately. This is where Metal Gear Solid V: Ground Zeroes comes into play.
+
+![[8cbfc-2599712-metal-gear-solid-v-ground-zeroes.jpg.webp]]
+
+Ground Zeroes is designed with two main purposes in mind for the consumers; to ease players into the new open world style gameplay mechanics and to push a photo-realistic game in their face. It is both a gentle and harsh shove, just like your friend that gently pushes you off the diving platform you did NOT want to jump off. With the new FOX Engine Kojima is hoping to design the gameplay toward a photo-realistic open world, rather then a linear level design as in previous Metal Gear games.
+
+The open world in Ground Zeroes, brings in a variety of approaches to take down the same objective. Branching beyond the traditional options of “stealth” and “guns blazing,” the game brings in vehicles, new routes, interrogation techniques, and open objectives. Ground Zeroes feels diverse and approachable with this new level design. If a particular route I chose wasn’t lining up with my play style (stealth) I could just plan and execute a different approach. A downside to the open world is the lack of clarity for mission objectives. The map is tough to read, and mission objectives are not always clear. I found myself wandering and relying on custom waypoints much more than I would have liked. To help make my objectives more obvious, I could always interrogate an enemy NPC, but that involves risking my location. It’s a give-and-take style system, one that forces players to think about their choices before they perform them.
+
+![[eaaeb-metalgearsolidv-4.jpg.webp]]
+
+In the same breathe of open world gameplay, new mechanics breathe new life into traditional Metal Gear. Every event occurs in real time, just like in Peace Walker. Switching weapons, reading the map, Codec conversations all happen in real time. The only way to pause is to hit the pause button. This adds tension and strategy to the stealth gameplay. Enemies can also be tagged for the first time in the franchise. Exactly like Far Cry 3’s tagging mechanic, Snake can now tag enemies and see their location at all times. This is beyond useful in an open world stealth game.
+
+The other purpose that Metal Gear Solid V: Ground Zeroes serves is to show off how stinkin’ gorgeous The Phantom Pain will look. Key elements that the FOX Engine take advantage of are lighting, textures, facial capture, and the use of real actors. The game is stunning and leaves you slack jawed. Character faces and actions look so life-like. Even the NPC guards look real and have unique character traits. The environment has day and night sequences, depending on the mission you selected. The weather affects guard’s vision and patrol routes. Stormy and cloudy nights make it hard to spot you, while cloudless sunny days are a patrolmen’s dream. The weather will change how you play. The next gen version of the game will give players the best representation of Kojima’s vision for the game. I played the PS4 version and had to stop and just look around.
+
+![[0765f-facial-capture.jpg.webp]]
+
+Hand-in-hand with the visual photo-realism, Ground Zeroes will begin to push the boundaries of story telling within the medium as well. During a roundtable interview, Kojima said, “If we don’t try to go beyond that, we won’t be able to achieve what movies or novels have achieved. I didn’t want to stay away from these things that could be considered sensitive. If we don’t go that far, games will never be considered as culture.”
+
+That line Kojima talks about crossing is the line of topics that could be considered sensitive. Ground Zeroes definitely does not shy away from touchy topics. Without spoiling specific instances, the military base you infiltrate could be easily compared to Gauntanamo Bay. That comparison should help paint a picture for the types of events you may see while you play. Also the end cutscene of the main mission is intense. I couldn’t look away and felt the emotion in my gut. Others may have to look away entirely. It definitely has a high shock value. The end raises more questions than it answers, which leaves players craving Metal Gear Solid V: The Phantom Pain. I mean, the game ends with a trailer for Snake’s sake!
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KXrGQ4zG5pw?si=G4r9IHnnYDTTewET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+The important question I wanted to answer in this review is “What is Metal Gear Solid V: Ground Zeroes and who is it made for?” Fans of the franchise, hands down, need this game. It will scratch your itch for new Metal Gear and answer some old questions from Peace Walker. For those unfamiliar with the franchise, this is a tougher question. There is a backstory section with 12 pages that fill you in, but the effect is not the same as experiencing the previous games yourself. If you want to give your next gen system some love, Ground Zeroes will give it the love it needs for quite some time. If you still have last gen, you may want to wait for a price drop. The game will also help transition players, both seasoned veterans and fresh beginners, into the open world game play Kojima has created for the The Phantom Pain.
+
+Metal Gear Solid V: Ground Zeroes shows off what next gen Metal Gear Solid will be and scratches an itch that hasn’t been scratched in four years. This prologue is the first push Kojima has for the story and the game world of Metal Gear. He is easing us toward the edge of the diving platform, just to shove us off. And I would bet that The Phantom Pain will be a very big drop.
+
+![[3c9c6-the-phantom-pain-screens-spike-vgas-metal-gear-solid-13.jpg.webp]]
+
+*The video below is the Red Band trailer for Metal Gear Solid V: The Phantom Pain. This depicts the more serious nature of the game along with key open world mechanics the game is striving for. Viewer discretion is advised.*
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NL4ZxDWLwpM?si=HKtSwUzadVyw7W1j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

@@ -10,7 +10,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
     <article class="popover-hint">
       <h1>404</h1>
       <p>Whoops. Something broke. My bad. You can <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a> or just enjoy the quiet.</p>
-      <div id="gif">
+      <div style="text-align: center;">
         <img src="/static/404.gif" />
       </div>
     </article>

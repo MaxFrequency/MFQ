@@ -5,9 +5,6 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  right: [
-    Component.MobileOnly(Component.Explorer()),
-  ]
   afterBody: [
     Component.Backlinks(),
     Component.Graph(),

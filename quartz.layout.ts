@@ -5,13 +5,13 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
+  right: [
+    Component.MobileOnly(Component.Explorer()),
+  ]
   afterBody: [
     Component.Backlinks(),
     Component.Graph(),
   ],
-  right: [
-    Component.MobileOnly(Component.Explorer()),
-  ]
   footer: Component.Footer({
     links: {
       "🎙": "https://quartz.maxfrequency.net/tags/Podcast",

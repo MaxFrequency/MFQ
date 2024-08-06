@@ -9,6 +9,9 @@ export const sharedPageComponents: SharedLayout = {
     Component.Backlinks(),
     Component.Graph(),
   ],
+  right: [
+    Component.MobileOnly(Component.Explorer())
+  ],
   footer: Component.Footer({
     links: {
       "🎙": "https://quartz.maxfrequency.net/tags/Podcast",

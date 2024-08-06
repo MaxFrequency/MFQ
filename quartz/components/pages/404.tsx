@@ -12,6 +12,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
       <p>Whoops. Something broke. My bad. You can <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a> or just enjoy the quiet.</p>
       <div id="gif">
         <img src="/static/404.gif" />
+      </div>
     </article>
   )
 }

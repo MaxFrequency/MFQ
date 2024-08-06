@@ -46,8 +46,8 @@ image:
 
 Here is a [YouTube Playlist](https://youtube.com/playlist?list=PLxCxW3Sbhy5Y8zOGn2SLM-bBF8JDlpPrR) of the essay soundtrack.
 
-- Canyon Sunset for *Firewatch*
-- Adventure Map form *Super Smash Bros. Brawl*
+- Canyon Sunset from *Firewatch*
+- Adventure Map from *Super Smash Bros. Brawl*
 - Title from *Star Fox 64 3D*
 - Map from *Star Fox 64 3D*
 - Part of Your World from *The Little Mermaid*

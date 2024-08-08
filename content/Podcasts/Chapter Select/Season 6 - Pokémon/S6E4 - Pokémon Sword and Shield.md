@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2023/10/04/chapter-select-s6e4/
 permalink: 2023/10/04/chapter-select-s6e4/
 ---
+# S6E4 - *Pokémon Sword* and *Shield*
+
 ![[S6E4 Art.jpg]]
 
 The mainline *Pokémon* series finally heads to the big screen! Childhood friends Max Roberts and Logan Moore hit the gym with their teams for some clanging and banging to become the next undefeated Galar Champion. But has the switch to the telly made the grind too easy or have our hosts outgrown the quest to be the best?

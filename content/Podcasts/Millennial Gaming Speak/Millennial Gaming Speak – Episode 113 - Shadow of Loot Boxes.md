@@ -10,6 +10,8 @@ tags:
   - LotR
 permalink: 2017/10/10/mgs-113/
 ---
+# Millennial Gaming Speak – Episode 113 - Shadow of Loot Boxes
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-113-Shadow-of-Loot-Boxes-e1adhq2/a-a6ts40q" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

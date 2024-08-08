@@ -10,6 +10,8 @@ tags:
 URL: https://maxfrequency.net/2022/09/14/mfp-17/
 permalink: 2022/09/14/mfp-17/
 ---
+# MFP17 - “A Pure Time Capsule of How I Feel” with Casey Liss
+
 Casey Liss returns to the show to give Max dad advice.
 
 <audio controls>

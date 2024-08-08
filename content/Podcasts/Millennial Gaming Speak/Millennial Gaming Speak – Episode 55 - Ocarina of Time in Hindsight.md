@@ -13,6 +13,8 @@ tags:
   - Zelda/OoT
 permalink: 2016/08/19/mgs-55/
 ---
+# Millennial Gaming Speak – Episode 55 - Ocarina of Time in Hindsight
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-55-Ocarina-of-Time-in-Hindsight-e1adhua/a-a6ts43q" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

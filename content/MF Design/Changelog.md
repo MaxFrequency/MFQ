@@ -7,6 +7,8 @@ tags:
 description: 
 image:
 ---
+# Changelog
+
 Welcome to the Max Frequency changelog. I thought it'd be fun to keep a log of visual design changes here on the site now. I decided to name (date?) the changes with the year and month as the name, i.e. 2024.4.
 
 For very brief historical context, here are some articles about visual refreshes in the past.
@@ -16,7 +18,21 @@ For very brief historical context, here are some articles about visual refreshes
 - [[The Max Frequency 2024 Redesign]] dated April 11, 2024
 
 ---
-> [!log] 2024.5.24
+> [!log] 2024.8.6
+> A few slight visual and information improvements. Oh, mirror of the site through Quartz 4.0.
+> 1. Implemented a couple of CSS Classes from the [Minimal Theme](https://minimal.guide/publish/download) by kepano. Namely, `img-grid` and `img-zoom`. you can see their implementation [[Back in Hyrule, Map Free|here]] or [[Behind the Scenes of My First Video Essay – My Journey to Becoming a Map Maker#The Thumbnail|here]].
+> 2. Standardized slug formatting with "20XX/MM/DD/title" to help with chronology and metadata. 
+> 3. Removed the double heading in the menu bar since the logo and the site name say the same thing. I did it by adding this line to the .js file. 
+>    
+>    `// == Site Name Hide ==`
+>    `document.getElementsByClassName('site-body-left-column-site-name')[0].style.display = 'none';`
+>    
+>    Still need to figure out how to replicate on mobile site. All credit to [Christopher Wagner](https://impromptbru.com/Imprompt+Brü/🧭+Home) for sharing the code and idea.
+>    
+> 4. Added a shadow behind the site logo to help with readability in Light Mode.
+> 5. Implemented a [Quartz](https://quartz.jzhao.xyz/) version of the site. Simply visit [quartz.maxfrequency.net](https://quartz.maxfrequency.net) to see. This is very much in active development and exploration. Links are broken. Features are missing. A handful of easter eggs to find. My goal is to be able to put "quartz." in front of a URL and it take you to the same page. Visit with caution and curiosity. 
+
+> [!log]- 2024.5.24
 > Some more apparent visual changes to the site with two new efforts as well—Game Notes and Chapter Select Production Status.
 > 1. Added light and dark theme variants for certain callouts to improve readability. Check them out by alternating modes on the [[Theme Testing]] page.
 > 2. Implemented "Published Date" and tags at the top of posts. It bugged me to not have a public view of the published date. Tags were a bonus because clicking on them reveals all other posts with the same tag. Seemed super helpful and cool. I used this [tutorial](https://minerva.mamansoft.net/📗Obsidian逆引きレシピ/📗Obsidian+Publishのサイトにプロパティ(メタデータ)を表示したい).

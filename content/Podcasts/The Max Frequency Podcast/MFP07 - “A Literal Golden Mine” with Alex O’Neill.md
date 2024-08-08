@@ -17,6 +17,8 @@ tags:
 URL: https://maxfrequency.net/2021/05/24/mfp-7/
 permalink: 2021/05/24/mfp-7/
 ---
+# MFP07 - “A Literal Golden Mine” with Alex O’Neill
+
 No fancy interview this time, Alex O’Neill joins the show to assess how the new consoles are going and share his disappointments in *The Last of Us Part II*. Plus, we chat about why 100 hours in *Persona* doesn’t actually feel like 100 hours.
 
 <audio controls>

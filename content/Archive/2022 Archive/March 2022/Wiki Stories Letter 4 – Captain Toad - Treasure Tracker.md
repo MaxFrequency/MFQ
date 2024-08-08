@@ -1,0 +1,97 @@
+---
+Published: 2022-03-03
+URL: https://maxfrequency.net/2022/03/03/wiki-stories-4/
+permalink: 2022/03/03/wiki-stories-4/
+tags:
+  - WikiStories
+  - IGN
+  - Nintendo/WiiU
+  - CaptainToad
+---
+# Wiki Stories Letter 4 – *Captain Toad: Treasure Tracker*
+
+# Facts:
+
+- Game - Captain Toad: Treasure Tracker
+- Released on December 5, 2014 (Wii U) and July 13, 2018 (Switch and 3DS)
+- Developed by Nintendo; Published by Nintendo
+- IGN’s Wiki Team - Eric Campbell
+- My contributions - Complete video walkthrough
+- Pay - $0; copy of the game provided by myself
+- Time Spent: 23 hours of playtime
+
+---
+# Digging Up Old Treasure
+
+This is one of the odder guides I worked on. Not the game or work itself, but the circumstances surrounding it. I was never hired for working on this game, but ended up doing the entire video walkthrough. Instead of it being published on IGN, the near 100 videos were (and still are) uploaded to my own YouTube channel. I’ve got no record of working directly with the hired freelancer, Eric Campbell, but feel like there was *some* form of communication. Whatever it may have been, it’s lost.
+
+Two days before Captain Toad’s full-blown adventure made its Wii U debut, I asked Sam Claiborn for a freelance gig. I had a cringy opener that pitched myself as a freelance writer—behold!
+
+> “I am Max Roberts and I had a few questions about any freelance work you may have. You may know me from my work on the Donkey Kong Tropical Freeze wiki guide, the Hitman Go wiki guide, and some updates on the Mario Kart 8 wiki. I remembered having your email from you thanking me for my help on DKTF, so I hope you don’t mind me emailing you this morning.
+> 
+> I am an upcoming Junior at the University of Central Florida pursuing a major in journalism. I have been pursuing a career in games journalism for the past couple of years. I believe my work on the wikis has allowed me to learn how the IGN wiki system functions, clear and concise writing, and what users what like to see. I hope this work has helped put my foot in the door. Now I would like to step through the door and shake your hand.
+> 
+> I have been in touch with Mr. Petty in regards to the Hitman Go wiki. He liked my work and has given me a few pointers. I have the tools for video and audio capture, editing, and publishing. I use an Elgato HD to capture all my game footage. I recently purchased a Yeti USB microphone as well, since Mr. Petty said my audio quality needed to be improved.
+> 
+> I would like to know how freelancing works and if there were any openings. I can supply further writing samples from my blog, Go Left Gaming. I also have a YouTube channel that can show off my video capture and editing. I appreciate your time Mr. Claiborn and hope to hear from you soon.
+
+The whole “step through the door” bit is shoulder-shrugging cringe, but I remember thinking it was clever. After ten or so months of on and off wiki editing for free, I figured I had done enough to ask about being paid for future work. Turns out, I was right!
+
+> “Hey Max,
+> 
+> Thanks for reaching out, and for all of your guide contributions. You are in luck! We are looking for talented video guide and wiki freelancers right now. It sounds like you have everything you need equipment-wise, and I like your work on DKTF etc.
+> 
+> We have Captain Toad covered by another freelancer and we could use your help capturing some harder levels (please!)–but I have the budget right now to hire you to help with our epic Dragon Age: Inquisition guide. If you are interested that, we need a bunch of side quests capture on video, some maps made for hidden items and a few other tasks that would all be a good way to get your foot in the door here and learn the ropes freelance-wise.
+> 
+> Also: It’s an awesome game!
+> 
+> Generally these gigs pay $500 for an entire guide, and around the same mark for special projects like this. We’ll also buy you the game.
+> 
+> Thanks, and please let me know if you are interested.
+
+I remember where I was when I got that email from Sam. I was sitting in a booth at Gene Simmons’s chain restaurant Rock & Brews with my parents and girlfriend to get some dinner.[^1] We hadn’t ordered yet, but after the email came through, the casual meal turned into a celebratory feast. We had one of those massive, tearable pretzels and I ordered the sweet and spicy Asian wings.[^2]
+
+Working on *Dragon Age: Inquisition* never came to pass. I’d instead end up working on *Tales from the Borderlands*, which is a much better guide to start out on than being thrust into a massive open-world RPG. I’ll share more about that in next week’s letter though. The crucial bit of information is that getting started took time. December is a notorious time of year for games and guides. While I waited to get rolling with Rhys and Fiona, I strapped on my treasure hunting pack and set out with Captain Toad.
+# Mapping Out the Method
+
+All I have to go off of his Sam’s request to capture the harder levels in *Captain Toad: Treasure Tracker*. There are no other emails or Twitter messages I can find that relay how I ended up handling all the video for this guide. [[Wiki Stories Letter 2 – Donkey Kong Country - Tropical Freeze|Much like]] *Donkey Kong Country: Tropical Freeze*, I likely played the game in order and chopped up the videos afterward.[^3]  Since I did not have access to IGN’s content management system (CMS), I uploaded the videos to my YouTube channel. It was the only way I knew how to share the gameplay.
+
+I do have one picture from this particular gig that I shared on my longtime defunct [Instagram](https://www.instagram.com/p/wOsMJdtQcG/). There’s a lot to glean from this jokey image. First, the laptop cooling solution. I would prop my MacBook Air up on two DS game cases then point a small fan in the computer’s direction. The idea was to help keep air flowing all around the machine while it whined under a heavy load with its dual core i7 processor.  Who knows if it actually helped, but I sure thought it did for years.
+
+To the left we can see my iPad mini with IGN’s written walkthrough for *Captain Toad*. While I do always try to figure out puzzles and solutions on my own, I would bet on having a sense of urgency. Sam specifically asked for help with later levels. If I got stuck on something, I would have turned to the guide immediately to help speed up my work. The particular level on display looks like [1-3 Touchstone Trouble](https://www.youtube.com/watch?v=nwQwt_-Uh0c&feature=youtu.be), which appears to have had a [challenge](https://youtu.be/r7bkMXUUHhw) to make it to the star in a minimum number of taps. I bet that is what I needed help with.
+
+The great thing about producing a video walkthrough for a game like *Captain Toad: Treasure Tracker* is the inherent shortness of the levels. It was fast. Without a need to add IGN-branded bumpers, production was lightning. It was rare for a level to be more than five minutes. I was churning an average of ten videos out a day, according to the upload dates.
+
+You may have noticed a new fact at the top of the letter. I was able to track down my time spent playing *Captain Toad: Treasure Tracker*! I suppose I could have added up the videos, but a much simpler solution presented itself. Courteous of Nintendo announcing the shut down of the Wii U eShop, they threw up a website that produced a little chart of folks most played games on Wii U and 3DS. Turns out *Captain Toad: Treasure Tracker* was my third most played title on the console, clocking in at 23 hours.[^4]
+
+The entire guide was uploaded privately. Then I’d take the secret link from the backend and embed it in the wiki. In my head, these were IGN property in all but name. I wanted to present it as such, best I could. Looking at the guide today, all my videos are purged from the wiki. 😢 This could have happened when the game was rereleased on Switch and 3DS or during some mass spam purge. It’s a real shame too: Not for my own view count, but simply for the end-user who doesn’t have an embedded video to help them.[^5]
+
+While the exodus of my videos was unbeknownst to me until writing this letter, I did actually flip the privacy switch on those videos last year. Turns out, when you take an unlisted or private video and make it public, the video immediately bubbles to the top of your uploads. I flipped the switch on all the videos at once. It was like I took a bottle of Captain Toad soda, shook it up, and twisted the cap off; creating a fizzy surge of revival. I can only imagine the subscriber notifications.
+
+As soon as I caught the mistake, I swapped everything to unlisted. Then I made a public playlist with the entire guide in order. Far from an SEO expert’s ideal, but my work could live outside of IGN where it may have already been buried.
+
+Approaching the letter for this week I looked at the list of games I worked on and thought, “I won’t have too much to say about *Captain Toad*. This will be a shorter letter.” I had no recollection that this game kickstarted me being paid. While this work was unpaid, my reaching out about it spurred employment. This is only because of the writing I had done throughout the year. I had a body of work that could be looked at and the equipment necessary to produce quality walkthroughs. Being encouraged by Podcast Beyond hosts to go out there and do “it” paid off.
+
+2014 turned out to be a great year, at least when I look back to write these letters. I was making it into the world of game journalism through the doorway of guides. My degree was on the horizon and I had a clear in with the company I always dreamed of working at. I was on a roll straight into the new year. Looking ahead, 2015 had a whole new type of guide in-store for me. Platformers and puzzlers were out: The player-choice driven and open-world RPG was in.
+
+---
+# Thoughts & Impressions
+
+Frankly, I haven’t touched *Captain Toad: Treasure Tracker* since this guide, despite buying the Switch port on Day One. It’s been a whopping eight years.
+
+When the *Captain Toad* puzzles premiered in *Super Mario 3D World*, I was captivated. Clearly, Nintendo was too. The floating cube-like level design is playful in nature. They are like little toys. This is given tactility with the Wii U’s touchscreen. Swiping the camera around to find hidden paths and treasure offers delight to both the Captain himself and the player.
+
+The high-pitched “Ready for Adventure!” at the start of each level puts a pep in my puzzle solving step.[^6] The toad’s little jig when collecting a star encourages me to play another board. It also helps that the game has a brisk pace. The single-screen nature keeps the puzzle contained. This approachable and clever design was a major contributing factor to my own output of walkthroughs.
+
+The graphics of *3D World* lend themselves to the toy-like nature in an exceptional way. Nintendo truly are proof that art direction and design can make the weakest hardware shine.
+
+I love seeing the backpack-toting Toad make little cameos in other *Mario* games. Really, it’s been long enough. I am overdue for setting out on an adventure with the Captain. Maybe I’ll finally boot up my copy of the game on Switch and explore those new levels. It’d be fun to play in the toy box again and find new toys alongside the ones I forgot I ever even had.
+
+---
+
+[^1]: We had been dating just over a year at the time, but now she is my lovely wife. 
+[^2]: And I still would order those wings if the place hadn’t given Abby terrible food poisoning from a burger a couple years ago. Wings = good; burger = bad. 
+[^3]: You can read all about my *DKC: TF* guide in [[Wiki Stories Letter 2 – Donkey Kong Country - Tropical Freeze|Letter #2]] . 
+[^4]: I’ll provide this stat for any other games that share the time spent with me. It can be helpful to gauge work, time, and pay at a glance. Just wait for the RPGs. 👀 
+[^5]: My combined view count after eight or so years–depending on when they were purged–is 190,450. Not bad, if I do say so myself, since the only way to view these videos was in IGN’s wiki guide. 
+[^6]: Turns out that the “Ready for Adventure!” is the sound my phone makes when sending an email. Not that I ever have the sound on my phone anyway. 

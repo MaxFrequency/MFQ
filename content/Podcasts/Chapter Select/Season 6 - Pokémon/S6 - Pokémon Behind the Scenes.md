@@ -7,6 +7,8 @@ tags:
   - Pokémon
   - BtS
 ---
+# Behind the Scenes of Season 6 – *Pokémon*
+
 We did it. We played every mainline *Pokémon* game. After 21 months of prep, play, and production, Season 6 has come to a close. It doesn't feel quite real, even as I write this out. I feel like there is still more to do. 
 
 
@@ -69,7 +71,7 @@ We had the most guests ever this season! A big contributing factor is reaching o
 
 Chris Compendio is a buddy and former co-writer of both myself and Logan from all our DualShockers days. Chris' pursuit of a complete "living dex" made them a perfect guest to invite onto the *Scarlet* and *Violet* episode. It was a treat to dig into the Pokédex and have a small DS reunion.
 
-Peter Spezia is a longtime friend and inspiration to myself. We've had the pleasure of recording with Peter [[Millennial Gaming Speak – Episode 52 - Do We Finally Know What the NX Is?|back]] in [[Millennial Gaming Speak – Episode 76 - Breaking Down All Things Nintendo Switch|our]] [[Millennial Gaming Speak]] [[Millennial Gaming Speak – E3 2017 - Nintendo Breakdown|days]] [[Millennial Gaming Speak – Episode 100 - Everyone Has a Story|numerous]] [[Millennial Gaming Speak – Episode 117 - Mellow Chats with Max and Peter|times]]. Peter is one of the biggest *Pokémon* fans I know, especially of *HeartGold* and *SoulSilver*. He was the first person we reached out to. I loved experiencing these stone cold classics with a fan and expert like my friend.
+Peter Spezia is a longtime friend and inspiration to myself. We've had the pleasure of recording with Peter [[Millennial Gaming Speak – Episode 52 - Do We Finally Know What the NX Is|back]] in [[Millennial Gaming Speak – Episode 76 - Breaking Down All Things Nintendo Switch|our]] [[Millennial Gaming Speak]] [[Millennial Gaming Speak – E3 2017 - Nintendo Breakdown|days]] [[Millennial Gaming Speak – Episode 100 - Everyone Has a Story|numerous]] [[Millennial Gaming Speak – Episode 117 - Mellow Chats with Max and Peter|times]]. Peter is one of the biggest *Pokémon* fans I know, especially of *HeartGold* and *SoulSilver*. He was the first person we reached out to. I loved experiencing these stone cold classics with a fan and expert like my friend.
 
 Cameron Hawkins is another DualShockers alum. Cam was smart enough to ask if he could play *Emerald* instead of the *Omega* and *Alpha* remakes. This split in what we all played made for one of the more unique discussions we had all season long. 
 

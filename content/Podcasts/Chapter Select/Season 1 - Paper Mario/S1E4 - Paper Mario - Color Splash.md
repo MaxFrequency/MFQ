@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2021/07/14/chapter-select-s1e4/
 permalink: 2021/07/14/chapter-select-s1e4/
 ---
+# S1E4 - *Paper Mario: Color Splash*
+
 ![[S1E4 Art.jpg]]
 
 The Wii U wasn’t really making a splash back in 2016. Max, Logan, and special guest Tomas Franzese bust out their decks of cards and paint palettes to examine if *Paper Mario*’s HD debut is one of the Wii U’s lost masterpieces. Can a fresh coat of paint hide the cracks of *Paper Mario*’s Wii U adventure?

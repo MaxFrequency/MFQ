@@ -18,6 +18,8 @@ tags:
 URL: https://maxfrequency.net/2023/08/30/mfp-30/
 permalink: 2023/08/30/mfp-30/
 ---
+# MFP30 - “Born to Test This Stuff” with Marc “Try4ce” Duddleson
+
 Marc “Try4ce” Duddleson from My Life in Gaming opens up about his passion-fueled creation process before we both just marvel at how the FPGA is powering retro gaming today. Yes, we talk about the RetroTINK 4K. 🤡
 
 <audio controls>

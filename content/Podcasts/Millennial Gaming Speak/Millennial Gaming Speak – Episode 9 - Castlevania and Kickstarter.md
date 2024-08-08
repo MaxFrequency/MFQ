@@ -14,7 +14,9 @@ tags:
   - Witcher
 permalink: 2015/05/20/mgs-9/
 ---
-%%Google Doc Link - https://docs.google.com/document/d/15_Z6AZDIz5P6KtNx43NpYmJJ7BEom4KZqzi9MkhRgR8/edit?usp=sharing%%
+# Millennial Gaming Speak – Episode 9 - Castlevania and Kickstarter
+
+%%Google Doc Link - https://docs.google.com/document/d/15_Z6AZDIz5P6KtNx43NpYmJJ7BEom4KZqzi9MkhRgR8/edit?usp=sharing %%
 
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-9-Castlevania-and-Kickstarter-e1adhrr/a-a6ts43a" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

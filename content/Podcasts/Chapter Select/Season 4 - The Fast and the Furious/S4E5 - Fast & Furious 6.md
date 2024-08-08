@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2022/10/19/chapter-select-s4e5/
 permalink: 2022/10/19/chapter-select-s4e5/
 ---
+# S4E5 - *Fast & Furious 6*
+
 ![[S4E5 Art.jpg]]
 
 Listen up! We’re heading to London baby! Max Roberts, Logan Moore, and wrestling move expert Mario Rivera hit the street to find out if ghosts are real as the Fast Family goes out to save one of their own. Does Justin Lin land the finale of his trilogy or does he run out of runway?

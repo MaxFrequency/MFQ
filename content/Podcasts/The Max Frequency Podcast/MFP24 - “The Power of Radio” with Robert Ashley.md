@@ -15,6 +15,8 @@ tags:
 URL: https://maxfrequency.net/2023/03/15/mfp-24/
 permalink: 2023/03/15/mfp-24/
 ---
+# MFP24 - “The Power of Radio” with Robert Ashley
+
 Editor and host Robert Ashley sits down with Max to talk about reviving the timeless internet radio show *[A Life Well Wasted](https://alifewellwasted.com/)*, how good material is king, and the act of listening.
 
 <audio controls>

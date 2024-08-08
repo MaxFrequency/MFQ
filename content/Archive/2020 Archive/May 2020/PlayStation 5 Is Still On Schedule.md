@@ -1,0 +1,16 @@
+---
+Published: 2020-05-13
+URL: https://maxfrequency.net/2020/05/13/ps5-on-schedule/
+tags:
+  - PlayStation/PS5
+permalink: 2020/05/13/ps5-on-schedule/
+---
+# PlayStation 5 Is Still On Schedule
+
+[Financial Statements and Consolidated Financial Results for the Fiscal Tear Ended March 31, 2020 and Outlook for the Fiscal Year Ending March 31, 2021](https://www.sony.net/SonyInfo/IR/library/presen/er/pdf/19q4_sony.pdf)
+
+Direct download ([PDF](https://maxfrequency.net/wp-content/uploads/2020/05/19q4_sony-1.pdf))
+
+> Regarding the launch of PlayStation®5, although factors such as employees working from home and restrictions on international travel have presented some challenges in regards to part of the testing process and the qualification of production lines, development is progressing with the launch of the console scheduled for the 2020 holiday season. At this point in time major problems have not arisen in the game software development pipeline for Sony’s own first-party studios or its partners’ studios.
+
+Sounds like the PS5 is still on schedule. I wish they would come out and share more details on the hardware. It feels like they are trying to focus on pushing out these last two major PS4 titles. Between the [[Thursday’s State of Play is All About Ghost of Tsushima – PlayStation.Blog|State of Play stream exclusively about Ghost of Tsushima]] and the impending launch of *The Last of Us Part II*, Sony seems to be all in for getting these games out. Although, [the rumor mill](https://twitter.com/petespeakeasy/status/1260509467147411463) is churning out the idea that a PlayStation exclusive could be revealed this morning as a part of the Summer Game Fest.

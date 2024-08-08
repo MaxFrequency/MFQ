@@ -1,0 +1,17 @@
+---
+Published: 2020-07-06
+URL: https://maxfrequency.net/2020/07/06/xbox-series-x-games-showcae/
+permalink: 2020/07/06/xbox-series-x-games-showcae/
+tags:
+  - Xbox
+  - E3
+  - Xbox/XSX
+  - Xbox/XSS
+---
+# Xbox Games Showcase Airing on July 23
+
+> Xbox Games Showcase, July 23rd, 9am PT
+> 
+> -Xbox via [Twitter](https://twitter.com/Xbox/status/1280139454796009477)
+
+Let the games begin.

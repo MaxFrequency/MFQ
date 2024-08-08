@@ -1,0 +1,26 @@
+---
+Published: 2020-05-03
+URL: https://maxfrequency.net/2020/05/03/last-of-us-part-ii-leak-cause/
+tags:
+  - NaughtyDog/TLOU
+permalink: 2020/05/03/last-of-us-part-ii-leak-cause/
+---
+# How The Last of Us Part II Leaked
+
+Jason Schreier has been [“sneaking” around the past week](https://twitter.com/jasonschreier/status/1255987525946089472) trying to figure out what exactly happened with Naughty Dog and [[The Last of Us Part II Major Leaks Have Begun|The Last of Us Part II leak]]. Especially since those early rumors about the source being a former employee [[Naughty Dog Comments on The Last of Us Part II Leaks|turned out to be false (which I preemptively shared my take on)]]. This morning Jason tweeted out what he has discovered. I’ve pasted them below, in case his mentions are filled with spoilers, but the original tweets can be found [here](https://twitter.com/jasonschreier/status/1256893466564603906) and [here](https://twitter.com/jasonschreier/status/1256893468263305216).
+
+> OK: After talking to two people with direct knowledge of how TLOU2 leaked as well as some Naughty Dog employees, I have a good idea of what happened. Short version: hackers found a security vulnerability in a patch for an older ND game and used it to get access to ND’s servers.
+> 
+> I think the footage that leaked is from devs playing an early build (I haven’t watched it). Most importantly, rumors of this being an act of protest by a contractor whose pay was robbed are not true. (ND actually extended pay and healthcare benefits for contractors due to [COVID-19])
+
+With all the entire company having to shift to working form home, it could possibly have made this sort of leak easier to cause. Jason’s comment that the leaked footage could be from an earlier build that the developers were playing means we don’t know if this was footage from the press demos back in September or from the [smaller leak](https://www.dualshockers.com/the-last-of-us-2-new-guitar-gameplay-leaked-on-youtube/) at the beginning of the month when the game was [[Sony has Delayed The Last of Us Part II Indefinitely|delayed indefinitely]]. While I have avoided this most recent leak, I did download the first leak’s footage. It included scenes from that original press preview demo (with Thai subtitles), which also was going to be the first public demo at PAX East 2020.
+
+People are being as reductive as possible with this story leak. Boiling down whatever it is to the rawest element and spreading it. [[Announcing Chasing the Stick|While also being completely out of context with the story and the gameplay, which is where a bulk of Naughty Dog’s storytelling occurs]]. Plus, the possible addition of rumors and lies that blur lines even further. It is important to play the game front to back to actually fairly comment and critique it, but the faceless accounts crying out on the Internet do not care for fairness. It is a shame.
+
+Neil has [said](https://twitter.com/Neil_Druckmann/status/1256276437968908288) that more false rumors are out there, which further implies that context is essential. I copied his tweet below as well (and he even says to avoid his mentions and replies for fear of spoilers.
+
+> Glad this got cleared up, but there are a lot of other false rumors out there. Looking forward to discussing all of this once the game is out.
+>
+> (Avoid comments if you don’t want spoilers)❤️
+
+Endure and survive. [[The Last of Us Part II Releasing in June|June 19]] is not that far away.

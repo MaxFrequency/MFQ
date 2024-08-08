@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2021/04/25/mfp-5/
 permalink: 2021/04/25/mfp-5/
 ---
+# MFP05 - “The Archie Comic Cinematic Universe” with Michael Ruiz
+
 Micahel Ruiz joins me to talk about our shared love of teen angst in media, including our thoughts on *Emily is Away <3*. How on Earth does Archie Andrews have 30 abs and survive an underground boxing league?
 
 <audio controls>

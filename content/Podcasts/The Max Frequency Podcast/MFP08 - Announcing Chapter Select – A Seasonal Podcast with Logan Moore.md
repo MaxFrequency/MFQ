@@ -8,6 +8,8 @@ tags:
 URL: https://maxfrequency.net/2021/05/26/mfp-8/
 permalink: 2021/05/26/mfp-8/
 ---
+# MFP08 - Announcing Chapter Select – A Seasonal Podcast with Logan Moore
+
 [[Chapter Select]] is a season-based podcast. Myself and Logan Moore pick a series each season and play all its entries alongside guests. The twist is we play the first game and then the most recent game, bouncing back and forth until we meet in the middle; allowing us to explore a franchise’s design, legacy, and evolution.
 
 <audio controls>

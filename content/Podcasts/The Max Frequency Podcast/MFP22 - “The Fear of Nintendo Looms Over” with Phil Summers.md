@@ -18,7 +18,9 @@ tags:
 URL: https://maxfrequency.net/2023/02/10/mfp-22/
 permalink: 2023/02/10/mfp-22/
 ---
-sPhil Summers returns to dig into his creative process making Hand-Drawn Games Newsletter and talk about Nintendo’s beefy February 2023 Direct.
+# MFP22 - “The Fear of Nintendo Looms Over” with Phil Summers
+
+Phil Summers returns to dig into his creative process making Hand-Drawn Games Newsletter and talk about Nintendo’s beefy February 2023 Direct.
 
 <audio controls>
   <source src="https://traffic.libsyn.com/maxfrequency/MF22_Final.mp3">

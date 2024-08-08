@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2023/09/27/chapter-select-s4e13/
 permalink: 2023/09/27/chapter-select-s4e13/
 ---
+# S4E13 - *Fast X*
+
 ![[S4E13 Art.jpg]]
 
 Never accept a finale when episodes are owed. Retroactively-CGI’d Max Roberts and Logan “Nobody” Moore used the power of Peacock to watch *Fast X*. Is the family too large for its own good these days or is there room for more?

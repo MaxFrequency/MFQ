@@ -4,7 +4,7 @@ permalink: podcasts/
 tags:
 ---
 Here is a list of all my podcasts and guest appearances throughout the years. I hope you enjoy the shows, whether they are new or old. 
-# Active
+# Podcasts
 ## [[Chapter Select]]
 
 A seasonal, retrospective podcast where host Max Roberts and Logan Moore pick a series to bounce back and forth between its entries, exploring their evolution, design, and legacy. Each season explores a different series with guests joining our hosts along the way to explore media outside of individual titles.
@@ -57,6 +57,9 @@ An occasional fare with Logan Moore, Michael Ruiz, Mario Rivera, Grant Callahan,
 ## Irrational Passions  
 - [Ep. 340 with Max Roberts](https://irrationalpassions.com/irrationalpod-ep-340-with-max-roberts/)  
 - [Ep. 374 with Max Roberts](https://irrationalpassions.com/irrationalpod-ep-374-with-max-roberts/)  
+## The Notepad Podcasat
+
+- [[Guest Hosting on The Notepad Podcast]] (No longer available to listen to)
 ## The PowerSwitch
 - [The Fight for Battle Royale with Max Roberts – Episode 38](http://rhymeswithasia.com/the-powerswitch-episode-38-fight-battle-royale-max-roberts/)  
 ## Show Me Your News Ultimate  

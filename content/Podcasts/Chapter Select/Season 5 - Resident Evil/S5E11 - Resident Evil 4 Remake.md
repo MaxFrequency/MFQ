@@ -11,6 +11,8 @@ tags:
 URL: 
 permalink:
 ---
+# S5E11 - *Resident Evil 4* Remake
+
 ![[S5E11 Art.jpg]]
 
 It is time to return to Spain with its one liners, mysterious merchants, and cryptic castles. Max Roberts and Logan Moore complete their journey through *Resident Evil* by donning their leather jackets one more time. Did the *Resident Evil 4* remake surpass its origins or did it buckle under the weight of its predecessor?

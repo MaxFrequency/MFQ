@@ -1,0 +1,13 @@
+---
+Published: 2022-12-30
+URL: https://maxfrequency.net/2022/12/30/sakurai-details-the-last-of-us-part-i-accessibility/
+permalink: 2022/12/30/sakurai-details-the-last-of-us-part-i-accessibility/
+tags:
+  - NaughtyDog/TLOU
+  - Sakurai
+---
+# Sakurai Details *The Last of Us Part I*’s Accessibility
+
+[Modern Quality of Life Features (UI)](https://youtu.be/j2BX4yw8Z4Y) by Masahiro Sakurai on YouTube
+
+Never would have imagined this mashup in all my years, but I am all about it. [[Masahiro Sakurai Launches a Game Design YouTube Channel|Sakurai’s YouTube series]] continues to be a treasure trove of insight.

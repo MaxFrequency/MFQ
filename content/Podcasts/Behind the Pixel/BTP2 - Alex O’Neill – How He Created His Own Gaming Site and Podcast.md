@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2021/04/28/btp-02/
 permalink: 2021/04/28/btp-02/
 ---
+# BTP2 - Alex O’Neill – How He Created His Own Gaming Site and Podcast
+
 > [!info]
 > Part of creating *The Max Frequency Podcast* was to restore all the episodes of *Behind the Pixel*, an interview show I did in 2017 for seven episodes. These will be mixed into this feed so that the show can live on podcast services once more. Below are the original show notes, with some light editing. I hope you enjoy.
 

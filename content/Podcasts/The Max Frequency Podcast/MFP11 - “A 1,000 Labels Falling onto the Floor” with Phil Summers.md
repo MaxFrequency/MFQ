@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2021/08/15/mfp-11/
 permalink: 2021/08/15/mfp-11/
 ---
+# MFP11 - “A 1,000 Labels Falling onto the Floor” with Phil Summers
+
 Phil Summers from Hand-Drawn Game Guides joins the show to talk about his first and wildly successful Kickstarter. From *Ninja Gaiden* to *Metroid*, we chat about his approach to writing a guide, as well as drawing them! We also celebrate the return of *Metroid* during the series’ 35th anniversary.
 
 <audio controls>

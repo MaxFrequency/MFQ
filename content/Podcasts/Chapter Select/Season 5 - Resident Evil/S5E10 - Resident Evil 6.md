@@ -13,6 +13,8 @@ tags:
 URL: https://maxfrequency.net/2023/05/17/chapter-select-s5e10/
 permalink: 2023/05/17/chapter-select-s5e10/
 ---
+# S5E10 - *Resident Evil 6*
+
 ![[S5E10 Art.jpg]]
 
 The gang is finally all together in this ensemble co-op campaign smash up. Max Roberts and Logan Moore carry each other as they slog through this globetrotting adventure. It’s Raccoon City all over again and that may not be a good thing.

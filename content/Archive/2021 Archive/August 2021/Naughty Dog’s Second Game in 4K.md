@@ -1,0 +1,23 @@
+---
+Published: 2021-08-17
+URL: https://maxfrequency.net/2021/08/17/ski-crazed-4k-test-footage/
+permalink: 2021/08/17/ski-crazed-4k-test-footage/
+tags:
+  - NaughtyDog/SkiCrazed
+  - MiSTer
+---
+# Naughty Dog’s Second Game in 4K
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sEp5G811emo?si=9iu-0pFk7pvowEuO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+[*Ski Crazed*, 1986 Apple II – 4K CRT Footage with MiSTER FPGA | Chasing the Stick](https://youtu.be/sEp5G811emo) by Me on YouTube
+
+As I figure out writing [[Chasing the Stick - The History of Naughty Dog during the PS4 Era|Chasing the Stick]] as a [[Chasing the Stick - The Book – Here I Go Again|real life book]], I have begun slowly gathering my own footage and photos of the games in as high of a quality as I can. This is [[MiSTer FPGA Thoughts and Impressions – My Tool for Researching the Past|why I bought and built a MiSTer FPGA console]]!
+
+So a couple weeks ago, I tested recording my CRT in 4K while playing the second game published by Jason Rubin and Andy Gavin – *Ski Crazed* for the Apple II. I don’t know quite what to do with the footage, so rather than sit on it, I decided to upload it to YouTube and learn from some mistakes I made.
+
+One setting I need to lock down is the ISO. I had it set to automatic, which led to the blowouts between screen transitions. Also, the audio may not be synced up properly. That’s because I was capturing the audio digitally through the MiSTer’s HDMI port, but I was not capturing the analog sound. So there wasn’t a clean way to sync the two. My apologies.
+
+I’m not confident in the framerate selection either. My Canon EOS 90D captures 4K30. The game runs at 60fps. So do I sacrifice the frames for resolution or give up the 4K dream in favor of a more accurate framerate? I am not sure yet; after uploading and thinking about it, I am sort of leaning toward the frame rate option. We shall see!

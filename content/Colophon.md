@@ -3,6 +3,8 @@ URL: https://maxfrequency.net/colophon
 permalink: colophon
 tags:
 ---
+# Colophon
+
 Max Frequency is hosted by [Obsidian Publish](https://obsidian.md/publish) and is published through [Obsidian](https://obsidian.md). *[[The Max Frequency Podcast]]* and *[[Chapter Select]]* are hosted and published through [Libsyn](https://libsyn.com). [[Podcasts#Retired|Retired shows]] are hosted for free with [Spotify for Podcasters](https://podcasters.spotify.com).
 
 Vital apps (besides Obsidian):

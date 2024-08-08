@@ -14,6 +14,8 @@ tags:
   - Nintendo
 permalink: 2016/10/04/mgs-61/
 ---
+# Millennial Gaming Speak – Episode 61 - Game Announcements That Would Excite Us the Most
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-61-Game-Announcements-That-Would-Excite-Us-The-Most-e1adhpe/a-a6ts3vs" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

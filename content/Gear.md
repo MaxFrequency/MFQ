@@ -3,6 +3,8 @@ URL: https://maxfrequency.net/gear/
 permalink: gear/
 tags:
 ---
+# Gear
+
 Here is a list of all the hardware and software that I use on a regular basis: Both for this site and in my personal life. I’ve always enjoyed reading other people’s list and researching what will fit my needs (or just be rad to have). So I wanted to make and share my own list.
 
 And now there is a snazzy video tour of the space and gear as well. I hope you enjoy.

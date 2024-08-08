@@ -12,6 +12,8 @@ tags:
   - Nintendo
 permalink: 2017/04/24/mgs-90/
 ---
+# Millennial Gaming Speak – Episode 90 - PC Games We Want to See on Consoles
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-90-PC-Games-We-Want-to-See-on-Consoles-e1adhs7/a-a6ts44n" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

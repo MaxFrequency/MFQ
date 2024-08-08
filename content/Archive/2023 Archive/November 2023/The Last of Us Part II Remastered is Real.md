@@ -1,0 +1,48 @@
+---
+Published: 2023-11-20
+URL: https://maxfrequency.net/2023/11/20/the-last-of-us-part-ii-remastered-is-real/
+permalink: 2023/11/20/the-last-of-us-part-ii-remastered-is-real/
+tags:
+  - NaughtyDog/TLOU
+  - PlayStation/PS5
+---
+# The Last of Us Part II Remastered is Real
+
+From rumor to [[The Last of Us Part II Remastered Leaks|leak]] to official announcement on a Friday [night](https://twitter.com/Naughty_Dog/status/1725669795889344833), Naughty Dog has announced *The Last of us Part II Remastered* is headed to the PS5 in just two months. You can check out the trailer below, but I'd say if you don't know the overall course of *Part II*, I'd just stay away from it.
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ye3st9z6jQY?si=7tz4JhT-1kWSgNDS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+While the irony that *The Last of Us* now has more remasters and remakes than original games is not lost on me, there's more to this release than I anticipated. The bit I am most excited about is the Lost Levels.
+
+> A new set of Lost Levels in Part II Remastered allow players a unique chance to check out some playable sequences previously cut from the game. These aren’t fully finished levels, but rather early-development slices that not only let you see some new glimpses of Part II’s world, but also include embedded developer commentary to give them richer context. 
+
+I plan to dive right into these. I believe *Part I* also includes full developer commentary in the game itself, but sounds like a rare treat from any developer. My mind immediately goes to the [boar encounter that was dropped](https://www.gamesradar.com/the-last-of-us-2-datamine-reveals-cut-content-including-a-boar-hunting-scene-and-playable-dance-sequence/) late on. You can see what appears to be the playable dance that was datamined in the same story as well. I guess the joke is on the [reddit users](https://www.reddit.com/r/TheLastOfUs2/comments/uit0dn/comment/i7es15x/?context=3) who wanted "cringe to be cut forever." There will also be commentary in the game's cutscenes.
+
+As someone deeply invested in Naughty Dog's on the stick style storytelling, this developer commentary is the highlight of this release for me.
+
+On a technical front, it's what we've come to expect from Naughty Dog's PS5 efforts.
+
+> *The Last of Us Part II Remastered* will feature enhanced graphics, including native 4K output(1) in Fidelity Mode, 1440p upscaled to 4K(1) in Performance Mode, an Unlocked Framerate option for TVs that support VRR, increased texture resolution, increased Level-of-Detail distances, improved shadow quality, animation sampling rate, and more.
+
+Just two months ago, when this game leaked on LinkedIn, I pondered what could really be brought to the table on a technical side, since the original game got a dedicated PS5 patch. The boon I'm into is what will likely be a native 4K resolution with an uncapped 40~fps framerate and VRR. This just means the game will look and run better than before, not that it didn't look stellar already. 
+
+Thankfully, for the financially conscious and those worn down by the flood of remasters and remakes at full price, PS4 owners can upgrade for $10. This is great for all players, although I'll be snagging the W.L.F Edition for steelbook parity with *Part I.*
+
+The addition that has likely garnered the most discussion is the brand new "roguelike survival mode" dubbed "No Return."[^1] It's a pure gameplay mode, which Naughty Dog hasn't had in a game since *Uncharted 4: A Thief's End*'s multiplayer mode. 
+
+>The mode includes a host of playable characters to choose from...each come with their own traits to suit different playstyles. Players will chart their own course on each run, choosing between various stealth and combat encounters that will pit you against a range of enemies, with unique twists that can add new, unexpected factors to any given encounter.
+>
+>Each run will offer a new chance to decide what rewards you get after each encounter, how you spec out your character, and more. Unlock more characters, skins, and more as you progress to use in the mode, customize your own runs, and compete on a global leaderboard as part of a Daily Run. We’re excited to share more about No Return as we get closer to launch.
+
+From [[The Last of Us Part II Review|my own review]] of the game, this was my three word summary of the gameplay.
+
+> Refinement. Fluidity. Weight.
+
+I am eager to game a playground to use the mechanics in. I suspect this will be an even better taste of the multiplayer game. 
+
+In the end, this package is more than I think anyone expected for a remaster. I think that's a good thing. The deck is clear now. There are no more games in the series to remaster or remake. Naughty Dog's engine is fully on board with the PS5. Whatever comes next, is going to be *new*, even if it is set in this world. That may be the most exciting thing about this remaster.
+
+---
+[^1]: Love the logo treatment with the inverted label maker coloring and font. Tactile, survival vibes. 

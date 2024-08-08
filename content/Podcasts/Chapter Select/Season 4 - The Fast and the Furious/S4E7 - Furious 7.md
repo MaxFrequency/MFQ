@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2022/11/16/chapter-select-s4e7/
 permalink: 2022/11/16/chapter-select-s4e7/
 ---
+# S4E7 - *Furious 7*
+
 ![[S4E7 Art.jpg]]
 
 You thought this was going to be a street podcast? Max Roberts, Logan Moore, and Chapter Select alum Ricky Frech see if cars can fly and if hearts can soar in the biggest *Fast & Furious* film to date. Does Universal’s formula for family fizzle out or can the crew continue to top themselves?

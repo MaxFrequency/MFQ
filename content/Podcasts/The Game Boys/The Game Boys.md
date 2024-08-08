@@ -3,6 +3,8 @@ URL:
 permalink: 
 tags:
 ---
+# The Game Boys
+
 ![[The Game Boys.jpg]]
 
 The Game Boys was a very short lived podcast from my original blog Go Left Gaming. It launched in 2013 and only had four episodes. Here's what I had to say in my post [[Celebrating 15 Years of Podcasting]]:
@@ -11,7 +13,7 @@ The Game Boys was a very short lived podcast from my original blog Go Left Gamin
 
 The episodes have been uploaded to YouTube in an unlisted format that is linked to the respective episode pages. I'm not paying for an RSS feed for these four episodes, but I did want people to have access to them, should they so desire. 
 
-- [[The Game Boys - Episode 001 - Machetes, Maps, and Mewtwos! Oh My!– News Stories]]
+- [[The Game Boys - Episode 001 - Machetes, Maps, and Mewtwos! Oh My!]]
 - [[The Game Boys - Episode 002 - Counting to Three is Fun]]
 - [[The Game Boys - Episode 003 - Nintendo Stands for Nostalgia]]
 - [[The Game Boys - Episode 004 - Three Men, One Podcast]]

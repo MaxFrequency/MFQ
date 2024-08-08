@@ -7,6 +7,8 @@ tags:
   - ResidentEvil
   - BtS
 ---
+# Behind the Scenes of Season 5 – *Resident Evil*
+
 ![[S5E12 Widescreen Art.jpg]]
 
 It is that time in the season once again. The end snuck up on me this time. *Resident Evil* went by so fast. When you throw in all the work we’ve been doing on Super Chapter Select and [[S6 - Pokémon|Season 6 – Pokémon]], it felt like I blinked and it was time to write this season’s behind the scenes post. Thank God I take notes all season long. 😅

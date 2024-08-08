@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2022/05/18/cs-s3e1/
 permalink: 2022/05/18/cs-s3e1/
 ---
+# S3E1 - *Banjo-Kazooie*
+
 ![[S3E1 Art.jpg]]
 
 Welcome to Season Three-ie of Chapter Select! Strap on your backpack, work on your rhyming schemes, and prepare to nab a lot of collectibles because this season revolves around *Banjo-Kazooie*. Max Roberts, Logan Moore, and special guest Michael Koczwara climb up Spiral Mountain to face the green witch and all her cronies. If Microsoft won’t give the Bear and the Bird a proper three-quel, we will (…talk about them).

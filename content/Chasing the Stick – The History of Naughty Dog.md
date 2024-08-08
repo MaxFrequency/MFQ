@@ -4,6 +4,8 @@ permalink: chasing-the-stick/
 tags:
   - NaughtyDog
 ---
+# Chasing the Stick: The History of Naughty Dog
+
 ![[cts_final-cover-art-1.jpg]]
 
 # [[Chasing the Stick - The History of Naughty Dog during the PS4 Era|The History]]

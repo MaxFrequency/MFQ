@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/2021/04/17/mfp-4/
 permalink: 2021/04/17/mfp-4/
 ---
+# MFP04 - “Sometimes Your Job Really is to Play a Video Game” with Michael Koczwara
+
 Michael Koczwara joins the show to dive deep into freelance work, guide writing, and the wildly cool scene of modding and randomizing games.
 
 <audio controls>

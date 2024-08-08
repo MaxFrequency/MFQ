@@ -7,6 +7,8 @@ tags:
   - CS
   - BtS
 ---
+# Behind the Scenes of Season 3 - *Banjo-Kazooie*
+
 ![[S3 Widescreen Art.jpg]]
 
 It is time to pack away your backpack and order a large pizza to get [[Fat-Banjo.jpg|fat]] and lazy because the *Banjo-Kazooie* season of Chapter Select is done! We just barely got one season done within the first six months of the year. It wasn’t my plan to cut it that close, but we have been busy with other seasons of the show. 👀 I know I have said it in [[S1 - Paper Mario Behind the Scenes|both]] [[S2 - God of War Behind the Scenes|previous]] *Looking Back* posts, but Chapter Select remains to be my creative highlight. I suspect it will continue to be for years to come.

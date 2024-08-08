@@ -1,0 +1,45 @@
+---
+Published: 2014-07-06
+URL: https://maxfrequency.net/2014/07/06/shovel-knight-review/
+tags:
+  - YachtClubGames/ShovelKnight
+  - Review
+permalink: 2014/07/06/shovel-knight-review/
+---
+# Shovel Knight Review
+
+Being born in 1994, I missed out on both the NES and SNES eras. Although familiar with 2D games, I grew up playing 3D games at home, while 2D games provided a portable experience. That’s not to say I never played the classics. Super Mario Bros. 3 stands to be one of my favorite games. Unfortunately, I did miss out on Mega Man, early Zelda games, Duck Tales, and other classics that hold a special place in gamer’s hearts.
+
+Yacht Club Games has given me a taste of all the best parts of that early era in gaming. Shovel Knight has put all the best aspects of iconic titles — thoughtful combat, unique level design, stunning pixel art, a dope soundtrack — into, what I easily consider to be, 2014’s best game to date.
+
+![[72441-banner.png.webp]]
+
+Shovel Knight’s tale revolves around a knight whose code of honor will not crack under pressure. Nor will his shovel. When an evil Enchantress kidnaps Shovel Knight’s best friend, Shield Knight, our aptly named hero sets out to save her. Standing in his way is the Order of No Quarter: a group of eccentric knights that have taken over the land.   Your quest is to stop the evil that has risen up and save Shield Knight.
+
+![[39297-pals.jpg.webp]]
+
+Not a single tutorial is given in Shovel Knight. Yacht Club Games teaches you how to play through visual clues and gameplay. Never once was I told holding the down arrow while jumping would initiate my downward thrust. Varying enemies and physical obstacles guided me toward building my skill level. Yacht Club Games respected my intelligence and trusted me to figure out how to play their game. It was a rewarding and refreshing experience that is so different from the video games of today.
+
+No tutorials doesn’t mean that Shovel Knight is brutal and won’t help players out. In fact, the checkpoint system is designed to both assist and challenge players based upon their choices. Scattered throughout the levels are glass checkpoints. Pass them and a safe haven is created for if you die further along, but if you shatter the glass Shovel Knight will be showered with riches. It is a perfect risk versus reward system that challenges the hardcore while saving the more casual player.
+
+Treasure is not only found inside precious checkpoints. Levels in Shovel Knight are littered with treasure. You’ll want to collect every piece to buy new weapons and suits of armor. There are piles to dig up, hidden chests to crack open, and enemies to collect gold from. The catch is, whenever you succumb to death, bags of money fall out of your pockets and you have one chance to get back to that spot to regain your riches. Fall in battle before you reach the gold and it is lost forever. It’s a smart system that replaces lives and game overs with a much more valuable commodity; gold.
+
+![[d2e95-treasure.jpg.webp]]
+
+Combat in Shovel Knight is easy to understand, but difficult to master. Armed with two basic attacks, a slash and a down thrust, our hero can wipe out any foe. The down thrust is similar to that of Link’s downward strike in Zelda II or Scrooge McDuck’s cane in Duck Tales. Each successful strike with the down thrust gives Shovel Knight a bounce upwards.  Yacht Club games wants you to think about how to use a down thrust strategically to reach new platforms and defeat enemies quicker.
+
+![[ffbc2-dragon.jpg.webp]]
+
+You’ll have to master use of the shovel quickly if you want to defeat the knights of the Order of No Quarter. The eight main levels are themed after each knight, similar to the Robot Masters of Mega Man. Difficulty progression paces well as they gradually become more difficult from knight to knight. There never was a spike in difficulty that frustrated me. The battle design forces you to pay attention to patterns and openings in their defense. You can’t go in and swing you shovel blindly. If you do, your death will be swift. Each knight has their own charisma. From undersea explorers to tinkering scientists, the Order of No Quarter and their lairs will keep you on the tip of your toes.
+
+![[0e487-green_rain.jpg.webp]]
+
+Yacht Club Games gets pixel art. Shovel Knight is stunning to look at. Not being limited by the technology of the past, Shovel Knight features colors the NES never had. Nor is there slow down from too many animations going on at once. Despite having the technology of today, Yacht Club Games tried to [stick as close to their roots as possible](http://www.gamasutra.com/blogs/DavidDAngelo/20140625/219383/Breaking_the_NES_for_Shovel_Knight.php). Mini bosses would feature all black backgrounds to mimic the feel of epic battles from the classics. They even stuck (mostly) to the NES color pallet, only adding a few new colors here and there. From the crisp sprite animations to the gorgeous backgrounds, this game will make you stop and stare.
+
+![[566d8-sunset_sky.jpg.webp]]
+
+As I said earlier, the soundtrack for Shovel Knight is dope. Created by Jake Kaufman, the music is catchy, motivational, and rich. It fits right in with old school soundtracks. You have this vague sense of nostalgia as you listen, despite each song being brand new. There is even a bard in the main town that will play songs you find throughout the levels for him whenever you want. These collectible songs will push you to explore all sorts of nooks and crannies to find just one more tune. For those of you that aren’t completionists, you can buy the soundtrack at a “name your own price” point right here on the Jake Kaufman’s [Band Camp page](http://virt.bandcamp.com/album/shovel-knight-original-soundtrack).
+
+Shovel Knight isn’t just a callback to the NES era. Shovel Knight is a continuation of that era. Not hindered by hardware limitations, Yacht Club Games takes into consideration what the NES could have been and puts it to practice. Despite taking so many aspects from gems of early gaming, Shovel Knight is its own and stands tall among both the games of yesteryear and of today. Shovel Knight is a game that I will definitely come back to as the years roll on, just like Super Mario Bros. 3.
+
+![[d80ae-campfire.gif.webp]]

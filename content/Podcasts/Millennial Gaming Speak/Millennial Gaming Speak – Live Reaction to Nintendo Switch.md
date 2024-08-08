@@ -10,6 +10,8 @@ tags:
   - Nintendo
 permalink: 2017/01/12/mgs-switch-reaction/
 ---
+# Millennial Gaming Speak – Live Reaction to Nintendo Switch
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Live-Reaction-to-Nintendo-Switch-e1adhq5/a-a6ts419" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
@@ -18,7 +20,7 @@ permalink: 2017/01/12/mgs-switch-reaction/
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wK7Vht9XjBM?si=u3cObaVNXi7RnGS6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-%%https://youtube.com/watch?v=wK7Vht9XjBM%%
+%%https://youtube.com/watch?v=wK7Vht9XjBM %%
 
 # Show Description
 

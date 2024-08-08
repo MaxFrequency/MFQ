@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2021/06/02/chapter-select-s1e1/
 permalink: 2021/06/02/chapter-select-s1e1/
 ---
+# S1E1 - *Paper Mario*
+
 ![[S1E1 Art.jpg]]
 
 Season 1 is all about *Paper Mario*! Dusting off their Wii U consoles (?) Max and Logan play and dissect the paper-inspired RPG that started it all. Is *Paper Mario* really all it’s crafted up to be or is it a soggy mâché of a game?

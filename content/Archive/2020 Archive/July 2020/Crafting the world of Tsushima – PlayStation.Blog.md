@@ -1,0 +1,20 @@
+---
+Published: 2020-07-14
+URL: https://maxfrequency.net/2020/07/14/ghost-of-tsushima-creating-the-world/
+permalink: 2020/07/14/ghost-of-tsushima-creating-the-world/
+tags:
+  - GhostOfTsushima
+---
+# Crafting the world of Tsushima – PlayStation.Blog
+
+![[sun-horizon-world.jpg.webp]]
+
+[Crafting the world of Tsushima](https://blog.playstation.com/2020/07/09/crafting-the-world-of-tsushima/) by Joanna Wang for PlayStation.Blog
+
+> Our goal when building an open world game is always “if you can see it, you can reach it,” with as few exceptions as possible. You will journey through lush forests, cross boggy swamp lands, and enter into frozen mountainous landscapes. We collected so many references from movies, games, paintings, and even travel posters to draw inspiration. We want to present you with an authentic, believable world, a world that would call out to you, inviting you to explore, a world that is rich and full of surprises.
+
+This sounds like *The Legend of Zelda: Breath of the Wild* to me. Sucker Punch has been working on *Ghost of Tsushima* since 2014. It’s not impossible to imagine that *Ghost of Tsushima* takes inspiration from *Breath of the Wild*, which released in 2017.
+
+> As the largest game we have ever made, can you imagine if we needed to place every single blade of grass by hand? What if we then needed to change the type or density of grass later? We would not be able to finish, so we made procedural tools that would allow us to build a massive world unbelievably fast and would still be really flexible if we changed our minds later on. These tools allowed us to be more creative and expressive in our artistic choices.
+
+There is a fascinating clip in the article that shows a time-lapse of an area being procedurally generated. I often don’t think of the tools that developers use to craft their game worlds. It can’t be handcrafted over pixelated inch. While the textures and objects are handmade, their placement can be rapidly implemented thanks to these kinds of tools. I hope Sucker Punch was able to strike a balance between generation and detailed placement.

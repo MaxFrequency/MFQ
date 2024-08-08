@@ -10,9 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Graph(),
   ],
   right: [
-    Component.MobileOnly(Component.Explorer({
-      title: "🗺️ Site Map",
-    }))
+    Component.MobileOnly(Component.Explorer())
   ],
   footer: Component.Footer({
     links: {
@@ -37,14 +35,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
-      title: "🗺️ Site Map"
-    })),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.MobileOnly(Component.Explorer({
-    title: "🗺️ Site Map",
-  }))
+    Component.MobileOnly(Component.Explorer()),
   ],
 }
 

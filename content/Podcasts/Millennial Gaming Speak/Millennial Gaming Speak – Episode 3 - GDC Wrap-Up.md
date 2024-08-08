@@ -15,7 +15,9 @@ tags:
   - MGS
 permalink: 2015/03/11/mgs-3/
 ---
-%%Google Doc Link - https://docs.google.com/document/d/10GHxxKv3WcYgdMY389GajbkFiPuMUB5Ktqg5SFj7wkk/edit?usp=sharing%%
+# Millennial Gaming Speak – Episode 3 - GDC Wrap-Up
+
+%%Google Doc Link - https://docs.google.com/document/d/10GHxxKv3WcYgdMY389GajbkFiPuMUB5Ktqg5SFj7wkk/edit?usp=sharing %%
 
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-3-GDC-Wrap-up-e1adng0/a-a6tsqsu" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

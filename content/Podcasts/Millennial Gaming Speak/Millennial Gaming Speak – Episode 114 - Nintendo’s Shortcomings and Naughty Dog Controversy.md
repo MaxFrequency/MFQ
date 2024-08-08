@@ -15,6 +15,8 @@ tags:
   - NaughtyDog
 permalink: 2017/10/18/mgs-114/
 ---
+# Millennial Gaming Speak – Episode 114 - Nintendo’s Shortcomings and Naughty Dog Controversy
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-114-Nintendos-Shortcomings-and-Naughty-Dog-Controversy-e1adhq6/a-a6ts41k" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

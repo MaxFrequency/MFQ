@@ -1,0 +1,26 @@
+---
+Published: 2023-08-15
+URL: https://maxfrequency.net/2023/08/15/building-my-dream-gamecube-stream/
+permalink: 2023/08/15/building-my-dream-gamecube-stream/
+tags:
+  - Nintendo/GameCube
+  - Mod
+  - Streaming
+---
+# Building My Dream GameCube
+
+Even though we moved three months ago now, I still feel like I am playing catch up.[^1] So much I want to write, film, record, and do. Well, now we can cross off my return to streaming.
+
+This Thursday I’ll be tackling my dream GameCube build. Seems that during the move, my GameCube disc drive bit the dust.[^2] This discovery timed perfectly with the restock of the GC Loader, a optical disc emulator for the GameCube. So a bunch of kit and one business trip later, it’s time to put the whole thing together. This may be as close as I ever get to building my own PC.
+
+I’ll be streaming this Thursday, August 17, 2023 at 7:00 PM EST. My plan is to not only install the GC Loader, but also swap shells with [[The Spice of Life – Adding a Spice Orange GameCube to my Collection|my Japanese Spice Orange GameCube]], and plop in a brand new, quieter fan. 🤞🏻 it all goes well.
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PU73SllE_gg?si=FJXVFMoKCVulCoQy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+[Building my Ultimate GameCube! | August 17, 2023](https://www.youtube.com/live/PU73SllE_gg)
+
+---
+[^1]: I need to show off the new office/studio/game room in a video and brain dump an article about all the new upgrades.
+[^2]: R.I.P. Laser 2001-2023 🪦💿

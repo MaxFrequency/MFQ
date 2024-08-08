@@ -13,6 +13,8 @@ tags:
 URL: https://maxfrequency.net/2023/01/15/mfp-19/
 permalink: 2023/01/15/mfp-19/
 ---
+# MFP19 - “A Big ba-Daunt da Daunt” with Scott White
+
 As one of the four *Mega Man Battle Network* fans in the world, Scott White joins Max to talk about the Blue Bomber’s new collection, the love of (and fear of) RPGs, the power of VR, and retro game collecting.
 
 <audio controls>

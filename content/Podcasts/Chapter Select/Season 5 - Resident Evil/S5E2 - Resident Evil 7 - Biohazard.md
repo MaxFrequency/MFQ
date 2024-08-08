@@ -15,6 +15,8 @@ tags:
 URL: https://maxfrequency.net/2023/01/25/chapter-select-s5e2/
 permalink: 2023/01/25/chapter-select-s5e2/
 ---
+# S5E2 - *Resident Evil 7: Biohazard*
+
 ![[S5E2 Art.jpg]]
 
 Fear takes on a whole new perspective in Resident Evil 7: Biohazard. Max Roberts and Logan Moore immerse themselves in the moldy Baker Estate to find out if Capcom’s gamble to reinvent the franchise – and the company – panned out. It’s time for *Resident Evil* to come home.

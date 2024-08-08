@@ -14,6 +14,8 @@ tags:
 URL: https://maxfrequency.net/chapterselect/season2/
 permalink: chapterselect/season2/
 ---
+# Season 2 – *God of War*
+
 ![[S2 Art.jpg]]
 
 Chapter Select Season 2 is the *God of War* series. First appearing on the PlayStation 2 in 2005, *God of War*, Kratos, and the Blades of Chaos are still a proud titan within the PlayStation Studios catalog. *God of War* has arguably never been more relevant with the ninth game on the horizon with *God of War: Ragnarök* for PS4 and PS5, thanks to the series’ legendary relaunch in 2018.

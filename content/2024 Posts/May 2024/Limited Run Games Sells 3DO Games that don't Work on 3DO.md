@@ -18,7 +18,7 @@ image:
 > 
 > While the 3DO comes from a time when domestic CD burners were a rarity and, therefore, lacks any kind of protection against pirated discs, the console is famously picky when it comes to running burned CDs.
 
-Color me stunned. Limited Run Games has been on my not cool list since February 2023 when [[Kara Lynne Interview with Colin Moriarty – Sacred Symbols+|they fired Kara Lynne for being hyped for Harry Potter]]. I will admit that I did go one to order the base versions of *Persona 3* and *Persona 4* from them, which just arrived.[^1] They had a game I wanted and that won out. 
+Color me stunned. Limited Run Games has been on my not cool list since February 2023 when [[Kara Lynne Interview with Colin Moriarty – Sacred Symbols Plus|they fired Kara Lynne for being hyped for Harry Potter]]. I will admit that I did go one to order the base versions of *Persona 3* and *Persona 4* from them, which just arrived.[^1] They had a game I wanted and that won out. 
 
 Back to the 3DO story; one thing that has never fully sat right with me about any physical publisher is that we are paying for officially blessed repros. What you are really paying for is all the merch alongside a physical copy of the game, which I get and do all the time, You'd at least think the repros would be of good construction and work on the hardware.
 

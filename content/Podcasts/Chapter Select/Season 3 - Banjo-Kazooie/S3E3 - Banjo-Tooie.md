@@ -11,6 +11,8 @@ URL: https://maxfrequency.net/2022/06/15/cs-s3e3/
 permalink: 2022/06/15/cs-s3e3/
 description: Has there ever been a more perfect name for a sequel? Max Roberts, Logan Moore, and special guest Brian Henken explore the Isle o’ Hags to see if Banjo-Tooie is more than just a clever name. Is it possible to have too much of a good thing?
 ---
+# S3E3 - *Banjo-Tooie*
+
 ![[S3E3 Art.jpg]]
 
 Has there ever been a more perfect name for a sequel? Max Roberts, Logan Moore, and special guest Brian Henken explore the Isle o’ Hags to see if *Banjo-Tooie* is more than just a clever name. Is it possible to have too much of a good thing?

@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/mfp-36
 permalink: mfp-36
 ---
+# MFP36 - "I will be Flabbergasted" with Logan Moore
+
 Logan Moore and Max celebrate 10 years of Keigh-3 style predictions. I know I said 8 years on the show. Math is hard.
 
 <audio controls>

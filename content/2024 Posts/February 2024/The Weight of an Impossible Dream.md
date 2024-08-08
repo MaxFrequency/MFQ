@@ -45,7 +45,7 @@ Casey stopped trying to reach the goal "alone." I put alone in quotes because I'
 
 Casey needed help. Casey needed community. Casey needed accountability. He shared the weight of his dream and succeeded. 
 
-And I've been learning that lesson myself as of late. I've taken the opportunity found in [[An Update – November 2023 Edition – Where's the Writing?|losing my job]] to restructure, rebuild, and grow. I've been apart of this [Practical PKM cohort](https://www.obsidianuniversity.com/cohort) by [Mike Schmitz](https://mikeschmitz.com/about/). I've started journaling. I've gone back to counseling. I'm working on being intentional with my life, family, and goals. I think that's why Casey's video resonated with me.
+And I've been learning that lesson myself as of late. I've taken the opportunity found in [[An Update – November 2023 Edition – Where's the Writing|losing my job]] to restructure, rebuild, and grow. I've been apart of this [Practical PKM cohort](https://www.obsidianuniversity.com/cohort) by [Mike Schmitz](https://mikeschmitz.com/about/). I've started journaling. I've gone back to counseling. I'm working on being intentional with my life, family, and goals. I think that's why Casey's video resonated with me.
 
 You can't shoulder the weight of your goals, dreams, and aspirations alone. You need help. You need community. You need accountability. 
 

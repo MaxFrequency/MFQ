@@ -13,6 +13,8 @@ tags:
 URL: https://maxfrequency.net/2023/05/03/chapter-select-s5e9/
 permalink: 2023/05/03/chapter-select-s5e9/
 ---
+# S5E9 - *Resident Evil 5*
+
 ![[S5E9 Art.jpg]]
 
 Time to step out of the standard definition darkness into the HD light! Co-op partners Max Roberts and Logan Moore head to Africa to fight off the emergence of bio-weapon threats and find an old friend. Along the way, they ask themselves the all-important question: What really is *Resident Evil*?

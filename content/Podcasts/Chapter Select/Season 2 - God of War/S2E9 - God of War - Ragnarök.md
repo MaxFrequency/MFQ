@@ -10,6 +10,8 @@ tags:
 URL: https://maxfrequency.net/2022/12/21/chapter-select-s2e9/
 permalink: 2022/12/21/chapter-select-s2e9/
 ---
+# S2E9 - *God of War: Ragnarök*
+
 ![[S2E9 Art.jpg]]
 
 *Ragnarök* has arrived. After replaying every *God of War* game, Max and Logan finally sat down to talk about the conclusion to the Norse pantheon. Can Kratos challenge fate once again or is Ragnarök truly the end for the Spartan?

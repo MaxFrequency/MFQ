@@ -1,0 +1,24 @@
+---
+Published: 2015-01-21
+URL: https://maxfrequency.net/2015/01/21/zelda-resolution/
+tags:
+  - Zelda
+permalink: 2015/01/21/zelda-resolution/
+---
+# The Legend of Zelda– New Year Resolution
+
+A couple of weeks ago, I had an idea for a video game resolution for 2015. The idea may have been late for the start of the new year, but better late than never.
+
+Over the course of the winter break from school, I watched some of AGDQ 2015. Specifically, the Legend of Zelda speed runs. It is safe to say that the skill and knowledge those players possess about their game of choice is bonkers and masterful.
+Last year, I started learning to speed run the latest Zelda game, A Link Between Worlds. It is challenging and exciting to learn how to break a game to a point of mastery. I am nowhere close to mastery, but I have fun every time I pick up my 3DS to run it.
+
+![[92871-zelda-albw-banner-1.jpg.webp]]
+
+Seeing all the Zelda games be manipulated and twisted made me realize that I do not know how these games are intended to be played. Out of the core 20 Zelda games, I have only beaten four of them. The rest I have either fiddled around with or given up on by the water dungeon. Narrowing down that list to the core console titles, leaves me with eight games. I have only played two of those eight games.
+The Legend of Zelda is a staple of video games. I am a Nintendo fan. I am a Zelda fan. I have access to this library of games I haven’t touched. I have decided to play and beat the core console Zelda games throughout the year. This means I will beat The Legend of Zelda, Zelda II: The Adventure of Link, The Legend of Zelda: A Link to the Past, The Legend of Zelda: Ocarina of Time, The Legend of Zelda: Majora’s Mask, The Legend of Zelda: The Wind Waker, The Legend of Zelda: Twilight Princess, and The Legend of Zelda: Skyward Sword. 
+
+My plan is to write a blog post each Friday summarizing where I am in the game I am currently playing. At the end of a game, I want to make a video sharing my thoughts on that game. I will try and play the games on their original console if I can. If that is not possible for me, the I can easily access them on Nintendo’s eShop.
+
+I want to go on this quest to save the kingdom from darkness and experience one of the many series that has shaped an industry. And I want to share it with you. I just started playing The Legend of Zelda this past weekend. You can expect my first blog post this upcoming Friday.
+
+*Like a wise man once said “It’s dangerous to go alone. Take this.” I’m hoping you will join me on my quest and help me out. If you have any constructive feedback on this project, please share it with me. Besides experiencing Zelda, the other goal of this project is to better myself as a writer and a creator of content. I’m counting on you and Zelda to help me get there. Thank you and hopefully I won’t meet a terrible fate.*

@@ -16,6 +16,8 @@ tags:
 aliases:
   - Super Chapter Select
 ---
+# Chapter Select
+
 Chapter Select is a seasonal, retrospective podcast. Hosts [[About|Max Roberts]] and [Logan Moore](http://twitter.com/mooreman12) pick a series to bounce back and forth between its entries, exploring their evolution, design, and legacy. Each season focuses on a different series with guests joining along the way to discuss and examine media outside of individual titles.
 
 Subscribe!

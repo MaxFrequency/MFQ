@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2023/12/27/chapter-select-s6e10/
 permalink: 2023/12/27/chapter-select-s6e10/
 ---
+# S6E10 - *Pokémon Black 2* and *White 2*
+
 ![[S6E10 Art.jpg]]
 
 It is time for the Season 6 finale! Reformed Team Plasma members Max Roberts and Logan Moore return to Unova to see how much has really changed in the intervening two years. Has the true potential of *Pokémon* been harnessed by Game Freak’s cold calculations or is the real power from the bond between fans and the monsters?

@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2023/10/03/mfp-31/
 permalink: 2023/10/03/mfp-31/
 ---
+# MFP31 - “The Release Date of this House” with Coury Carlson
+
 Coury Carlson sits down with Max to look back at a decade of [My Life in Gaming](https://www.youtube.com/@mylifeingaming/). They go through the origins of the channel, the RGB Master Class series, and the various game rooms/studios Coury’s had over the years.
 
 <audio controls>

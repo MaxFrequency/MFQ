@@ -14,6 +14,8 @@ tags:
   - NaughtyDog/TLOU
   - Podcast
 ---
+# The Game Boys - Episode 002: Counting to Three is Fun
+
 Hosts Max Roberts, Mitchell Morgan, Alex Wray, and Rocky Ankeny are back in episode 002 of The Game Boys! In this episode we discuss billions of dollars, more Super Smash Bros. Wii U/3DS characters, Metal Gear Solid V’s ups and downs, and the future of Naughty Dog’s The Last Of Us. Our Topic of the Week is the amazing fact that Valve can count to the number three! For a list of all the news stories and their respective links, just scroll down below and click the respective link!
 
 Head over to The Game Boys official blog to listen to the show online! [Click here](http://thegameboysgoleft.wordpress.com/)

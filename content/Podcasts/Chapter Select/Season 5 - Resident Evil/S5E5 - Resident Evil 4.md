@@ -13,6 +13,8 @@ tags:
 URL: https://maxfrequency.net/2023/03/08/chapter-select-s5e5/
 permalink: 2023/03/08/chapter-select-s5e5/
 ---
+# S5E5 - *Resident Evil 4*
+
 ![[S5E5 Art.jpg]]
 
 The reinvention of Capcom’s horror series begins! Los Illuminados members Max Roberts, Logan Moore, and special guest Dustin Furman embrace the Las Plagas to find out if Leon’s mission to the Spanish countryside is all it’s cracked up to be. Can saving the President’s daughter really make for the best *Resident Evil* game ever made?

@@ -17,6 +17,8 @@ tags:
 URL: https://maxfrequency.net/2023/03/22/chapter-select-s5e6/
 permalink: 2023/03/22/chapter-select-s5e6/
 ---
+# S5E6 - *Resident Evil 3*
+
 ![[S5E6 Art.jpg]]
 
 It is the end of an era. Max Roberts and Logan Moore say so long to the city they’ve called home for the first half of this season. Has Capcom’s relentless pursuit of sales delivered another smash hit or does *Resident Evil 3: Nemesis* belong in a body bag?

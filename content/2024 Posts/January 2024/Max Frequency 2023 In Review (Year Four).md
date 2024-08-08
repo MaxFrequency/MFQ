@@ -27,7 +27,7 @@ Year Four of Max Frequency was its best yet, but it felt like a creative struggl
 
 Despite all this, I hit all my major publication and podcasting goals for the year. Finishing [[S6 - Pokémon|Chapter Select Season 6 – Pokémon]] has felt great; from both a creative and liberating perspective. I’ve taken the last week to finally play *The Last of Us Part I* and fully plan to dive right into *Part II Remastered* in a couple weeks. This week in particular has been good for me due to the fact I have had the rare opportunity to play games every night after Eloise goes to bed, which is not something I’ve been able to do since she was born. I’m kicking off 2024 feeling a gaming and creative rejuvenation. I owe that feeling to Abby for recognizing my drain and need to recharge. I am (once again) thankful to my wife.
 
-Thank you for indulging some of the sap up front this year. Without further adieu, let’s sink of teeth into the site’s performance throughout 2023. As a quick refresher, [[Max Frequency 2022 In Review (Year Three)|2022]]‘s total view count was 5,996 views with 3,729 visitors. You can see [[Max Frequency 2021 In Review (Year Two)|2021]] and [[Max Frequency 2020 In Review (Year One)|2020]], if you like.
+Thank you for indulging some of the sap up front this year. Without further adieu, let’s sink of teeth into the site’s performance throughout 2023. As a quick refresher, [[Max Frequency 2022 In Review Year Three|2022]]‘s total view count was 5,996 views with 3,729 visitors. You can see [[Max Frequency 2021 In Review Year Two|2021]] and [[Max Frequency 2020 In Review Year One|2020]], if you like.
 
 - Total Site Views = 6,856
 - Total Site Visitors = 5,003
@@ -106,7 +106,7 @@ While I’m not quite done with this post yet, I do want to thank you again for 
 Once again, I am inspired by Coury and Try over at My Life in Gaming. For year’s I have kept track of what I played, beat, and platinumed. I used to tweet out that list, but now let’s just share it here with some limited thoughts and impressions on some of the games.
 
 - [[S5E4 - Resident Evil 2|Resident Evil 2]] (PS5, 1/1/23, Claire 1/12/23, Leon)
-- [[S6E5 - Pokémon Omega Ruby & Alpha Sapphire|Pokémon Alpha Sapphire]] (3DS, 2/25/23)
+- [[S6E5 - Pokémon Omega Ruby and Alpha Sapphire|Pokémon Alpha Sapphire]] (3DS, 2/25/23)
 - [[S5E6 - Resident Evil 3|Resident Evil 3]] (PS5, 2/3/23, Plat)
 - Inside (PS4 via PS5, 2/7/23, 100%)
 - [[Death’s Door Thoughts and Impressions|Death’s Door]] (PS5, 2/13/23, Plat)
@@ -118,9 +118,9 @@ Once again, I am inspired by Coury and Try over at My Life in Gaming. For year�
 - [[S5E11 - Resident Evil 4 Remake|Resident Evil 4 Remake]] (PS5, 4/28/23)
 - [[S5E9 - Resident Evil 5|Resident Evil 5]] (PS4 via PS5, 4/13/23)
 - [[S5E10 - Resident Evil 6|Resident Evil 6]] (PS4 via PS5, 5/9/23)
-- [[S6E6 - Pokémon Ultra Sun & Ultra Moon|Pokémon Ultra Sun]] (3DS, 7/1/23)
+- [[S6E6 - Pokémon Ultra Sun and Ultra Moon|Pokémon Ultra Sun]] (3DS, 7/1/23)
 - [[I Helped Make Humanity|Humanity]] (PS5, 5/16/23, Plat)
-- [[S6E7 - Pokémon Brilliant Diamond & Shining Pearl|Pokémon Brilliant Diamond]] (Switch, 8/18/23)
+- [[S6E7 - Pokémon Brilliant Diamond and Shining Pearl|Pokémon Brilliant Diamond]] (Switch, 8/18/23)
 - Splinter Cell (Xbox, 7/28/23)
 - Splinter Cell: Pandora Tomorrow (Xbox, 8/13/23)
 - [[S6E8 - Pokémon X and Y|Pokémon X]] (3DS, 921/23)
@@ -204,7 +204,7 @@ For the first time, I chipped in to Relay FM’s annual fundraiser for St. Jude.
 It was my top performing non-FF video this year. Super proud of how it turned out as a nice time capsule of this era of my space.
 # RetroTINK-4K Coverage
 
-The RetroTINK-4K is out and very much real. I am hoping to snag my own during this month’s restock. That didn’t stop me from writing about it a little bit. The first one was a fun post [[How Many HDMI Cables does Try have in his Setup?|tallying up how many HDMI cables Try has]] in his setup from the wonderful MLiG video. Then a more traditional [[The RetroTINK-4K is Almost Here|summary post]] that helps folks learn more about the scaler.
+The RetroTINK-4K is out and very much real. I am hoping to snag my own during this month’s restock. That didn’t stop me from writing about it a little bit. The first one was a fun post [[How Many HDMI Cables does Try have in his Setup|tallying up how many HDMI cables Try has]] in his setup from the wonderful MLiG video. Then a more traditional [[The RetroTINK-4K is Almost Here|summary post]] that helps folks learn more about the scaler.
 
 ---
 [^1]: All is a bit of a stretch. Not all my news articles from previous outlets are here. I have manually archived all of them into my Obsidian vault though. All of the sites, except for DualShockers, are defunct now. I’m rather tempted to make my statement fact.

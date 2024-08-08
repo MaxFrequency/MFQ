@@ -1,0 +1,13 @@
+---
+Published: 2022-12-04
+URL: https://maxfrequency.net/2022/12/04/the-last-of-us-hbo-trailer/
+permalink: 2022/12/04/the-last-of-us-hbo-trailer/
+tags:
+  - HBO
+  - NaughtyDog/TLOU
+---
+# The Last of Us HBO Trailer
+
+[The Last of Us | Official Trailer](https://www.youtube.com/watch?v=uLtkt8BonwM)
+
+The show is just over one month away and is looking pretty good. Bella Ramsey looks like she’s going to shine. 

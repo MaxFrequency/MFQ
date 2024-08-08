@@ -1,0 +1,48 @@
+---
+Published: 2020-05-28
+URL: https://maxfrequency.net/2020/05/28/xbox-series-x-back-compat/
+tags:
+  - Xbox/XSX
+permalink: 2020/05/28/xbox-series-x-back-compat/
+---
+# Xbox Series X Backward Compatibility – Xbox Wire
+
+![[xboxseriesxtop.jpeg.webp]]
+
+[Xbox Series X: The Most Powerful and Compatible Next-Gen Console with Thousands of Games at Launch – Xbox Wire](https://news.xbox.com/en-us/2020/05/28/xbox-series-x-next-generation-backward-compatibility/)
+
+> Backwards compatible games run natively on the Xbox Series X hardware, running with the full power of the CPU, GPU and the SSD. No boost mode, no downclocking, the full power of the Xbox Series X for each and every backward compatible game.
+
+Microsoft [[Xbox Series X Inside and Out|continues]] their trend of clear, powerful, and effective communication and marketing. To watch this unfold and compare it to the Xbox One roll out is astounding.
+
+This post focuses on Microsoft’s continued trend of backward compatibility. They have been unparalleled in continuous support for legacy consoles. While you can’t play every Xbox game, the support and growing catalog is remarkable. With the Series X, the backward compatibility is sounds unique in the ways it will alter the old games themselves, bringing features and performance never imagined when they were originally developed. It is not unlike the conversation surrounding classic games and FPGA consoles.
+
+> We are also creating whole new classes of innovations including the ability to double the frame rate of a select set of titles from 30 fps to 60 fps or 60 fps to 120 fps.
+
+I wonder what these select titles will be. I imagine the best place to start is with games that Microsoft already owns. I would also hope that this is optional to the player. Bringing games to frame rates not originally intended for can feel off-putting.
+
+An example I like to point to is Mario Kart 8: When you play with three or four people in splitscreen multiplayer, the framerate drops from 60fps to 30fps. While this is an example of the frame rate dropping, not increasing, the feeling is the same. An example of the frame rate increasing can be found in The Last of Us Remastered. The PS4 port offers up to 60fps, but the game’s new fluidity feels out of place, at least to me.
+
+Can you imagine Banjo-Kazooie at 120fps?
+
+> In partnership with the Xbox Advanced Technology Group, Xbox Series X delivers a new, innovative HDR reconstruction technique which enables the platform to automatically add HDR support to games. As this technique is handled by the platform itself, it allows us to enable HDR with zero impact to the game’s performance and we can also apply it to Xbox 360 and original Xbox titles developed almost 20 years ago, well before the existence of HDR.
+
+This sounds like black magic. I have got to see this to believe this. This almost sounds like fan hacks for older games by tweaking the actual visual representation of the game to bring it to more modern standards. Again, I hope this is an option. Microsoft has been giving millions of players choice and I don’t think this will be any different.
+
+> With more than 100,000 hours of play testing already completed, thousands of games are already playable on Xbox Series X today, from the biggest blockbusters to cult classics and fan favorites. Many of us in Team Xbox play on the Xbox Series X daily as our primary console and switching between generations is seamless. By the time we launch this holiday, the team will have spent well over 200,000 hours ensuring your game library is ready for you to jump in immediately.
+
+This is the takeaway. If there was a box quote, this would be the one for backward compatibility.
+
+Look at [Sony’s messaging for backward compatibility back in March 2020](https://blog.us.playstation.com/2020/03/18/unveiling-new-details-of-playstation-5-hardware-technical-specs/).
+
+> A quick update on backward compatibility – With all of the amazing games in PS4’s catalog, we’ve devoted significant efforts to enable our fans to play their favorites on PS5. We believe that the overwhelming majority of the 4,000+ PS4 titles will be playable on PS5.
+> 
+> We’re expecting backward compatible titles will run at a boosted frequency on PS5 so that they can benefit from higher or more stable frame rates and potentially higher resolutions. We’re currently evaluating games on a title-by-title basis to spot any issues that need adjustment from the original software developers.
+> 
+> In his presentation, Mark Cerny provided a snapshot into the Top 100 most-played PS4 titles, demonstrating how well our backward compatibility efforts are going. We have already tested hundreds of titles and are preparing to test thousands more as we move toward launch. We will provide updates on backward compatibility, along with much more PS5 news, in the months ahead.
+
+I feel like I genuinely understand Sony’s messaging, but will the mass market? Microsoft is speaking to the people here. Sony may have the best selling console this generation (as well as the best of all time), but they are trudging along to reveal the PS5. If there is an [[Sony Is Said to Plan PS5 Conference for as Early as Next Week – Bloomberg|event next week]], I hope it is clear, direct, powerful, and shows some actual games.
+
+Sometime in June, Microsoft is supposed to host another edition of [[Microsoft Announces Xbox 20-20|Xbox 20/20]]. I wonder if this backward compatibility post was released to clear up air time and dedicate as much time as possible to the new console details. [Microsoft has a store page](https://www.microsoft.com/en-us/p/xbox-series-x/8wj714n3rbtl).
+
+We are very, very close.

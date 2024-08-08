@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2021/10/13/chapter-select-s2e1/
 permalink: 2021/10/13/chapter-select-s2e1/
 ---
+# S2E1 - *God of War*
+
 ![[S2E1 Art.jpg]]
 
 Season 2 sets a course through the myth of ancient Greece with *God of War*. Max Roberts and Logan Moore travel back to *God of War*, not to be confused with 2018’s *God of War*. Has Kratos changed all that much since 2005? Does the quest for vengeance hold up?

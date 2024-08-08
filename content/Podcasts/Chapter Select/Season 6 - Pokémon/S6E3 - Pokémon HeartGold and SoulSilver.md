@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2023/09/20/chapter-select-s6e3/
 permalink: 2023/09/20/chapter-select-s6e3/
 ---
+# S6E3 - *Pokémon HeartGold* and *SoulSilver*
+
 ![[S6E3 Art.jpg]]
 
 Pokémania has reached its peak! Rivals Max Roberts and Logan Moore are joined by League Champion Peter Spezia to explore Johto and beyond in *Pokémon HeartGold* and *SoulSilver*! Did the rush for a sequel impede innovation or did *Pokémon* evolve into its best form 20 years ago?

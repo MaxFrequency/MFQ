@@ -10,6 +10,8 @@ tags:
 URL: https://maxfrequency.net/2022/01/05/chapter-select-s2e7/
 permalink: 2022/01/05/chapter-select-s2e7/
 ---
+# S2E7 - *God of War* (2018)
+
 ![[S2E7 Art.jpg]]
 
 The Season 2 finale takes our hero Kratos to an entirely new realm. After nearly 15 years, Sony Santa Monica Studio attempted to prove both the *God of War* franchise and the studio itself could change. Max and Logan examine this pivotal title to find out if change is for the better.

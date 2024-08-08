@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2021/10/27/chapter-select-s2e2/
 permalink: 2021/10/27/chapter-select-s2e2/
 ---
+# S2E2 - *God of War: Ascension*
+
 ![[S2E2 Art.jpg]]
 
 The *God of War* franchise enters the proverbial Colosseum with its multiplayer debut. *God of War: Ascension* was one of the PlayStation 3’s swan songs and it could have been the same for Kratos. Max Roberts and Logan Moore go back in time to 2013 to try and figure out what happened to the Ghost of Sparta.

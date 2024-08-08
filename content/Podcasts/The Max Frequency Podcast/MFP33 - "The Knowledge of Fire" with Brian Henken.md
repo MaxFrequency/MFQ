@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2024/01/30/mfp-33/
 permalink: 2024/01/30/mfp-33/
 ---
+# MFP33 - "The Knowledge of Fire" with Brian Henken
+
 Brian Henken stops on by to share his creation process behind video essays and video games.
 
 <audio controls>

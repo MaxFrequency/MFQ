@@ -17,6 +17,8 @@ tags:
 URL: https://maxfrequency.net/mfp-37
 permalink: mfp-37
 ---
+# MFP37 - "Put Me in the Camp of Amp" with Jerrad Wyche
+
 Jerrad Wyche returns catch up with Max about the state of Xbox and dissect the 2024 Xbox Summer Games Showcase.
 
 <audio controls>

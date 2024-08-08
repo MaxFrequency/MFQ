@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/chapterselect/season3/
 permalink: chapterselect/season3/
 ---
+# Season 3 – *Banjo-Kazooie*
+
 ![[S3 Art.jpg]]
 
 Chapter Select Season 3 is *Banjo-Kazooie*. This unique series has so few entries, but a passionate fan base. From the warm, fuzzy glow of the Nintendo 64 to the crispness of the Xbox Series X, the Bear and the Bird have helped shape 3D character platformers since 1998.
@@ -59,9 +61,7 @@ Chapter Select Season 3 is *Banjo-Kazooie*. This unique series has so few entrie
 ---
 # Related Posts
 
-## [Playing Banjo-Kazooie for the First Time](https://youtube.com/live/a_xblquGACw)
-
-Max has never played *Banjo-Kazooie* on the N64 before! That is, until now. With the power of NSO, Max tries out the original version of the Bear and Bird's debut.
+## [Playing Banjo-Kazooie for the First Time](https://youtube.com/li[](Racing%20in%20Banjo-Pilot%20–%20Super%20Chapter%20Select.md)ries out the original version of the Bear and Bird's debut.
 ## [[Racing in Banjo-Pilot – Super Chapter Select|Racing in Banjo-Pilot]]
 
 Now free for all, check out the race between Max and Logan in the one Banjo game they didn’t play—*Banjo-Pilot*.

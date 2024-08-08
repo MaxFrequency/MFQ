@@ -10,6 +10,8 @@ tags:
 URL: https://maxfrequency.net/2021/10/22/btp-06/
 permalink: 2021/10/22/btp-06/
 ---
+# BTP6 - GrandPOOBear Turned Playing Games from a Hobby to a Career
+
 > [!info]
 > Part of creating *The Max Frequency Podcast* was to restore all the episodes of *Behind the Pixel*, an interview show I did in 2017 for seven episodes. These will be mixed into this feed so that the show can live on podcast services once more. Below are the original show notes, with some light editing. I hope you enjoy.
 

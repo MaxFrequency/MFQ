@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2021/08/11/chapter-select-s1e6/
 permalink: 2021/08/11/chapter-select-s1e6/
 ---
+# S1E6 - *Paper Mario: Sticker Star*
+
 ![[S1E6 Art.jpg]]
 
 The Season 1 finale has our hosts play through the *Paper Mario* game that changed everything. Max and Logan peel back the sticky layers of the Nintendo 3DS exclusive *Paper Mario: Sticker Star* to get a grasp on the influence of Shigeru Miyamoto. How has this portable game defined the franchise for the last decade?

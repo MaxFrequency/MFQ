@@ -7,6 +7,8 @@ tags:
   - CS
   - BtS
 ---
+# Behind the Scenes of Season 2 – *God of War*
+
 ![[S2 Widescreen Art.jpg]]
 
 It’s time to put away the Blades of Chaos because Season 2 is done!

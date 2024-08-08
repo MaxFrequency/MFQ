@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/2022/04/27/mfp-14/
 permalink: 2022/04/27/mfp-14/
 ---
+# MFP14 - “I Have It In My Contract to Write About Survivor” with Ricky Frech
+
 Ricky Frech teaches Max about the wide world of sports video games and Survivor. Then the two compare their guide writing practices before swapping worst wiki experiences.
 
 <audio controls>

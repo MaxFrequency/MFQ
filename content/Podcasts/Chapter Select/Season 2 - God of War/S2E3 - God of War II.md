@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2021/11/10/chapter-select-s2e3/
 permalink: 2021/11/10/chapter-select-s2e3/
 ---
+# S2E3 - *God of War II*
+
 ![[S2E3 Art.jpg]]
 
 With a new director at the helm, *God of War II* helped end the PS2 on a high note with the promise of an epic conclusion on Sony’s brand new PS3. Special guest Grant Huff joins Max and Logan to find the edge of the world and challenge fate itself.

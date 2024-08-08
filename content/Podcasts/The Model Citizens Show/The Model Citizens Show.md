@@ -3,6 +3,8 @@ URL:
 permalink: 
 tags:
 ---
+# The Model Citizens Show
+
 ![[MCS.jpg]]
 
 Back in 2017, Logan Moore, Michael Ruiz, Mario Rivera, and myself undertook launching our own podcast network—Model Citizens Media. The flagship show shared the name, dropping “Media” for “Show.” The network included four shows; said flagship with the four of us, [[Millennial Gaming Speak]] with Logan and myself (which [[Restoring Millennial Gaming Speak|I restored last year]]), Reeling in the Years with Logan and Mike, and [[Behind the Pixel]]. It wasn’t long for the world.

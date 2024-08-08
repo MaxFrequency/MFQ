@@ -10,6 +10,8 @@ URL: https://maxfrequency.net/2023/09/27/chapter-select-s4e12/
 permalink: 2023/09/27/chapter-select-s4e12/
 description: It’s time to go back to a time before. Before Tokyo and Brazil; before highway tanks and endless runways. Exclusively for members of Super Chapter Select, Max and Logan visit Justin’s Lin’s second film Better Luck Tomorrow—aka the origin of Family Favorite Han. How does teen angst translate to the Fast Saga?
 ---
+# S4E12 - *Better Luck Tomorrow*
+
 ![[S4E12 Art.jpg]]
 
 It’s time to go back to a time before. Before Tokyo and Brazil; before highway tanks and endless runways. Exclusively for members of Super Chapter Select, Max and Logan visit Justin’s Lin’s second film *Better Luck Tomorrow*—aka the origin of Family Favorite Han. How does teen angst translate to the Fast Saga?

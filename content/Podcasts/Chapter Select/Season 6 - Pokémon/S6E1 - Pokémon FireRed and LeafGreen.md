@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2023/08/23/chapter-select-s6e1/
 permalink: 2023/08/23/chapter-select-s6e1/
 ---
+# S6E1 - *Pokémon FireRed* and *LeafGreen*
+
 ![[S6 Art.jpg]]
 
 We want to be the very best; like no podcast ever was! Welcome to Season 6 of Chapter Select! It is time for us to catch them all as we tackle *Pokémon*. Hosts Max Roberts and Logan Moore go back to the original 151 to explore what kicked off this multi-billion dollar franchise. Is catching Pocket Monsters today as compelling as it was in 1998?

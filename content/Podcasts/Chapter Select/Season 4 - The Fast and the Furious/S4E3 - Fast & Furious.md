@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2022/09/21/chapter-select-s4e3/
 permalink: 2022/09/21/chapter-select-s4e3/
 ---
+# S4E3 - *Fast & Furious*
+
 ![[S4E3 Art.jpg]]
 
 New episode. Original Hosts. It is 2009 and *The Fast and the Furious* franchise hits the reboot button and shoots for the action-packed stars. Max Roberts and Logan Moore take a trip to Mexico to figure out how the series went from street racers to superheroes.

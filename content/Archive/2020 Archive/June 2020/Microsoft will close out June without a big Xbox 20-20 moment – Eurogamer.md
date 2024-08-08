@@ -1,0 +1,25 @@
+---
+Published: 2020-06-29
+URL: https://maxfrequency.net/2020/06/29/microsoft-2020-no-show-june/
+permalink: 2020/06/29/microsoft-2020-no-show-june/
+tags:
+  - Xbox/XSX
+  - Halo
+---
+# Microsoft will close out June without a big Xbox 20-20 moment – Eurogamer
+
+ [Microsoft will close out June without a big Xbox 20/20 moment](https://www.eurogamer.net/articles/2020-06-29-microsoft-will-close-out-june-without-a-big-xbox-20-20-moment) by Tom Phillips for Eurogamer
+
+> Microsoft has spent June recapping Xbox Series X details in a series of Xbox Wire blogs. The content has largely been about features we knew about already, such as game optimisation on Xbox Series X, Smart Delivery, and… a round-up of everything else announced so far. The month’s biggest Microsoft “moment” was, arguably, the surprise it was killing streaming service Mixer to work with Facebook Gaming instead. It’s fair to say that was not Microsoft’s intended next-gen marketing beat.
+
+Seems like Microsoft’s plan for June was to simply repeat themselves. Sony regained goodwill with [[The Games from the PS5 Event|a strong games showcase]] for the [[PlayStation 5 Console Revealed|PS5]] and being directly associated with the [[Unreal Engine 5 Revealed with a Real-Time Demo Running on PlayStation 5|Unreal Engine 5 reveal]].
+
+> The original plan was to showcase the Xbox Series S as part of Xbox’s big E3 2020 show, so the proposition of a cheaper next-gen option could be explained properly, sat alongside the graphical powerhouse provided by the beefier Series X, both playing the same next-gen games.
+> 
+> But when E3 was cancelled and remote working hindered progress on various internal game projects, it became clear Microsoft could no longer show both its boxes and next-gen games all at the same time.
+
+Understandable that a “Lockhart” announcement would get pushed back, in a general sense. Why not take the clearly repetitive month of June as an opportunity to reveal and explain the Xbox Series S? Especially in light of Sony having two SKUs for the PS5, something no one really expected. Strikes me as foolish to keep it in the wings.
+
+The other looming question is price. Sony and Microsoft appear to be playing a game of chicken. Phil Spencer has openly talked about [[Interview - Head of Xbox Phil Spencer – Unlocked 437 – IGN|staying agile with Series X pricing]]. Sony appears to be ignoring the question. I feel like Microsoft desperately wants to undercut Sony. If this rumored Xbox Series S is much weaker than Series X and/or the PS5, but significantly cheaper, it’ll be a win for Microsoft. If Microsoft can make both their next-gen offerings cheaper than the PS5, it’ll be an opportunity for marketing domination.
+
+Microsoft needs to come out swinging in July with games. Make the next Xbox more enticing than numbers on a spreadsheet and flashy features in a sizzle reel. [The *Halo* teaser from last week](https://twitter.com/Halo/status/1275806134142525440) zapped my pulse for Xbox hype back to life. There are rumors that *Fable* will make an appearance. What is [[Phil Spencer Plays The Initiative’s Game|The Initiative]] working on? I hope Microsoft answers these questions and teases more.

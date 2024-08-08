@@ -12,6 +12,8 @@ tags:
   - Nintendo
 permalink: 2016/08/03/mgs-53/
 ---
+# Millennial Gaming Speak – Episode 53 - Our Expectations for No Man’s Sky
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-53-Our-Expectations-for-No-Mans-Sky-e1adht2/a-a6ts44t" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
@@ -20,7 +22,7 @@ permalink: 2016/08/03/mgs-53/
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/De6QWc1WuHo?si=SwOn-tsZwG-EYgL6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-%%https://www.youtube.com/live/De6QWc1WuHo%%
+%%https://www.youtube.com/live/De6QWc1WuHo %%
 
 # Show Description
 

@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2022/06/01/cs-s3e2/
 permalink: 2022/06/01/cs-s3e2/
 ---
+# S3E2 - *Banjo-Kazooie: Nuts & Bolts*
+
 ![[S3E2 Art.jpg]]
 
 After an eight-year long slumber, *Banjo-Kazooie* comes out of hibernation with a brand new owner. Max Roberts, Logan Moore, and special guest Michael Ruiz pick up the pieces left behind by Rare and try to understand what Rare built on the Xbox 360. Are the bones of *Nuts & Bolts* strong or does it all fall apart under scrutiny?

@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2021/07/28/chapter-select-s1e5/
 permalink: 2021/07/28/chapter-select-s1e5/
 ---
+# S1E5 - *Super Paper Mario*
+
 ![[S1E5 Art.jpg]]
 
 In a wholly unique adventure, *Super Paper Mario* takes our 2D super star and brings him into a 3D world. Max, Logan, and special guest Ricky Frech boot up SWOON.EXE and see if the wiles of *Super Paper Mario* can truly charm them. How does this one-off puzzle platformer fit into the collage that is *Paper Mario*?

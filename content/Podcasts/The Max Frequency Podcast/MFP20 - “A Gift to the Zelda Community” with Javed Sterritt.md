@@ -14,6 +14,8 @@ tags:
 URL: https://maxfrequency.net/2023/01/20/mfp-20/
 permalink: 2023/01/20/mfp-20/
 ---
+# MFP20 - “A Gift to the Zelda Community” with Javed Sterritt
+
 Javed Sterritt from Good Blood and The Hyrule Journals joins Max to dig behind the scenes of his *Majora’s Mask* documentary *Line By Line*, explore the thrill of the (research) hunt, and the balance of recreation and authenticity.
 
 <audio controls>

@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/chapterselect/season1/
 permalink: chapterselect/season1/
 ---
+# Season 1 – *Paper Mario*
+
 ![[S1 Art.jpg]]
 
 Chapter Select Season 1 is *Paper Mario*. Being born as a spiritual successor to *Super Mario RPG*, the paper craft art style captured audiences around the world. As a RPG series riddled with experimentation, few series have the same breadth of highs and lows.

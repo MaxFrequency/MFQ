@@ -10,6 +10,8 @@ permalink: chapterselect/season7/
 image: https://publish-01.obsidian.md/access/26f4d6fa29d2725bd96eb07bcfb6decb/Published/Published%20Files/Published%20Images/Chapter%20Select%20Images/S7%20Placeholder%20Art.jpg
 description: Chapter Select Season 7 will be Metroid Prime.
 ---
+# Season 7 – *Metroid Prime*
+
 ![[S7 Placeholder Art.jpg]]
 
 Chapter Select Season 7 will be *Metroid Prime*.

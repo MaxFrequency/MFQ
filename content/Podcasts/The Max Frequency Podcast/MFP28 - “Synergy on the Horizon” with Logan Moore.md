@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2023/05/08/mfp-28/
 permalink: 2023/05/08/mfp-28/
 ---
+# MFP28 - “Synergy on the Horizon” with Logan Moore
+
 E3 is dead, long live Keighley-Con! Max and special guest Logan Moore are back for their eighth annual summer video game announcement predictions episode.
 
 <audio controls>

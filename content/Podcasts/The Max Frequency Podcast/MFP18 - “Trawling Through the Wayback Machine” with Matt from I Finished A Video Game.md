@@ -13,6 +13,8 @@ tags:
 URL: https://maxfrequency.net/2023/01/06/mfp-18/
 permalink: 2023/01/06/mfp-18/
 ---
+# MFP18 - “Trawling Through the Wayback Machine” with Matt from I Finished A Video Game
+
 When I watched I Finished A Video Game’s 7+ hour Castlevania retrospective, [[Castlevania Series Retrospective – I Finished A Video Game|I had to know how it was made]]. So I reached out to the creator, Matt, and invited him to the show. We talk about both the history of *Castlevania* and the daunting task of chronicling the entire franchise.
 
 <audio controls>

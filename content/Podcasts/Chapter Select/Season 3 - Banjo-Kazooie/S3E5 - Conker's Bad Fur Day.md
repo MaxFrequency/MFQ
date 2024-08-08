@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2022/07/13/cs-s3e5/
 permalink: 2022/07/13/cs-s3e5/
 ---
+# S3E5 - *Conker's Bad Fur Day*
+
 ![[S3E5 Art.jpg]]
 
 Banjo and Kazooie weren’t the only 3D platformer mascots Rare created for the Nintendo 64. Often lauded as one of the console’s best, Max Roberts and Logan Moore decided to both play *Conker’s Bad Fur Day* for the very first time. Was Rare firing on all cylinders in the late 90s or is *Conker* actually a great and mighty pile of poo?

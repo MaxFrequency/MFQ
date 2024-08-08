@@ -18,6 +18,8 @@ tags:
   - Nintendo/3DS
   - Podcast
 ---
+# The Game Boys - Episode 004 - Three Men, One Podcast
+
 Hosts Max Roberts, Mitchell Morgan, Alex Wray, and Rocky Ankeny are back in episode 004 of The Game Boys! For a list of all the news stories and their respective links, just scroll down below and click the respective link!
 
 Have any questions or topics you would like us to read on the show! Tweet at us or send us an email! Check out our [contact](http://goleftgaming.wordpress.com/contact/) page for the proper information!

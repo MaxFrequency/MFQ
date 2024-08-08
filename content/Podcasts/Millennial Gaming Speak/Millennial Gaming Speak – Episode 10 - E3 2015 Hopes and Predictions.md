@@ -10,7 +10,10 @@ tags:
   - MGS
 permalink: 2015/05/26/mgs-10/
 ---
-%%Google Doc Link - https://docs.google.com/document/d/1G2dFNlJuWcwU8fYweoRoTaiIgcpgqeI9hfTsvc3iVmw/edit?usp=sharing%%
+# Millennial Gaming Speak – Episode 10 - E3 2015 Hopes and Predictions
+
+%%Google Doc Link - https://docs.google.com/document/d/1G2dFNlJuWcwU8fYweoRoTaiIgcpgqeI9hfTsvc3iVmw/edit?usp=sharing
+%%
 
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-10-E3-2015-Hopes-and-Predictions-e1adhs0/a-a6ts44l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

@@ -15,6 +15,8 @@ tags:
 URL: https://maxfrequency.net/2023/03/20/mfp-25/
 permalink: 2023/03/20/mfp-25/
 ---
+# MFP25 - “Get Real Nitty-Gritty” with Dustin Furman
+
 Dustin Furman joins the show to talk about his journey to executive producer of Last Stand Media. Take a peek behind the curtain of production before Max and Dustin chat about PS VR2 and game collecting.
 
 <audio controls>
@@ -30,7 +32,7 @@ Dustin Furman joins the show to talk about his journey to executive producer of 
 > [!info]
 > Check out a [[How I Edit My Podcasts|behind-the-scenes look at how I edit podcasts]]! I filmed a [[How I Edit My Podcasts|tutorial]] editing this episode, which I thought would be a valuable resource for folks. I hope you enjoy!
 
-# Show Notes
+# MFP25 - “Get Real Nitty-Gritty” with Dustin Furman
 ## Welcome
 
 - [[S5E5 - Resident Evil 4|Resident Evil 4 – Chapter Select, S5E5]]

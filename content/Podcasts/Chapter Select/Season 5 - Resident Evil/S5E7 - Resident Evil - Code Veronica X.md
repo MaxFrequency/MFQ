@@ -13,6 +13,8 @@ tags:
 URL: https://maxfrequency.net/2023/04/05/chapter-select-s5e7/
 permalink: 2023/04/05/chapter-select-s5e7/
 ---
+# S5E7 - *Resident Evil - Code: Veronica X*
+
 ![[S5E7 Art.jpg]]
 
 The ghost of horrors past returns. Max Roberts and Logan Moore plan their escape from the icy tundra while figuring out if classic *Resident Evil* can evolve into its final form. Does this arctic adventure deserve a remake or should it be cast off like a bad dream?

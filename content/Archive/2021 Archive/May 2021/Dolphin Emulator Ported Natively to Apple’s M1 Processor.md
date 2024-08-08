@@ -1,0 +1,33 @@
+---
+Published: 2021-05-25
+URL: https://maxfrequency.net/2021/05/25/dolphin-m1-port/
+permalink: 2021/05/25/dolphin-m1-port/
+tags:
+  - Nintendo/GameCube
+  - Apple/Mac
+---
+# Dolphin Emulator Ported Natively to Apple’s M1 Processor
+
+[Dolphin Emulator – Temptation of the Apple: Dolphin on macOS M1](https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/): by JMC47 and Maylmilae for the Dolphin Blog via John Gruber at [Daring Fireball](https://daringfireball.net/linked/2021/05/25/dolphin-on-m1)
+
+The blog post is technical, but there is a short section with two charts that is insanely clear cut: Apple’s M1 processor is wicked fast, powerful, and efficient.
+
+> How does the M1 hardware perform when put up against some of the beasts of the GameCube and Wii library? We also included data from two computers featured in Progress Reports previously for comparison.
+
+![[cleanshot-2021-05-25-at-20.57.39402x.png]]
+
+> There’s no denying it; macOS M1 hardware kicks some serious ass. It absolutely obliterates a two and a half year old Intel MacBook Pro that was over three times its price all while keeping within ARM’s reach of a powerful desktop computer. We were so impressed, we decided to make a second graph to express it.
+
+![[cleanshot-2021-05-25-at-20.58.09402x.png]]
+
+> The efficiency is almost literally off the chart. Compared to an absolute monstrosity of a Desktop PC, it uses less than 1/10th of the energy while providing ~65% of the performance. And the poor Intel MacBook Pro just can’t compare.
+
+Gruber quoted that final line as well. 
+
+To put this is in perspective (and to wrap my head around it), the M1 they are testing is the M1 MacBook Air with the 7-core GPU. The lowest end of the M1 line, costing $999. And the M1 is the consumer-level processor as Apple makes this transition from Intel/x86 to Apple Silicon/ARM. This is only the beginning of macOS with the power of ARM.
+
+The PC the MacBook Air was tested against had an Intel Core i9 9900K processor with the brand new, top of the line Bitcoin mining (and gaming) GPU from Nvidia, the RTX 3090. Those two alone cost $1875~. You’d still require a motherboard, power supply, case, RAM, cooling, monitor, and a hard drive. Casually clicking around [PC Part Picker](https://pcpartpicker.com/list/PPvngt), trying to match certain specs where I could (to help the PC out!), the equivalent build would cost nearly $3000!
+
+Again, the Dolphin team was able to get the performance above on a 13’’ laptop with no fan and 7-integrated GPU cores.
+
+Holy smokes! I cannot wait to get my own Apple Silicon-based Mac and see Apple’s professionally aimed chipset in the coming year. Wow.

@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/chapterselect/season6/
 permalink: chapterselect/season6/
 ---
+# Season 6 – *Pokémon*
+
 ![[S6 Art.jpg]]
 
 We want to be the very best; like no podcast ever was! Welcome to Season 6 of Chapter Select! It is time for us to catch them all as we tackle *Pokémon*. “Rivals” Max Roberts and Logan Moore set out on a grand adventure to collect, battle, and study this legendary series.
@@ -35,9 +37,9 @@ We want to be the very best; like no podcast ever was! Welcome to Season 6 of Ch
 - [[S6E2 - Pokémon Scarlet and Violet|Episode 2 – Pokémon Scarlet and Violet (2022)]]
 - [[S6E3 - Pokémon HeartGold and SoulSilver|Episode 3 – Pokémon HeartGold and SoulSilver (2010)]]
 - [[S6E4 - Pokémon Sword and Shield|Episode 4 – Pokémon Sword and Shield (2019)]]
-- [[S6E5 - Pokémon Omega Ruby & Alpha Sapphire|Episode 5 – Pokémon Alpha Sapphire and Omega Ruby (2014)]]
-- [[S6E6 - Pokémon Ultra Sun & Ultra Moon|Episode 6 – Pokémon Ultra Sun and Ultra Moon (2017)]]
-- [[S6E7 - Pokémon Brilliant Diamond & Shining Pearl|Episode 7 – Pokémon Brilliant Diamond and Shining Pearl (2021)]]
+- [[S6E5 - Pokémon Omega Ruby and Alpha Sapphire|Episode 5 – Pokémon Alpha Sapphire and Omega Ruby (2014)]]
+- [[S6E6 - Pokémon Ultra Sun and Ultra Moon|Episode 6 – Pokémon Ultra Sun and Ultra Moon (2017)]]
+- [[S6E7 - Pokémon Brilliant Diamond and Shining Pearl|Episode 7 – Pokémon Brilliant Diamond and Shining Pearl (2021)]]
 - [[S6E8 - Pokémon X and Y|Episode 8 – Pokémon X and Y (2013)]]
 - [[S6E9 - Pokémon Black and White|Episode 9 – Pokémon Black and White (2010)]]
 - [[S6E10 - Pokémon Black 2 and White 2|Episode 10 – Pokémon Black 2 and White 2 (2012)]]

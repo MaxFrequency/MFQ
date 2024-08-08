@@ -8,6 +8,8 @@ tags:
 URL: https://maxfrequency.net/chapterselect/season0/
 permalink: chapterselect/season0/
 ---
+# Season 0 – *The Last of Us*
+
 ![[S0 Art.jpg]]
 
 Chapter Select Season 0 is *The Last Of Us*. During the wild success of the *Uncharted* series on PlayStation 3, Naughty Dog took a risk creating a character-driven post-apocalyptic adventure. The swan song of the console became the most awarded game of all time. Seven years later, a divisive sequel capped off the PlayStation 4 generation.

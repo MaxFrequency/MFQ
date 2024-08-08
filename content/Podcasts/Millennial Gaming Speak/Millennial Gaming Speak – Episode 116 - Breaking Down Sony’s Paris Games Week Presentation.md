@@ -16,6 +16,8 @@ tags:
   - SpiderMan
 permalink: 2017/11/01/mgs-116/
 ---
+# Millennial Gaming Speak – Episode 116 - Breaking Down Sony’s Paris Games Week Presentation
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-116-Breaking-Down-Sonys-Paris-Games-Week-Presentation-e1adhu8/a-a6ts47p" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

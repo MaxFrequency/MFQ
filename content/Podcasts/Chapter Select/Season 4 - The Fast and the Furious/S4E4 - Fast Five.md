@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2022/10/05/chapter-select-s4e4/
 permalink: 2022/10/05/chapter-select-s4e4/
 ---
+# S4E4 - *Fast Five*
+
 ![[S4E4 Art.jpg]]
 
 It is time to assemble the team. Two precision podcasters – Max Roberts and Logan Moore – don’t crack under the pressure of discussing this transformative film. Can the Fast Family pull off the greatest heist of all and become a billion dollar franchise?

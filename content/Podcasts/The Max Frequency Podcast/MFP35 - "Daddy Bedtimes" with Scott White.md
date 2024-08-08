@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/mfp-35
 permalink: mfp-35
 ---
+# MFP35 - "Daddy Bedtimes" with Scott White
+
 The Professor himself, Scott White, returns to chat about graduating to the class of Dad, introducing video games to our kids, and the wide world of board games.
 
 <audio controls>

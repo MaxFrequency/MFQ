@@ -14,6 +14,8 @@ tags:
 URL: https://maxfrequency.net/2021/05/07/mfp-6/
 permalink: 2021/05/07/mfp-6/
 ---
+# MFP06 - “That’s Why They Call Me a Podcast Killer” with Casey Liss
+
 Casey Liss from ATP and Analog(ue) joins me this time on The Max Frequency Podcast. We chat about how preserving ones and zeros is harder than you may think, flying drones, and celebrating working for yourself. Then Casey asks me about my own joby job.
 
 <audio controls>

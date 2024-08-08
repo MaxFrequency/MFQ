@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/2022/02/01/mfp-13/
 permalink: 2022/02/01/mfp-13/
 ---
+# MFP13 - “Go Back to Daddy Microsoft” with Tomas Franzese
+
 Tomas Franzese joins the show to help digest the beefy $68.7 billion acquisition of Activision Blizzard. We also chat about Tomas’s new job at DigitalTrends and discuss Hollywood tapping into the well of video game IP.
 
 <audio controls>

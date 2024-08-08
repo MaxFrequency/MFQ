@@ -1,0 +1,20 @@
+---
+Published: 2020-06-09
+URL: https://maxfrequency.net/2020/06/09/the-last-of-us-part-ii-accessibility-blog/
+tags:
+  - NaughtyDog/TLOU
+permalink: 2020/06/09/the-last-of-us-part-ii-accessibility-blog/
+---
+# The Last of Us Part II – Accessibility Features Detailed – PlayStation.Blog
+
+[The Last of Us Part II: Accessibility Features Detailed – PlayStation.Blog](https://blog.playstation.com/2020/06/09/the-last-of-us-part-ii-accessibility-features-detailed/)
+
+> *The Last of Us Part II* features more than 60 accessibility settings, with expanded options focused on fine-motor and hearing, as well as completely new features that benefit low-vision and blind players. We encourage everyone to take advantage of these features to create a gameplay experience that’s right for them.
+
+Even more in-depth details on the [[Naughty Dog explains The Last of Us Part II’s ambitious accessibility features – The Verge|accessibility features]] in the *The Last of Us Part II*. There are fully settings for customizable controls, visibility, motion sickness, navigation, audio, and more. It is incredible to see these types of features built-in from the ground up for such a huge AAA game. Naughty Dog seems to be raising yet another bar here.
+
+My personal favorite line in the break down though was this.
+
+> Trophies are not limited by difficulty.
+
+Fantastic.

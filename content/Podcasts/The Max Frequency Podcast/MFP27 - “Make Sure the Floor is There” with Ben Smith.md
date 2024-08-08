@@ -10,6 +10,8 @@ tags:
 URL: https://maxfrequency.net/2023/04/17/mfp-27/
 permalink: 2023/04/17/mfp-27/
 ---
+# MFP27 - “Make Sure the Floor is There” with Ben Smith
+
 Ben Smith takes Max on a deep dive into the world of producing podcasts, live shows, and video games.
 
 <audio controls>

@@ -10,6 +10,8 @@ tags:
 URL: https://maxfrequency.net/2021/12/08/chapter-select-s2e5/
 permalink: 2021/12/08/chapter-select-s2e5/
 ---
+# S2E5 - *God of War: Chains of Olympus*
+
 ![[S2E5 Art.jpg]]
 
 We head back to Ready at Dawn’s original attempt at putting the power of Olympus on the PSP. Developed alongside *God of War II*, Kratos’ first prequel feels more like a traditional sequel. Max and Logan decide whether or not putting *God of War* on the go was a killer idea or just beating a dead centaur.

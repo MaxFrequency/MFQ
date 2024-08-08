@@ -14,6 +14,8 @@ tags:
 URL: https://maxfrequency.net/2021/03/25/mfp-2/
 permalink: 2021/03/25/mfp-2/
 ---
+# MFP02 - “Against the Cruelness of Batteries and Time” with Cameron Hawkins
+
 Cameron Hawkins joins me to chat about starring on one of IGN’s premiere podcasts, our shared passion for collecting games, and possibly to settle our differences about *Kingdom Hearts*.
 
 <audio controls>

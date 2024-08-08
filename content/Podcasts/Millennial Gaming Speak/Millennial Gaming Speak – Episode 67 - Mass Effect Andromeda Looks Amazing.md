@@ -14,6 +14,8 @@ tags:
   - LastGuardian
 permalink: 2016/11/15/mgs-67/
 ---
+# Millennial Gaming Speak – Episode 67 - Mass Effect Andromeda Looks Amazing
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-67-Mass-Effect-Andromeda-Looks-Amazing-e1adhqe/a-a6ts40p" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

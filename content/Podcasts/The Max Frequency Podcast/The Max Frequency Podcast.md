@@ -4,6 +4,8 @@ tags:
 URL: 
 permalink: MFP
 ---
+# The Max Frequency Podcast
+
 ![[MF Podcast Art_3000.jpg]]
 
 Join Max Roberts and guests to talk about video games, technology, and life. This is podcasting at Max’s frequency.

@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2021/03/06/mfp-1/
 permalink: 2021/03/06/mfp-1/
 ---
+# MFP01 - “Let’s Push Up Our Glasses and Get a Little Nerdy” with Peter Spezia
+
 Peter Spezia joins me to talk about 25 years of *Pokémon*, the hype and hyperbole of *Smash Bros.* news, and how new services may bring call-in radio to podcasts.
 
 <audio controls>

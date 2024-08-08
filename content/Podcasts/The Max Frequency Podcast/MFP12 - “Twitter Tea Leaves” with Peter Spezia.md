@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/2021/09/25/mfp-12/
 permalink: 2021/09/25/mfp-12/
 ---
+# MFP12 - “Twitter Tea Leaves” with Peter Spezia
+
 Peter Spezia returns to the show to run through the September 2021 Nintendo Direct. Next month is jam-packed with releases, more Directs, and a new tier of Nintendo Switch Online. The fifth year of the Nintendo Switch is also shaping up to be one of its busiest and best. And of course, Seth Rogen is Donkey Kong.
 
 <audio controls>

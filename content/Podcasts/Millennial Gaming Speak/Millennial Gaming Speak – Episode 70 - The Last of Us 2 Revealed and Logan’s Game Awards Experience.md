@@ -22,6 +22,8 @@ tags:
   - Zelda/BotW
 permalink: 2016/12/03/mgs-70/
 ---
+# Millennial Gaming Speak – Episode 70 - The Last of Us 2 Revealed and Logan’s Game Awards Experience
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-70-The-Last-of-Us-2-Revealed-and-Logans-Game-Awards-Experience-e1adht6/a-a6ts444" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

@@ -7,6 +7,8 @@ tags:
   - BtS
   - CS
 ---
+# Behind the Scenes of Season 1 - *Paper Mario*
+
 ![[S1 Art.jpg]]
 
 And that’s a wrap on Season 1 of Chapter Select!

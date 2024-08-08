@@ -14,7 +14,10 @@ tags:
   - Arkham
 permalink: 2015/07/22/mgs-14/
 ---
-%%Google Doc Link - https://docs.google.com/document/d/1lx5X1MPOnx8XfpKluAYaJxUmAFmRhswgKkWPo_a2Qzo/edit?usp=sharing%%
+# Millennial Gaming Speak – Episode 14 - Kojima, Indie Games, and Kevins
+
+%%Google Doc Link - https://docs.google.com/document/d/1lx5X1MPOnx8XfpKluAYaJxUmAFmRhswgKkWPo_a2Qzo/edit?usp=sharing
+%%
 
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-14-Kojima--Indie-Games--and-Kevins-e1adhsn/a-a6ts462" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

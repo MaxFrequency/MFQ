@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/chapter-select/s4e15/
 permalink: chapter-select/s4e15/
 ---
+# S4E15 - *Fast Five* Movie Commentary
+
 ![[CS_S4E4_Art_Commentary.jpg]]
 
 Max and Logan buckle up for the transformative *Fast Five*. It's a heist movie like no other! The Family is all here! 

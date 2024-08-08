@@ -65,7 +65,7 @@ One day, my dad asked me for a recommendation for a way to interconnect document
 
 It was my dad's deep dive that ended up encouraging me to try the pitch again at my last employer. A project I was on required the use of MadCap Flare, but it was winding down, so I once again saw the opportunity to build out a pitch in Markdown with Obsidian. I used David Spark's [Obsidian Field Guide](https://learn.macsparky.com/p/obsidianfg-plus) to learn the ropes of this software I had danced around for so long. Along the way, I built a solid foundation with both the app and Markdown itself. While building out corporate documentation and falling in love with Obsidian, I thought to myself "Why don't I use this instead of Craft?" My subscription was up in a month or two, so I began the process of moving from Craft into Obsidian in late Summer/early Fall 2023.
 
-I saw the immediate value of interlinking my writing, thoughts, notes, and podcasts. It took no time at all for me to want *all* of my writing online in Obsidian; to connect over a decade of writing and have access to it. I [[An Update – November 2023 Edition – Where's the Writing?|started that process]] in November 2023.
+I saw the immediate value of interlinking my writing, thoughts, notes, and podcasts. It took no time at all for me to want *all* of my writing online in Obsidian; to connect over a decade of writing and have access to it. I [[An Update – November 2023 Edition – Where's the Writing|started that process]] in November 2023.
 
 I never finished that second work pitch either. I was let go from that job one month prior in October 2023. I ended up at my dad's company. Now I use Obsidian and Markdown every day, both personally and professionally. 
 

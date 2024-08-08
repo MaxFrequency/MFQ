@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2022/06/24/cs-s3e4/
 permalink: 2022/06/24/cs-s3e4/
 ---
+# S3E4 - *Banjo-Kazooie: Grunty's Revenge*
+
 ![[S3E4 Art.jpg]]
 
 It’s time for Banjo and Kazooie to make their debut on the go! Max Roberts and Logan Moore wrap up Season Three-ie of Chapter Select with the portable (and mobile) debut of the legendary duo. Is this entry worthy of the name or would it be better to time travel back and forget *Grunty’s Revenge*?

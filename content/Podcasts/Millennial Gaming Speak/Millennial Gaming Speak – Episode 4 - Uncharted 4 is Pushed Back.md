@@ -13,7 +13,9 @@ tags:
   - KingdomHearts
 permalink: 2015/03/18/mgs-4/
 ---
-%%Google Doc Link - https://docs.google.com/document/d/1BFIkUzyvPR1J6KsfXG1P8aVPOj9UCYzptJPPXCopTCg/edit?usp=sharing%%
+# Millennial Gaming Speak – Episode 4 - Uncharted 4 is Pushed Back
+
+%%Google Doc Link - https://docs.google.com/document/d/1BFIkUzyvPR1J6KsfXG1P8aVPOj9UCYzptJPPXCopTCg/edit?usp=sharing %%
 
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-4-Uncharted-4-is-Pushed-Back-e1ado2f/a-a6tssvn" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

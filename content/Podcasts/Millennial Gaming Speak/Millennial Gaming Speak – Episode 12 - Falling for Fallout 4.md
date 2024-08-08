@@ -14,7 +14,10 @@ tags:
   - MGS
 permalink: 2015/06/08/mgs-12/
 ---
-%%Google Doc Link - https://docs.google.com/document/d/1xhh1KrvyN2sa7yJ_827V3ehCtXz3UB1QR8Loh41qzzI/edit?usp=sharing%%
+# Millennial Gaming Speak – Episode 12 - Falling for Fallout 4
+
+%%Google Doc Link - https://docs.google.com/document/d/1xhh1KrvyN2sa7yJ_827V3ehCtXz3UB1QR8Loh41qzzI/edit?usp=sharing
+%%
 
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-12-Falling-for-Fallout-4-e1adhq0/a-a6ts40k" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

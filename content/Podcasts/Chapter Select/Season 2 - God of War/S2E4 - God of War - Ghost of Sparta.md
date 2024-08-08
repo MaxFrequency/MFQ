@@ -10,6 +10,8 @@ tags:
 URL: https://maxfrequency.net/2021/11/24/chapter-select-s2e4/
 permalink: 2021/11/24/chapter-select-s2e4/
 ---
+# S2E4 - *God of War: Ghost of Sparta*
+
 ![[S2E4 Art.jpg]]
 
 For the first time in the series, Kratos is on a journey for salvation rather than vengeance. Released just eight months after *God of War III*, the Marked Warrior returned to the PlayStation Portable in grand fashion. Max and Logan sink the city of Atlantis to find out if Kratos can save his family before he seeks revenge.

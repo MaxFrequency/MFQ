@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/2023/10/18/mfp-32/
 permalink: 2023/10/18/mfp-32/
 ---
+# MFP32 - “Building the Ephemera” with John Linneman
+
 John Linneman swings by to chat about analyzing games throughout the generations and how John’s gaming capture setup works, before lamenting the all-digital future standing before us.
 
 <audio controls>

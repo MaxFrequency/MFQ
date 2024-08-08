@@ -20,6 +20,8 @@ URL: https://maxfrequency.net/mfp-38
 permalink: mfp-38
 description: Marc "Try4ce" Duddleson returns to the show to breakdown, review, and celebrate the summer 2024 Nintendo Direct.
 ---
+# MFP38 -"Everyone Get Together for a Hootenanny" with Marc "Try4ce" Duddleson
+
 Marc "Try4ce" Duddleson returns to the show to breakdown, review, and celebrate the summer 2024 Nintendo Direct.  
 
 <audio controls>
@@ -41,7 +43,7 @@ Marc "Try4ce" Duddleson returns to the show to breakdown, review, and celebrate 
 - [Fix Super Nintendo Blur - SNES Edge-Enhancer and 2CHIP RGB Bypass Mods](https://youtube.com/watch?v=vejvc1dP4xQ)
 - [[Trading Pokémon from the Nintendo 64 to the Switch]]
 - [[Ace Attorney Satisfaction]]
-- [[How Many HDMI Cables does Try have in his Setup?]]
+- [[How Many HDMI Cables does Try have in his Setup]]
 - [Rewiring My Entire Entertainment Center for the RetroTINK-4K ~ Time Lapse](https://youtube.com/watch?v=22qUCNyjprA)
 ## Nintendo Direct (Summer 2024)
 
@@ -88,7 +90,7 @@ Marc "Try4ce" Duddleson returns to the show to breakdown, review, and celebrate 
 - [[Metroid Prime 4 - Beyond Trailer]]
 - [[S7 - Metroid Prime|Chapter Select Season 7 - Metroid Prime]]
 - [*Metroid Prime Remastered* - DF Tech Review](https://youtube.com/watch?v=RnGZ82y-xi4)
-- [[Heroes of Hyrule Video Restored – Did You Know Gaming?]]
+- [[Heroes of Hyrule Video Restored – Did You Know Gaming]]
 - [A YouTube Playlist of the Did You Know Gaming Videos](https://youtube.com/playlist?list=PLxCxW3Sbhy5Zzjbz6cVCXPrxl9a_d8dlc)
 
 ---

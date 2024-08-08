@@ -14,6 +14,8 @@ tags:
   - Bethesda
 permalink: 2017/06/11/mgs-e3-2017-xbox/
 ---
+# Millennial Gaming Speak – E3 2017 - Xbox Breakdown
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/E3-2017-Xbox-Breakdown-e1adhri/a-a6ts413" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

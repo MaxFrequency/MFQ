@@ -14,6 +14,8 @@ tags:
 URL: https://maxfrequency.net/2023/01/11/chapter-select-s5e1/
 permalink: 2023/01/11/chapter-select-s5e1/
 ---
+# S5E1 - *Resident Evil*
+
 ![[S5E1 Art.jpg]]
 
 It’s time to turn out the lights and lock the door. S.T.A.R.S Agents Max Roberts and Logan Moore creep through the Spencer Mansion to explore where *Resident Evil* began. Do ink ribbons and static cameras still hold up or has survival horror outgrown its restricted roots?

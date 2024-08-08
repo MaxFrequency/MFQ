@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2023/02/06/mfp-21/
 permalink: 2023/02/06/mfp-21/
 ---
+# MFP21 - “It Should be Intimidating” with Riley Testut
+
 App developer, sideloader, and emulator enthusiast Riley Testut teaches Max all about the delicate dance of stretching Apple’s rule and guidelines. It’s going to be a big year for both Apple and Riley as we speculate what 2023 will bring to light.
 
 <audio controls>

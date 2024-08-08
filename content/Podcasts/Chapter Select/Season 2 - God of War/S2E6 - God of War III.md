@@ -10,6 +10,8 @@ tags:
 URL: https://maxfrequency.net/2021/12/22/chapter-select-s2e6/
 permalink: 2021/12/22/chapter-select-s2e6/
 ---
+# S2E6 - *God of War III*
+
 ![[S2E6_Art.jpg]]
 
 The end of the Greek Pantheon is finally here. Kratos brings Mt. Olympus crumbling down as he extracts his revenge on his father, Zeus. Max and Logan rip through Sony Santa Monica’s version of Greece one final time to discuss where Kratos’ journey has taken him and see where he was left before entering the realm of Midgard.

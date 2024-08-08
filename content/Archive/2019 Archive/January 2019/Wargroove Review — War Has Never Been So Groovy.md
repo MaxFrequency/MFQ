@@ -1,0 +1,46 @@
+---
+Published: 2019-01-30
+Publication: DualShockers
+URL: https://maxfrequency.net/2019/01/30/wargroove-review-war-has-never-been-so-groovy/
+tags:
+  - Wargroove
+  - Review
+permalink: 2019/01/30/wargroove-review-war-has-never-been-so-groovy/
+---
+# Wargroove Review — War Has Never Been So Groovy
+
+Ever since I stumbled across Wargroove last year through the Twittersphere, I’ve been bugging our reviews editor to let me review it. The turn-based strategy style sucked me in right away: It’s a genre I've always admired and think I’m much better at than I really am. Wargroove immediately gives off a certain je ne sais quoi. So I spent the last week figuring out what exactly made me want to hit the battlefield and get down with Wargroove.
+
+Chucklefish, probably best known for [being the publisher for Stardew Valley](https://www.dualshockers.com/stardew-valley-developer-talks-future/) (my Stardew-loving wife got excited when she saw their logo appear), is the studio behind Wargroove. Their second outing as both a developer and publisher, Wargroove is a turn-based tactical strategy game with a cute, chibi-esque pixel art style. Its bright and colorful design makes brain-bending strategy inviting. The game is slammed with modes to play and create. Wargroove is one densely packed indie game. 
+
+![[Dragon-Attack.jpg]]
+
+The campaign serves as a proving ground for the game’s other modes. You actually have to get to certain points in the campaign to unlock the Arcade and Puzzle modes. It tells a lighter tale than something you’d find in Fire Emblem, but the story is rich with lore. The more you play, the more lore you unlock. I found myself pouring over the history and differences between Vampires and High Vampires, the kingdoms, and the commanders like digging into a good book.
+
+The core gameplay is exactly what I expected. You command an army, where all the troops have different abilities, strengths, and weaknesses. A certain task will be given to you to complete the level, which is usually defeating the enemy commander or their stronghold. You’ll move your troops around the board like chess pieces, strategically placing them just close enough to avoid enemy attacks or pin a foe down and wail on them. You’ll take over small towns to generate gold, which is used to buy more troops. This can be done in neutral towns or by defeating an enemy structure then occupying it.
+
+You'll quickly try to memorize what units are most effective against others. There is a super detailed screen for each unit that you can pull up at any time that displays effectiveness and vulnerability, but I found the tiny, pixelated headshots tough to decipher. It took me comparing the regular pixelated heads to the small counterparts to try and gauge my options. Over time, you do start learning what works against what, referring to the chart less, but it is a small hurdle to overcome off the battlefield.
+
+A stand out feature in Wargroove’s combat is that each commander has a special ability called their “Groove.” These charge up per turn and when your commander engages in combat. These range from creating an area shield for your army to sucking the blood out of an enemy and healing yourself with it. Most of the heroes have what I’d classify as defensive or reactive Grooves, while villains have more offensive abilities. You’ll get to try different commanders throughout the whole campaign as they often switch from level to level, giving you a chance to try most of them. Sometimes you even will get to use two commanders in a battle, allowing for creative tag-team uses.
+
+![[Groove_B.jpg]]
+
+Sometimes a fancy Groove move isn’t enough to turn the tide of battle in your favor though. I felt like some levels in the campaign have a big ol’ difficulty spike. These levels often have you starting out with some sort of significant disadvantage. The whole battlefield could be covered in a fog that only clears up as you inch forward or use certain units. The enemy could start with 14 soldiers and towns combined, dramatically increasing their revenue, while you only have five and have to venture into their territory to make more money for better units. These missions usually took me four or five tries to get right. Troops don’t earn XP, so it wasn’t like I was under-leveled. I kept rethinking strategies and thinking out plans when I wasn’t playing.
+
+You can tweak the difficulty for the campaign by adjusting how much your income is, the damage you take, or how fast your Groove charges. I was on my sixth attempt of level 4-1 and felt like throwing my hands up in surrender to the campaign, but then I tweaked everything to max easy mode. I was raking in 1000+ gold per turn, rocking my Groove ability nearly every turn and was barely phased by the enemy’s attempts. It felt great to buy the big guns, so to speak, and trample all over the enemy’s stronghold. When adjusting the difficulty to an easier setting, you are limited to earning one star instead of the possible three. I did feel like I cheated myself of the other satisfying feeling of winning on my own, but I can always come back later and I did get to advance the story.
+
+Whenever I did triumph over a particularly tough level (without tweaking the difficulty), I felt elated. Those final few turns where I thought I'd win, but wasn't entirely confident had my heart pounding as I weighed the choices and consequences of my unit placement. I truly felt like I had become a better commander myself, feeling encouraged by my successes to press onward.
+
+Outside of the campaign, if you really want to experiment with Groove abilities, the Arcade mode is what you're looking for. You get to choose a commander and engage in five shorter, more focused battles. Each one ties into this overarching narrative about finding an all-powerful weapon, but the bite-sized battles are a treat. It provides a reprieve from the sometimes sprawling battles in the campaign and can make you a better tactician for when you go back to the campaign.
+
+For an even snappier experience, the Puzzle mode reigns supreme. I love the Puzzle mode. You are presented with a small, tight battlefield and have to defeat every enemy in one turn. It challenges your move order, placement, and knowledge of each unit's strengths and weaknesses. It's addictive to try over and over again to solve a puzzle. I actually stopped writing this paragraph to try a puzzle real quick (I won). I love the challenge and task of clearing a board in one turn.
+
+![[Wargroove_Review_Puzzle_B.jpg]]
+
+If you really want to challenge your battlefield know-how (or assert you total dominance), Wargroove packs in multiplayer; both local multiplayer and [cross-play](https://twitter.com/WargrooveGame/status/1088826075700842496) online. You can face-off against one, two, or three people at once in an all-out war with whatever commander you'd like. You could team up or duke it out with a myriad of battlefields and settings to make each fight unique. When playing a local match you'll want to make sure you have a chunk of time set aside. Sure, you can pause or suspend your system, but just like a game of chess, you probably don't want to take a break in the middle of a match. Unfortunately, I wasn't able to test out the online multiplayer, its asynchronous options, and cross-play.
+
+One thing you don't need a Nintendo online subscription for is downloading and sharing your own maps and campaigns. Wargroove has a robust map editor that you can use to create your own entire game. You can make cutscenes, chose a world map layout, and design each battlefield. The rules are yours to tweak. You chose what units are available, the terrain, and more. I dabbled around with all the options and was surprised at the available depth, but approachability. This mode will flourish on PC, where I think a mouse a keyboard would shine. Using my Switch Pro Controller made it more cumbersome than I would have liked. With folks being able to share their creations, Wargroove has the built-in ability to live on for a long time.
+
+Throughout all the different ways to conduct war, the art and soundtrack are the game's common denominators. The pixel art reminds me of the Game Boy Advance era and gives off a chibi vibe with the characters having slightly large, but still adorable heads. It's warm and inviting. The camera is the perfect distance away, both docked and in handheld mode, with scrolling around being easy and smooth. The music also compliments this atmosphere. It's perfectly balanced where you notice the themes, but they don't intrude on the task at hand. You'll be humming it as you wipe out your enemies in cold blood.
+
+Wargroove is a delightful tactics game. Its je ne sais quoi is its ability to draw you in, teach you, and make you a better player. Chucklefish has made an approachable turn-based strategy game that carefully teaches you its rules without being cruel. You'll end Wargroove a better commander than when you started. I love the way Chucklefish was able to teach and encourage me while I played, though the use of the game's systems. It's a true treat for anyone that wants to try to get their tactics groove on.

@@ -16,6 +16,8 @@ tags:
 URL: https://maxfrequency.net/2022/08/04/mfp-16/
 permalink: 2022/08/04/mfp-16/
 ---
+# MFP16 - “A Growing Individualistic Power” with Colin Moriarty
+
 Colin Moriarty dives into his origins of writing walkthroughs and FAQs before the rise of video. Max and Colin then explore the history and development patterns behind Naughty Dog before the imminent release of *The Last of Us Part I*.
 
 <audio controls>

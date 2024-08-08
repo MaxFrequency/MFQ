@@ -13,6 +13,8 @@ tags:
 URL: https://maxfrequency.net/2021/06/06/mfp-9/
 permalink: 2021/06/06/mfp-9/
 ---
+# MFP09 - “My Sweet, Sweet Baby Nintendo” with Logan Moore
+
 Logan Moore reunites with Max Roberts for the time-honored tradition of predicting E3. Before that, they chat about Logan’s new job at Comicbook.com and just why he loves the *Dark Souls* game so much.
 
 <audio controls>

@@ -15,6 +15,8 @@ tags:
   - Dunkey/Bigmode
 URL:
 ---
+# Animal Well Notes
+
 > [!warning]
 > Spoilers below!
 

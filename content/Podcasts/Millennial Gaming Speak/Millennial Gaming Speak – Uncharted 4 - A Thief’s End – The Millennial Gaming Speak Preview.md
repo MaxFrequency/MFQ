@@ -10,6 +10,8 @@ tags:
   - Preview
 permalink: 2016/04/20/mgs-uncharted-4-preview/
 ---
+# Millennial Gaming Speak – Uncharted 4 - A Thief’s End – The Millennial Gaming Speak Preview
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Uncharted-4-A-Thiefs-End--The-Millennial-Gaming-Speak-Preview-e1adhu7/a-a6ts47r" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

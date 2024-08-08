@@ -11,6 +11,8 @@ tags:
   - Halo
 permalink: 2015/11/09/mgs-27/
 ---
+# Millennial Gaming Speak – Episode 27 - Xbox Xtravaganza
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-27-Xbox-Xtravaganza-e1adhql/a-a6ts41n" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

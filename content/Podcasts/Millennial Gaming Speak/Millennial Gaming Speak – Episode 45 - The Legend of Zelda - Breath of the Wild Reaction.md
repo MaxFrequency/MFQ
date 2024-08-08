@@ -12,6 +12,8 @@ tags:
   - Zelda/BotW
 permalink: 2016/06/12/millennial-gaming-speak-episode-45-the-legend-of-zelda-breath-of-the-wild-reaction/
 ---
+# Millennial Gaming Speak – Episode 45 - The Legend of Zelda - Breath of the Wild Reaction
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-45-The-Legend-of-Zelda-Breath-of-the-Wild-Reaction-e1adhst/a-a6ts45h" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

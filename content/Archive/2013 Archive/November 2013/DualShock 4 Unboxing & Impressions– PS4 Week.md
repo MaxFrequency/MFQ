@@ -1,0 +1,21 @@
+---
+Published: 2013-11-12
+URL: https://maxfrequency.net/2013/11/12/dualshock-4-unboxing-impressions-ps4-week/
+tags:
+  - PlayStation
+  - PlayStation/PS4
+permalink: 2013/11/12/dualshock-4-unboxing-impressions-ps4-week/
+---
+# DualShock 4 Unboxing Impressions– PS4 Week
+
+Sony has taken an interesting route during the week’s building up to the PlayStation 4’s launch. They have removed the street dates on all titles and peripherals, allowing consumers to go buy what they would like before the PS4 is out. In my opinion, this is a smart move. It builds even more hype for the launch, letting gamers stare at game boxes and useless add-ons. But there is one that is not entirely useless. That would be the DualShock 4, the brand new controller for Sony’s new system. Customers may buy the DualShock 4 and hold it and get a real taste of what the next generation will feel like. BEYOND that, the DS4 even works with the PS3 in some capacity, allowing users to play first-party games with the controller plugged in. This is the closest taste the public has to the next generation’s feel and let me tell you it feels mighty good.
+
+Below is an unboxing and impressions video I made when I picked up my DualShock 4. I saved the video just for this week. I hope you enjoy it.
+
+<div class=iframe-container>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qDSEgAkmMbU?si=fkJkKwzITmtOo4s2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+Do you have your DualShock 4 controller? Let me know what you think of Sony’s new controller in the comments below. Remember to come back tomorrow for a brand new article all about the PS4! For all your PlayStation and gaming news and reviews, always remember to Go Left!
+
+![[a6cce-dualshock4.jpg.webp]]

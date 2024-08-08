@@ -19,6 +19,8 @@ tags:
 URL: https://maxfrequency.net/2023/02/22/chapter-select-s5e4/
 permalink: 2023/02/22/chapter-select-s5e4/
 ---
+# S5E4 - *Resident Evil 2*
+
 ![[S5E4 Art.jpg]]
 
 Thud, thud, thud…Rookie cop Max Roberts and college dropout Logan Moore team up with motorcycle racer Ricky Frech to skulk around a disheveled police station. Did Capcom’s plan for bigger and better sequels pay off or did this adventure in Raccoon City bite off more than it can chew?

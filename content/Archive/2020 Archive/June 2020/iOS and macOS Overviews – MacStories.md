@@ -1,0 +1,40 @@
+---
+Published: 2020-06-25
+URL: https://maxfrequency.net/2020/06/25/ios-macos-wwdc-2020/
+permalink: 2020/06/25/ios-macos-wwdc-2020/
+tags:
+  - Apple/Mac
+  - Apple/iPhone
+  - Apple/WWDC
+---
+# iOS and macOS Overviews – MacStories
+
+[iOS and iPadOS 14: The MacStories Overview](https://www.macstories.net/news/ios-and-ipados-14-the-macstories-overview/) by Ryan Christoffel for MacStories
+
+[macOS Big Sur: The MacStories Overview](https://www.macstories.net/stories/macos-big-sur-the-macstories-overview/) by John Voorhees for MacStories
+
+WWDC 2020 was significant for Apple in more ways than [[Apple Announces the Transition to ARM Apple Silicon for Mac|one]]. I may be new to writing about Apple, but I think I can take the way I’ve approached video game coverage here at Max Frequency and apply it to Apple. There is no shortage of insightful and thorough WWDC coverage and observations: I have hours of podcasts already downloaded. As for the big-picture, gut-reaction to the big three operating systems, I turned to MacStories for their overview coverage.
+
+# Widgets Galore
+
+Widgets are breaking free of their Today View prison.Yes, Android and other operating systems have had this for years. It is still exciting for those of us that prefer the Apple ecosystem. I promise, it’s okay. Ironically enough, I was recently made aware of these sorts of widgets in [jailbreaking from Snazzy Labs](https://www.youtube.com/watch?v=VKHFFm5ggvA).
+
+I actually briefly ran iOS 14 beta 1 on my daily carry (an iPhone Xs Max). Widgets have made me rethink my home screen for the first time in probably half a decade. I’m a habitual person. In my all too brief testing, I just made a whole page of widgets and I think this will be a great addition to iOS, especially when third party developers start rolling theirs out.
+
+# App Library
+
+At the end of you pages of apps (which can now be non-destructively hidden) is the App Library. Your phone will automatically organize every app on device. Three icons per category are determined based off use and then a fourth button opens the entire folder of apps in that category. You can even access an alphabetical list of all apps.
+
+I enjoyed my time with this. I already organize my apps in this way with traditional folders, but having both an alphabetical list and these smart top three apps per category sounds great. I enjoyed my time using it, although I did hide my second app page, which caused a serious break in muscle memory. Once it becomes a daily OS, it will simply take time to adapt to these new features, if you so choose.
+
+# Messages
+
+Pinning messages. Labeling group chats. In-line replies. Mentions. Emoji search. I cannot wait to use these features when everyone upgrades. Such great improvements.
+
+# macOS Big Sur
+
+This is the one I’ve struggled with the most. It’s such a drastic, yet familiar change due to the iOS influence. I’ve been a Mac user for just over decade now. I’ve already pointed out that I am a habitual person. I like the aesthetic of Big Sur, but not on my MacBook Pro, if that makes sense. The app icons are off to me. Windows have a smeary translucency that makes it hard to see what is even selective. I’m very nervous about this one. I skipped macOS Catalina last year (my first time skipping an OS release) and I don’t know if I’ll be passing on Big Sur until I have to use it on an [[Apple Announces the Transition to ARM Apple Silicon for Mac|Apple Silicon based Mac]].
+
+---
+
+There has been a ton of great coverage on WWDC this year. Podcasts out the wazoo (The Talk Show with John Gruber, Accidental Tech Podcast, Connected, Upgrade). Great reporting, blog posts, and videos. I had fun slowly whipping up my own quick impressions. I’m looking forward to all the exciting new developments that come from this year’s changes.

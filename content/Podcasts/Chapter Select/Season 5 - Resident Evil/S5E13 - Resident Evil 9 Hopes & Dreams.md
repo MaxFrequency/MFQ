@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2023/08/03/chapter-select-s5e13/
 permalink: 2023/08/03/chapter-select-s5e13/
 ---
+# S5E13 - *Resident Evil 9* Hopes & Dreams
+
 ![[S5E13 Art.jpg]]
 
 We’ve played all the *Resident Evil* games, now it is time to speculate, dream, and hope! Max Roberts and Logan Moore are joined by Chapter Select alum Michael Ruiz and Ricky Frech to imagine what *Resident Evil IX* will be like.
@@ -31,7 +33,7 @@ We’ve played all the *Resident Evil* games, now it is time to speculate, dream
 - [Overcast](https://overcast.fm/itunes1568777352/chapter-select)
 - [Apple Podcasts](https://podcasts.apple.com/us/podcast/chapter-select/id1568777352)
 - [Spotify](https://open.spotify.com/show/4f1TLZXbwtSX7uHROe9KlS)
-# Links
+# S5E13 - Resident Evil 9 Hopes & Dreams
 
 - [The Worm Light](https://nintendo.fandom.com/wiki/Worm_Light)
 - [*The Dark Pictures Anthology*](https://en.wikipedia.org/wiki/The_Dark_Pictures_Anthology)

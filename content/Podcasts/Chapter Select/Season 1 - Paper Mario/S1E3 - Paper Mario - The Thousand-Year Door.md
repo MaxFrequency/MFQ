@@ -10,6 +10,8 @@ tags:
 URL: https://maxfrequency.net/2021/06/30/chapter-select-s1e3/
 permalink: 2021/06/30/chapter-select-s1e3/
 ---
+# S1E3 - *Paper Mario: The Thousand-Year Door*
+
 ![[S1E3 Art.jpg]]
 
 It feels like it has been 1,000 years since *Paper Mario: The Thousand-Year Door* came out for the Nintendo GameCube; mostly because there hasn’t been a game like it since. Max, Logan, and special guest Scott White return to the seedy town of Rogueport to see if *The Thousand-Year Door* is a grand, epic stage production or a sloppy side show in the series.

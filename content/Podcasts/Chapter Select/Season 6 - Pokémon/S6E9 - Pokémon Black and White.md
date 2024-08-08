@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2023/12/13/chapter-select-s6e9/
 permalink: 2023/12/13/chapter-select-s6e9/
 ---
+# S6E9 - *Pokémon Black* and *White*
+
 ![[S6E9 Art.jpg]]
 
 Hear ye! Hear ye! Philosophers Max Roberts and Logan Moore discuss the real issues like are *Pokémon Black* and *White* all they’re cracked up to be. Does the start of the DS duology ring true or have hollow ideals behind it?

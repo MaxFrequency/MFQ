@@ -21,6 +21,8 @@ tags:
   - AceAttorney
 URL: https://maxfrequency.net/Published/Game+Notes/The+Great+Ace+Attorney+2+Resolve+Notes
 ---
+# The Great Ace Attorney 2 Resolve Notes
+
 > [!warning]
 > Spoilers below!
 

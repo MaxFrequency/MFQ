@@ -16,6 +16,8 @@ URL: https://maxfrequency.net/
 permalink: mfp-39
 description: Abby Roberts takes a seat behind the microphone to share about her dive into the world of podcasts before strolling down memory lane with formative gaming memories.
 ---
+# MFP39 - "A Very Different Energy Going On" with Abby Roberts
+
 Abby Roberts takes a seat behind the microphone to share about her dive into the world of podcasts before strolling down memory lane with formative gaming memories.
 
 <audio controls>

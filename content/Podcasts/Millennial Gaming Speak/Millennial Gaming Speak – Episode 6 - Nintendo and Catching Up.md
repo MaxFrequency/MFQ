@@ -16,7 +16,10 @@ tags:
   - Zelda/BotW
 permalink: 2015/04/15/mgs-6/
 ---
-%%Google Doc Link - https://docs.google.com/document/d/1EokmYKdH9W_l46NOd9SsoTvwB1qwT9Ri2Kzk4hClt8w/edit?usp=sharing%%
+# Millennial Gaming Speak – Episode 6 - Nintendo and Catching Up
+
+%%Google Doc Link - https://docs.google.com/document/d/1EokmYKdH9W_l46NOd9SsoTvwB1qwT9Ri2Kzk4hClt8w/edit?usp=sharing
+%%
 
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-6-Nintendo-and-Catching-Up-e1adoed/a-a6tsujv" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

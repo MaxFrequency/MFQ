@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/chapterselect/season4/
 permalink: chapterselect/season4/
 ---
+# Season 4 – *The Fast and the Furious*
+
 ![[S4 Art.jpg]]
 
 Logan has never been a part of the Fast Family, while Max has been riding with the crew since the Miami days. Grab a Corona, order a tuna fish sandwich, and buckle up as we explore this legendary series.

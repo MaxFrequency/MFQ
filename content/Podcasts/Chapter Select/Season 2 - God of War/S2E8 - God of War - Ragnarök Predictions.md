@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2022/07/06/chapter-select-s2e8/
 permalink: 2022/07/06/chapter-select-s2e8/
 ---
+# S2E8 - *God of War: Ragnarök* Predictions
+
 ![[S2E8 Art.jpg]]
 
 The hype for *God of War: Ragnarök* is immense. With the [[God of War Ragnarök launches November 9 – PlayStation.Blog|release date officially announced]] for November 9, 2022, we have decided to share this special episode from the [[S2 - God of War|Season 2 – God of War ]] archives. Fresh off beating the 2018 game for the season, Max and Logan dive into their predictions and theories for the sequel. Originally recorded in December 2021, we hope you enjoy this time capsule of speculation and excitement for *Ragnarök*.

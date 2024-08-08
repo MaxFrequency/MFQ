@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2023/09/06/chapter-select-s6e2/
 permalink: 2023/09/06/chapter-select-s6e2/
 ---
+# S6E2 - *Pokémon Scarlet* and *Violet*
+
 ![[S6E2 Art.jpg]]
 
 It is time for us to go back to the future of Pokémon! Students Max Roberts and Logan Moore study open world experimentation alongside Professor Chris Compendio. Can a mainline *Pokémon* adventure let players do anything or has Game Freak cooked up a paradox of a game?

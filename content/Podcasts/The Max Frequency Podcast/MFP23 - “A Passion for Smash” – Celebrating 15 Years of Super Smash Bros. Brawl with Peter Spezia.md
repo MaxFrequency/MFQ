@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2023/03/09/mfp-23/
 permalink: 2023/03/09/mfp-23/
 ---
+# MFP23 - “A Passion for Smash” – Celebrating 15 Years of Super Smash Bros. Brawl with Peter Spezia
+
 *Super Smash Bros. Brawl* turns 15-years-old today in North America. Max and the voice of the *Brawl* community – Peter Spezia – look back on Sakurai’s Wii masterpiece as well as the legacy of the weekly weekend podcast discussing the biggest news in anticipation of the game—*Show Me Your News*.
 
 <audio controls>

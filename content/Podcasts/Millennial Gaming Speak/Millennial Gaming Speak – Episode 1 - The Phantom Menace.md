@@ -16,7 +16,9 @@ tags:
   - LastGuardian
 permalink: 2015/02/25/mgs-1/
 ---
-%%Google Doc Link - https://docs.google.com/document/d/1xv-b27Vqdb8A_9Ty2UCnRgjgskxCl4Clx8ZYLAhb0c4/edit?usp=sharing%%
+# Millennial Gaming Speak – Episode 1 - The Phantom Menace
+
+%%Google Doc Link - https://docs.google.com/document/d/1xv-b27Vqdb8A_9Ty2UCnRgjgskxCl4Clx8ZYLAhb0c4/edit?usp=sharing %%
 
 The first two episodes of Millennial Gaming Speak are lost to time. I deleted my half of the audio to free up SSD space. It’s a real shame that these have been lost. In my effort to manually archive all my writing and work online, I decided to incorporate the show notes doc we wrote for these episodes. From there, I decided to publish the show notes so there is at least a record about what we discussed. Maybe some day I’ll magically find the audio…
 

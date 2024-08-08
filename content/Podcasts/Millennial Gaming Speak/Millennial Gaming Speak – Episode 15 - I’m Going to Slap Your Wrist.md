@@ -16,8 +16,11 @@ tags:
   - GDQ
 permalink: 2015/07/29/mgs-15/
 ---
+# Millennial Gaming Speak – Episode 15 - I’m Going to Slap Your Wrist
+
 %%Google Doc Link - https://docs.google.com/document/d/10IEAZNefcNjll8u57xazY7tWeEyqtKGUM89iRH1Vp5Q/edit?usp=sharing
 %%
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-15-Im-Going-to-Slap-Your-Wrist-e1adhta/a-a6ts46v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
@@ -52,7 +55,6 @@ permalink: 2015/07/29/mgs-15/
 	2. Drop some twitter handles: @MooreMan12 & @MaxTheWhite
 	3. See ya next week!
 %%
-
 # Show Description
 
 For the first time on MGS, we have a guest! Logan invited Trevor Thomas to join the show. Hear more about the IGN House Party and then dive into the news with the trio.

@@ -13,6 +13,8 @@ tags:
   - COD
 permalink: 2017/06/26/mgs-98/
 ---
+# Millennial Gaming Speak – Episode 98 - Telltale’s Formula Doesn’t Work Anymore
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-98-Telltales-Formula-Doesnt-Work-Anymore-e1adhsi/a-a6ts417" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

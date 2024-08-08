@@ -15,6 +15,8 @@ tags:
 URL: https://maxfrequency.net/2023/04/08/mfp-26/
 permalink: 2023/04/08/mfp-26/
 ---
+# MFP26 - “Mind-Boggling Effects” with Chris Johnston
+
 Chris Johnston and Max to go back to the early aughts to explore working on EGM and the heyday of E3. CJ shares about his journey from working in the press to being a video game producer.
 
 <audio controls>

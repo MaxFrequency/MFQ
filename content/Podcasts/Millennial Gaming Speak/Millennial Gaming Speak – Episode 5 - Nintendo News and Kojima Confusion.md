@@ -14,7 +14,10 @@ tags:
   - MGS
 permalink: 2015/03/25/mgs-5/
 ---
-%%Google Doc Link - https://docs.google.com/document/d/18bRd3_IeWp3jWO3m0DjHqyV-mfJUwz-RQbIhjR8Vm4M/edit?usp=sharing%%
+# Millennial Gaming Speak – Episode 5 - Nintendo News and Kojima Confusion
+
+%%Google Doc Link - https://docs.google.com/document/d/18bRd3_IeWp3jWO3m0DjHqyV-mfJUwz-RQbIhjR8Vm4M/edit?usp=sharing
+%%
 
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-5-Nintendo-News-and-Kojima-Confusion-e1adqvg/a-a6tt9se" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

@@ -13,6 +13,8 @@ tags:
   - DragonQuest
 permalink: 2017/08/07/mgs-104/
 ---
+# Millennial Gaming Speak – Episode 104 - The Legacy of Sonic 1 & 2
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-104-The-Legacy-of-Sonic-1--2-e1adhtq/a-a6ts48b" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 

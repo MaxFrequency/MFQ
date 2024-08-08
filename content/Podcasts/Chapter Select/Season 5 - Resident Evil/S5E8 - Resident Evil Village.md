@@ -18,6 +18,8 @@ tags:
 URL: https://maxfrequency.net/2023/04/19/chapter-select-s5e8/
 permalink: 2023/04/19/chapter-select-s5e8/
 ---
+# S5E8 - *Resident Evil Village*
+
 ![[S5E8 Art.jpg]]
 
 Lycans and gentlemen! Village locals Max Roberts, Logan Moore, and special guest Michael Ruiz, run around town trying to put a baby back together. Was *RE8* able to recapture the magic of previous entries or should Capcom have left the vampires and werewolves to Konami?

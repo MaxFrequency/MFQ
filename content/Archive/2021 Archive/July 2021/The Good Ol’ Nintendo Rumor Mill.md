@@ -1,0 +1,77 @@
+---
+Published: 2021-07-28
+URL: https://maxfrequency.net/2021/07/28/markomaro-nintendo-rumors-july-2021/
+permalink: 2021/07/28/markomaro-nintendo-rumors-july-2021/
+tags:
+  - Nintendo
+  - DK
+  - Splatoon
+  - Pokémon
+  - Metroid/Prime
+  - Bayonetta
+  - Zelda
+  - Pikmin
+  - PunchOut
+  - LuigisMansion
+---
+# The Good Ol’ Nintendo Rumor Mill
+
+Nearly two weeks ago, Twitter user @markomaro tweeted out a lengthy thread filled with quite a few too good to be true rumors about Nintendo and the Switch’s upcoming lineup. There are some that are specific, while others have plenty of wiggle room. I thought it’d be fun to look at the [thread](https://mobile.twitter.com/Newmarkomaro/status/1416050296392986627) and gauge the possibility.  
+
+> DK 2D NEW adventure is one of the big hits for next year Still unclear when since there was planned for this Holliday season time ago but will make sense to use it as a closing or opening FY. Splatoon 3 Should come early next summer.  
+
+This one leads with a straight-up contradiction to [[MFP09 - “My Sweet, Sweet Baby Nintendo” with Logan Moore|pre-E3 rumors]]! It’s rumor vs rumor when it comes to the future of Donkey Kong. Personally, I would love for the ape to return to 3D, but 2D is where this series predominantly lives. With Retro working on *Metroid Prime 4*, I do find it odd that there is no dev attached to this rumor. The 3D game is associated with the *Super Mario Odyssey* team. Since it’d be exciting if Nintendo returned to 3D, I assume that means the 2D rumor is true.  
+
+> Buddy Mission: BOND it’s unlikely to be localized since Famicom Detective Club Didn’t performed very well, Numbers are estimated to be under 25K worldwide. There is plans for a new entry for FDC, but with this situation is unlikely to happen.  
+
+This comes off as industry analyst, not a rumor or prediction.   
+
+> *Style Boutique/Savvi* for Switch waiting to be release at some point, probably around Christmas time or early 2022, But they holding this release as a random release in weak months.  
+
+This comes off as peak DS/Wii game. The Switch is reaching those numbers though.  
+
+> *Bayonetta 3* not shown at the E3 was really weird since i heard that the game is at the final stage of development. There is stuff ready to be shown. In September or late this year they will release first trailer. There is also 1-2 PG ports ready and waiting in the bench.  
+
+I agree. Not showing *Bayonetta 3* at E3 2021 was odd. It’ll be cool to have the game essentially be re-revealed at some point, hopefully close to launch. What is a PG port? Certainly not a “PG-rated” port of *Bayonetta* 1 and 2? This one has gone over my head.  
+
+> Intelligent S is supervising *Advance Wars 1+2*, Done With *Wario Ware* , Finished the new *Fire Emblem Echoes* (1H 2022) and working in the *Paper Mario Remake* (2022-2023), it’s also Working in a Small Game for the eShop.  
+
+Start packing in your pipe and get ready to dream. *Paper Mario* Remake? I just can’t buy it. *Paper Mario* is definitively not the franchise it was in 2000 and 2004. It hasn’t been that way since, as I’ve come to realize over the course of [[S1 - Paper Mario|Chapter Select Season 1]]. But maybe that’s my little paper heart protecting itself after years of nada, just like it was with *Metroid*.  
+
+Another *Fire Emblem* game strikes me as an obvious and safe bet.  
+
+> Next LG next game going smoothly, probably ready to be shown at some point next year, there is also an early prototype for Wii’s Punch-Out! on the Switch may be for a future port/remake or a sequel.  
+
+I take LG to stand for Next Level Games from *Luigi’s Mansion 3* fame. If there is a *Punch-Out!* prototype, it sort of sounds like Markmaro is guessing that Next Level Games is behind it.  
+
+> *Rhythm Paradise/Heaven* Gets a green light for a new entry for Switch months ago, but i shouldn’t expect it until 2023. *Pikmin 4* was a game with many years of work behind and 1 unofficial restart around 2016-2017 similar to *MP4*, finally the game is very close to be finished.  
+
+Sure? I suppose most folks will forget about this *Rhythm Heaven* rumor by 2023, so it works out either way. *Pikmin 4* is a safe bet. Just like the *Metroid Prime Trilogy*, we know that *Pikmin 4* is in development. Actually, even more so, since Miyamoto has said as much in an [interview](https://www.eurogamer.net/articles/2014-07-20-pikmin-4-in-development-and-very-close-to-completion)! We just need that reveal.  
+
+> Kirby’s Next big adventure is something to be expected in 2022, Game was designed as a 3D adventure with…RPG elements.  
+
+It is a shocker that there is another Kirby game in development for the Switch. Combined with the vagueness of “RPG elements,” this is practically a lock and just about anyone could have said so.  
+
+> *Metroid Prime Collection* Should be ready for the 1H 2022 even if it’s finished since ages, i heard they include more stuff since then, so it’s not 100% *Metroid Prime Trilogy Wii HD*, first look at *Metroid Prime 4* later on. The game is at 65% of it’s development cycle .  
+
+Go ahead and light up that pipe.  
+
+Hard to picture Metroid Prime 4 at 65% completion with all the hiring Retro Studios is still doing for the game. Take as much time as you need, but I don’t think Metroid Prime 4 is out until 2024.  
+
+As for the *Metroid Prime Trilogy*, I hope there is more than just a port of the Wii game. It’d be a great package to celebrate *Metroid* as a whole. Throw in the GBA games. More likely, I could see more concept art and a demo or something for *Metroid Prime 4*, just like Nintendo did with *The Legend of Zelda Collector’s Edition* on GameCube; four Zelda games and a demo of *Wind Waker*.  
+
+> As i Said before, even if N said no more Zelda for the anniversary, WW and TP are done for a while so there will come sooner than later, Don’t know anything about OOT And MM HD (but something abut the N64 ver. that maybe we will know later this year).  
+
+This also feels safe. Nintendo has been porting the Wii U greats since the Switch launched. Nintendo also knows the *Ocarina of Time* and *Majora’s Mask* are iconic. There is a reason they were remade for Nintendo 3DS (it was money). *Ocarina of Time* will turn 25 in 2023, I could see something by then.  
+
+> As i state a year ago, there is a remake for *Oracles of Ages/Seasons* in the works (2022-2023) there where plans to include a third game that was planned originally for the GBC, what it’s clear at least since the start it’s that will be separate releases.  
+
+The grammar here makes this one harder to parse out. Remakes of these two games also makes sense, especially after the surprise launch of *Link’s Awakening* for Switch. Nintendo has always taken their portable *Zelda* games and made sequels and spin-offs with the assets.   
+
+> Detective Pikachu 2 will make a trailer debut early next year alongside the first one that will be ported to Switch.Gen 9 unlikely to happen in 2022 since there is a Pokemon Let’s Go Sequel planned for later next year. Pokemon Pinball will make a comeback in some way,somewhere.  
+
+The first sentence is not shocking at all. *Detective Pikachu* has viability on Switch, I think, especially after the movie. With *Diamond* and *Pearl* being remade this year and *Legends* supposedly launching in January 2022, not seeing Gen 9 next year makes sense.  
+
+The real shocker and closer is *Pokémon Pinball* making a comeback.  
+
+This was fun. Do I believe all of this? Certainly not. I think there are some super safe observations in there under the veil of a rumor. The more exciting rumors feel too obvious as a business/consumer idea, so that makes me think Nintendo will *not* do them. Only time will tell.

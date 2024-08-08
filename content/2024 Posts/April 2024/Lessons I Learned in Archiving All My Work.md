@@ -30,7 +30,7 @@ I found these four posts:
 - [[How Far Cry 3 Pulled Me Into First Person Shooters]]
 - [[Sly Cooper - Thieves In Time Review]]
 - [[Top 5 Unforgettable Game Introductions of This Generation]]
-- [[The Infinite Question - Does a Game's Story Outweigh the Mechanics?]]
+- [[The Infinite Question - Does a Game's Story Outweigh the Mechanics]]
 
 I remember clear as day writing the Far Cry piece on my iPhone in the Pages app. I thought iCloud sync was so cool then. I remember the "Top 5" story and stand by my takes there as those games having some of the best introductions, but it was no doubt fueled by recency bias since I was still playing generational catch up on my PS3. I forgot about the other two entirely. It felt good to salvage them from the Wayback Machine and find older writings than I previously had. 
 

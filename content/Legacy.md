@@ -5,6 +5,8 @@ tags:
   - IGN
   - Guides
 ---
+# Legacy
+
 > [!info] Update (2/7/22) 
 > The new, fully searchable archive is available; just use the search bar. It includes all those reviews and features previously listed below. I have kept the list of wiki guides in place though.
 

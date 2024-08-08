@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2022/12/14/chapter-select-s4e9/
 permalink: 2022/12/14/chapter-select-s4e9/
 ---
+# S4E9 - *Hobbs & Shaw*
+
 ![[S4E9 Art.jpg]]
 
 Max & Logan Present: A podcast about *Hobbs & Shaw*. Dwayne Johnson and Jason Statham step out of the shadows and into the headlining spotlight. Do spin-offs belong in the Fast Franchise or have the executives spun out for the last time?

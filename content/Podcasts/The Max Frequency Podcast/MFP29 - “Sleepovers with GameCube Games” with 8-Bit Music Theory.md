@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2023/07/14/mfp-29/
 permalink: 2023/07/14/mfp-29/
 ---
+# MFP29 - “Sleepovers with GameCube Games” with 8-Bit Music Theory
+
 8-Bit Music Theory stops and bops on by to edutain Max on the musician behind the theory and explore the journey of making a GameCube jazz fusion album.
 
 <audio controls>

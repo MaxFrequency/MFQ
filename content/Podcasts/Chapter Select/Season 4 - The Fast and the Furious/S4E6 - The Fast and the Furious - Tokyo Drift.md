@@ -7,6 +7,8 @@ tags:
 URL: https://maxfrequency.net/2022/11/02/chapter-select-s4e6/
 permalink: 2022/11/02/chapter-select-s4e6/
 ---
+# S4E6 - *The Fast and the Furious: Tokyo Drift*
+
 ![[S4E6 Art.jpg]]
 
 Let’s go back to 2006…or are we in 2014? The gaijin Max Roberts and Logan Moore are joined by Yakuza member Michael Ruiz to examine how small stakes feel in a post-*Fast & Furious 6* world. Has the Tokyo crew drifted into our hearts or are they better off forgotten?

@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/chapter-select/s4e14/
 permalink: chapter-select/s4e14/
 ---
+# S4E14 - *2 Fast 2 Furious* Movie Commentary
+
 ![[CS_S4E2_Art_Commentary.jpg]]
 
 A member special movie commentary for 2 Fast 2 Furious! It's Logan's very first time watching and Max's umpteenth. The dynamic duo of Brian and Roman comes to live on the streets of Miami. From "We hungry" to "pockets ain't empty cuz", join as we comment on the film.

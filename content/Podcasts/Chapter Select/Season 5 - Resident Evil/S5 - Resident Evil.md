@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/chapterselect/season5/
 permalink: chapterselect/season5/
 ---
+# Season 5 – *Resident Evil*
+
 ![[S5 Art.jpg]]
 
 Welcome to Season 5 of Chapter Select! Logan Moore brings Max Roberts under Capcom’s horror umbrella and guides him through this nightmarish franchise. Clear out your inventory. Turn off the lights. It’s time for…*Resident Evil*!

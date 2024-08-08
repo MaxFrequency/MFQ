@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/2024/02/19/mfp-34/
 permalink: 2024/02/19/mfp-34/
 ---
+# MFP34 - “Flying Through the Screen” with Casey Liss
+
 Casey Liss and Max step comfortably into the future to chat about Apple Vision Pro.
 
 <audio controls>

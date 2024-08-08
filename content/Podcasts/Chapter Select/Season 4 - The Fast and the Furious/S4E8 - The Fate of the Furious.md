@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2022/11/30/chapter-select-s4e8/
 permalink: 2022/11/30/chapter-select-s4e8/
 ---
+# S4E8 - *The Fate of the Furious*
+
 ![[S4E8 Art.jpg]]
 
 The F8 of the Furious Family is on thin ice. New dad Max Roberts and zombie car driver Logan Moore go rogue to figure out if blood is thicker than water. Does the *Fast & Furious* billion dollar follow-up sink or swim?

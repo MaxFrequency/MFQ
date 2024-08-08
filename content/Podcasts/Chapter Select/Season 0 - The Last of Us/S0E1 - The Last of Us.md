@@ -11,6 +11,8 @@ tags:
 URL: https://maxfrequency.net/2021/05/26/chapter-select-s0e1/
 permalink: 2021/05/26/chapter-select-s0e1/
 ---
+# S0E1 - *The Last of Us*
+
 ![[S0E1 Art.jpg]]
 
 In this inaugural test season of Chapter Select, Max and Logan dig into Naughty Dog’s post-apocalyptic series *The Last of Us*. Weeks before the release of the sequel, Logan and Max replayed the PS3’s swan song to explore how it aged and explore its impact on the video game industry in the past seven years.

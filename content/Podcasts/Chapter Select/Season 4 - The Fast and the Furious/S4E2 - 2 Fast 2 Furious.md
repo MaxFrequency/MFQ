@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2022/09/07/chapter-select-s4e2/
 permalink: 2022/09/07/chapter-select-s4e2/
 ---
+# S4E2 - *2 Fast 2 Furious*
+
 ![[S4E2 Art.jpg]]
 
 It is time to hit the streets of Miami and meet the East Coast members of the Family. Max and Logan dive into a world of undercover agents, night life, and neon to find out if this sequel sinks or swims.

@@ -5,6 +5,11 @@ permalink: super-chapter-select-faq/
 tags:
   - CS
 ---
+# Super Chapter Select FAQ
+
+> [!Kiefer] Alert
+> Super Chapter Select is no defunct. All the member-exclusive content is being rolled out into the public feeds. You can read more about the decision [[Shutting Down Super Chapter Select|here]].
+
 # What is Super Chapter Select?
 
 Super Chapter Select is a premium version of Chapter Select with longer shows, exclusive episodes, and bonus video content.

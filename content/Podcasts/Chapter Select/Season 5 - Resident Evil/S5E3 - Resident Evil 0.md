@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2023/02/08/chapter-select-s5e3/
 permalink: 2023/02/08/chapter-select-s5e3/
 ---
+# S5E3 - *Resident Evil 0*
+
 ![[S5E3 Art.jpg]]
 
 All aboard! Co-op duo Max Roberts and Logan Moore team up to exterminate pests and meet the founders of the Umbrella Corp in *Resident Evil 0*. Do the adventures of Rebecca and Billy chug along or does this prequel derail the origins of the series?

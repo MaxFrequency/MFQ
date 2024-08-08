@@ -9,6 +9,8 @@ tags:
   - MGS
 permalink: 2017/01/24/mgs-77/
 ---
+# Millennial Gaming Speak – Episode 77 - Why We Want Careers in Games Media
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-77-Why-We-Want-Careers-In-Games-Media-e1adhrq/a-a6ts41b" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

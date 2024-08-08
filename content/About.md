@@ -3,6 +3,8 @@ URL: https://maxfrequency.net/about/
 permalink: about/
 tags:
 ---
+# About
+
 Hi. My name is Max Roberts. I’m a husband, father, ghostwriter, and podcast(er) ~~killer~~. I live in Florida, but was born and raised in Indiana.
 
 I’ve lived in the Sunshine State since 2008. I met my lovely wife Abigail in 2013 and we were married in 2017. Our daughter [[Eloise Siobhan Roberts|Eloise]] entered the world in 2022 after [[The Next Generation|two miscarriages]].

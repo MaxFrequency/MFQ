@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2023/11/29/chapter-select-s6e8/
 permalink: 2023/11/29/chapter-select-s6e8/
 ---
+# S6E8 - *Pokémon X* and *Y*
+
 ![[S6E8 Art.jpg]]
 
 Turn down the 3D slider and turn up the volume! Roller skating fiend Max Roberts, stylish flame Logan Moore, and the nine foot giant Tomas Franzese wage war discussing the merits of *Pokémon*’s first 3D outing. Was this new dimension the next step in evolution for the series or did these games fall flat?

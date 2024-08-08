@@ -1,0 +1,35 @@
+---
+Published: 2014-02-25
+URL: https://maxfrequency.net/2014/02/25/left-behind-review/
+tags:
+  - NaughtyDog/TLOU
+  - Review
+permalink: 2014/02/25/left-behind-review/
+---
+# Left Behind Review– Welcome Home
+
+*Editors Note: Due to the nature of the DLC and where it fits into the entire story, spoilers for The Last Of Us appear in this review. Please, if you wish to go into the main campaign spoilers free, do not read this review or play the DLC until completion of the story. Enjoy.*
+
+Developer Naughty Dog is often praised for creating top notch games that are unmatched in quality, experience, and fun. Rightly so too. They, truly, have not made a bad game.
+
+I want to praise Naughty Dog for something else in this review. That something is pure, sacred, and innocent. “The Kennel” crafts beautiful, rich, powerful and meaningful relationships. One relationship in particular is the beating heart of *The Last Of Us*’ DLC, *Left Behind*.
+
+![[b7eb7-2431407-thelastofus-leftbehind-02elliesmalladventures-2014-01-3102-46-2016.jpg.webp]]
+
+This inaugural DLC for the developer takes the friendship of Ellie and Riley, which was only mentioned at the end of *The Last Of Us*, and puts it center stage. The story picks up almost two months after the events in the prequel comic book series *American Dreams*. Riley ran away to become a Firefly and now she is trying to rekindle their friendship. It is an interesting dynamic between the two girls, one girl becoming a militarized solider and the other becoming an outlawed vigilante. There are highs and lows as they explore an abandoned mall together, just playing around. The parts of exploration with Riley are comfortable and feel natural. As a player, I felt apart of this best friendship. I wasn’t a fly on the wall. I was actively participating in this rekindling of friendship.
+
+The parallel to teenagers today is powerful. Two girls casually exploring the mall is typical in today’s society. While their mall is demolished, Ellie and Riley still love the atmosphere and enjoy the little things. They’ll play games with bricks and goof off in a Halloween shop, which builds the relationship and pulls the player into their story. All of the conversations and playing around feels genuine.
+
+![[26d18-lou-dlc-launchtrailer.jpg.webp]]
+
+*Left Behind* features not only one story, but two. This prequel to *The Last Of Us* also gives players a look at what happens after Joel takes a nasty fall at the end of the University section of the game. This second story shows just exactly how Ellie took care of Joel at the beginning of winter and the challenges that she had to overcome. The balance between the two stories is perfect. They each build off and compliment one another. Ellie and Riley’s time together in the mall, gives Ellie strength and courage while she scavenges supplies for an ill-fated Joel.
+
+To flip the coin, *Left Behind* also brings back the fantastic combat, crafting, and exploration system from *The Last Of Us*. Players will quickly fall back into the routine of scouring every dark corner for weapons to craft or hidden collectibles. In a way, this can hurt the experience. During my first play through I found everything, which is great, but hunting in every dark corner for items took me out of the experience and made my time with Ellie and Riley feel more like a game and less like an experience. This isn’t directly Naughty Dog’s fault, but more of a bi-product from extensively  playing *The Last Of Us*.
+
+![[8cd11-left-behind-2.jpg.webp]]
+
+The DLC also adds another dimension to the superb combat system fans are familiar with. At times, Ellie will be confronted by both the Infected and Hunters (human enemies). This allows for a new strategy of pitting your opponents against one another. You may feel trapped or overwhelmed, but in fact, you are at your most powerful when everyone comes together. With the gentle toss of a glass bottle, Clickers can chase down the humans, killing off a majority of them and allowing Ellie to slip on past them or pick off her foe’s dwindling numbers. It may sound like it makes combat easier, but it makes combat more intense. One false step and Ellie will have both groups of enemies hunting her down. This new combat dynamic adds another layer of strategy, depth, and tension to the gameplay. I wish this type of conflict scenario was in the main game.
+
+![[00c3a-cannibals-vs-infected_1392204774.jpg.webp]]
+
+*Left Behind* is how narrative driven DLC should be done. Naughty Dog fleshes out one of gaming’s strongest female protagonist with a touching story of strength, friendship, and love.  Along with adding the necessary story of Ellie and Riley, the new combat mechanic gives new depth to an already addictive system. You will laugh and you will cry, and I mean that in the absolute best way possible. *Left Behind* shines through and through.

@@ -7,6 +7,8 @@ tags:
 URL: https://maxfrequency.net/2021/03/06/mfp-0/
 permalink: 2021/03/06/mfp-0/
 ---
+# MFP00 - It Was Inevitable
+
 Surprise, I am back in the podcasting scene. Welcome to my new show with three episodes a month. I hope you enjoy.
 
 <audio controls>

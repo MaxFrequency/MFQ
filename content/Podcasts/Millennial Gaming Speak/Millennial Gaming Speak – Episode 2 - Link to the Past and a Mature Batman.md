@@ -16,7 +16,9 @@ tags:
   - Zelda/LttP
 permalink: 2015/03/04/mgs-2/
 ---
-%%Google Doc Link - https://docs.google.com/document/d/1s7p_V3z24G3jUJqIKuILIXrO1DWP_8_9d8YK4ImUlqg/edit?usp=sharing%%
+# Millennial Gaming Speak – Episode 2 - Link to the Past and a Mature Batman
+
+%%Google Doc Link - https://docs.google.com/document/d/1s7p_V3z24G3jUJqIKuILIXrO1DWP_8_9d8YK4ImUlqg/edit?usp=sharing %%
 
 The first two episodes of Millennial Gaming Speak are lost to time. I deleted my half of the audio to free up SSD space. It’s a real shame that these have been lost. In my effort to manually archive all my writing and work online, I decided to incorporate the show notes doc we wrote for these episodes. From there, I decided to publish the show notes so there is at least a record about what we discussed. Maybe some day I’ll magically find the audio…
 

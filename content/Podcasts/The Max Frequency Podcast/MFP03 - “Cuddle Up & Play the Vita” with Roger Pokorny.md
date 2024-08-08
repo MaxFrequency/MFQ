@@ -7,6 +7,8 @@ tags:
 URL: https://maxfrequency.net/2021/04/10/mfp-3/
 permalink: 2021/04/10/mfp-3/
 ---
+# MFP03 - “Cuddle Up & Play the Vita” with Roger Pokorny
+
 Roger Pokorny from Kinda Funny joins me to talk about the myth that is Splinter Cell, why Adobe Premiere is full of jank, and how Nathan Drake’s hunger is a top 10 moment.
 
 <audio controls>

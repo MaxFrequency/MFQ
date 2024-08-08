@@ -14,6 +14,7 @@ cssclasses:
   - img-grid
   - img-zoom
 ---
+# Back in Hyrule, Map Free
 I finally started *Tears of the Kingdom* this week. I know, I know. It has been a busy year, what can I say? I am enjoying my return to Hyrule and am not very far in at all, but it did not take me long to turn the HUD to "Pro" mode.
 
 ![[240606_TotK_HUD.JPG]]

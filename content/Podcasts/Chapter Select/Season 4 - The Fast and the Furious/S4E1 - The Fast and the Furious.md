@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2022/08/24/chapter-select-s4e1/
 permalink: 2022/08/24/chapter-select-s4e1/
 ---
+# S4E1 - *The Fast and the Furious*
+
 ![[S4E1 Art.jpg]]
 
 It all started with a couple tuna fish sandwiches and some stolen DVD players. In this movie packed with twists and turns (and not just on the streets), Max and Logan explore the origins of this mega blockbuster franchise. Do street races, crime, and Sunday barbecue still win the race or are some movies better off left in the dust?

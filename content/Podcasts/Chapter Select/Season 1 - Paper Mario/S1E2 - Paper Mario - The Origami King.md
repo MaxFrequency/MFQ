@@ -9,6 +9,8 @@ tags:
 URL: https://maxfrequency.net/2021/06/16/chapter-select-s1e2/
 permalink: 2021/06/16/chapter-select-s1e2/
 ---
+# S1E2 - *Paper Mario: The Origami King*
+
 ![[S1E2 Art.jpg]]
 
 20 Years after the series started, *Paper Mario: The Origami King* was quickly revealed and then released in Summer 2020. Max and Logan examine the creases and folds that lead to *Paper Mario* being represented on the Nintendo Switch in this way. Has much really changed from the N64 game?

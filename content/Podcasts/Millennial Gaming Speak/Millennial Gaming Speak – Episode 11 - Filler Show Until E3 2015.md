@@ -14,7 +14,10 @@ tags:
   - MGS
 permalink: 2015/06/01/mgs-11/
 ---
-%%Google Doc Link - https://docs.google.com/document/d/1vgWTdg1Cco8cTMtIh0QeznUzg6FofntKCOkkTw6xIXA/edit?usp=sharing%%
+# Millennial Gaming Speak – Episode 11 - Filler Show Until E3 2015
+
+%%Google Doc Link - https://docs.google.com/document/d/1vgWTdg1Cco8cTMtIh0QeznUzg6FofntKCOkkTw6xIXA/edit?usp=sharing
+%%
 
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-11-Filler-Show-Until-E3-2015-e1adhuu/a-a6ts47s" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

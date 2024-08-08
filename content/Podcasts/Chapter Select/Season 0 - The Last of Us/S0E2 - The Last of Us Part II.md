@@ -10,6 +10,8 @@ tags:
 URL: https://maxfrequency.net/2021/05/26/chapter-select-s0e2/
 permalink: 2021/05/26/chapter-select-s0e2/
 ---
+# S0E2 - *The Last of Us Part II*
+
 ![[S0E2 Art.jpg]]
 
 In this inaugural test season of Chapter Select, Max and Logan dig into Naughty Dog’s post-apocalyptic series *The Last of Us*. Hot off the heels of its release in 2020, we sink our teeth into Naughty Dog’s divisive sequel. Did PlayStation’s top team capture earn the “Part II” in the title? How does *The Last of Us Part II* affect the legacy of the first game?

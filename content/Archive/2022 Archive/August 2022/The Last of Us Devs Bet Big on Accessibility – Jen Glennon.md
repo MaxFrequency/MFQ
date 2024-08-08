@@ -1,0 +1,26 @@
+---
+Published: 2022-08-26
+URL: https://maxfrequency.net/2022/08/26/the-last-of-us-accessibility-jen-glennon/
+permalink: 2022/08/26/the-last-of-us-accessibility-jen-glennon/
+tags:
+  - NaughtyDog/TLOU
+---
+# The Last of Us Devs Bet Big on Accessibility – Jen Glennon
+
+[The Last of Us devs bet big on accessibility — and made a better game](The Last of Us devs bet big on accessibility — and made a better game by Jen Glennon for Inverse
+
+> “The technology and features of one game are often very easy to port over to another game,” says Schatz. “So some of our biggest tasks, like text-to-speech — we’ve done it now. So that investment in our future is now paying off in that way. We can put those features into The Last of Us Part I.”
+
+The [[The Last of Us Part II – Accessibility Features Detailed – PlayStation.Blog|work]] put into [[Naughty Dog explains The Last of Us Part II’s ambitious accessibility features – The Verge|accessibility in The Last of Us Part II]] has begun to reap benefits with subsequent Naughty Dog games. With *The Last of Us Part I* a week away, part of the press tour is promoting and discussing the near identical feature set between the two games. Some of the features even surpass *Part II*’s offerings, like the full audio descriptions during cutscenes.
+
+This flag planted for accessibility has marked all Naughty Dog games going forward. Major regressions in these support features going forward would be a loss. It has also raised the bar for other developers. I’ve noticed other PlayStation Studios putting emphasis on their accessibility features. Microsoft has also led the way with first-party games and their accessibility controller.  I hope the trend continues.
+
+I wonder what the feature slate will be for the Factions multiplayer game from Naughty Dog, considering its presumed online nature.
+
+> In Schatz and Gallant’s view, the most innovative games in the coming five to 10 years will likely take more of a less-is-more approach, refining a more personalized approach to interaction rather than focusing on flashy visuals or superfluous embellishments.
+> 
+> “We’ve reached a point in game design where everything is maximal. I think there’s a lot of innovation in the future in paring that down,” says Schatz. “Do we really need to use all these controls? What do we get out of a minimalist experience, where we’re just pressing one thing? I’m really looking forward to evolving toward more intentional design in all sorts of ways.”
+
+This reminds me of *Journey*. Two buttons and two control sticks make up [the control scheme](https://userguides.eu.playstation.com/en/journey/) for one of gaming’s absolute best.
+
+Update: Not five minutes after pressing “publish,” PlayStation released an [Accessibility trailer](https://youtu.be/LINKh60I8CY) for *Part I*.

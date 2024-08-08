@@ -8,6 +8,8 @@ tags:
 URL: https://maxfrequency.net/chapterselect/season8/
 permalink: chapterselect/season8/
 ---
+# Season 8 – *Castlevania*
+
 ![[S8 Placeholder Art.jpg]]
 
 Chapter Select Season 8 will be *Castlevania*.

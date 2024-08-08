@@ -11,6 +11,8 @@ tags:
   - Yakuza
 permalink: 2017/09/06/mgs-108/
 ---
+# Millennial Gaming Speak – Episode 108 - Two Logans Are Better than One
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-108-Two-Logans-Are-Better-than-One-e1adhrp/a-a6ts43o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 

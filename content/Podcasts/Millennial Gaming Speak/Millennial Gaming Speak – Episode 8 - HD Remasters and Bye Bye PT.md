@@ -11,7 +11,10 @@ tags:
   - COD
 permalink: 2015/04/29/mgs-8/
 ---
-%%Google Doc Link - https://docs.google.com/document/d/1sl0oDVHIwpCSjqTD_o6UjbVBScPO04zcwfZlI5jnsz4/edit?usp=sharing%%
+# Millennial Gaming Speak – Episode 8 - HD Remasters and Bye Bye PT
+
+%%Google Doc Link - https://docs.google.com/document/d/1sl0oDVHIwpCSjqTD_o6UjbVBScPO04zcwfZlI5jnsz4/edit?usp=sharing
+%%
 
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-8-HD-Remasters-and-Bye-Bye-PT-e1adht9/a-a6ts457" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 

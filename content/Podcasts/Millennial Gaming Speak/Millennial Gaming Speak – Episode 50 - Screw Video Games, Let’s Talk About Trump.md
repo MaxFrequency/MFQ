@@ -9,6 +9,8 @@ tags:
   - MGS
 permalink: 2016/07/21/mgs-50/
 ---
+# Millennial Gaming Speak – Episode 50 - Screw Video Games, Let’s Talk About Trump
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/Episode-50-Screw-Video-Games--Lets-Talk-About-Trump-e1adhuo/a-a6ts486" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)

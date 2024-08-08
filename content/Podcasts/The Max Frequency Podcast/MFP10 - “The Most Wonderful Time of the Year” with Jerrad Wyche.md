@@ -19,6 +19,8 @@ tags:
 URL: https://maxfrequency.net/2021/06/22/mfp-10/
 permalink: 2021/06/22/mfp-10/
 ---
+# MFP10 - “The Most Wonderful Time of the Year” with Jerrad Wyche
+
 Jerrad Wyche celebrates the most wonderful time of the year with me. We chat about E3’s return in 2021 with a focus on Nintendo and Xbox. *Metroid* lives and *Starfield* has a release date before *Halo Infinite*. Like I said, it is the most wonderful time of the year.
 
 <audio controls>
@@ -45,7 +47,7 @@ Jerrad Wyche celebrates the most wonderful time of the year with me. We chat abo
 ## Death Stranding Director’s Cut
 
 - [*Death Stranding Director’s Cut* Teaser](https://youtu.be/q76jhOinT9I)
-- [[What’s Going on with Blue Box Game Studios? – PlayStation Lifestyle|What is Going on with Blue Box Game Studios?]]
+- [[What’s Going on with Blue Box Game Studios – PlayStation Lifestyle|What is Going on with Blue Box Game Studios?]]
 - [[Returning to Death Stranding Six Months Later]]
 ## The Sequel to Breath of the Wild
 

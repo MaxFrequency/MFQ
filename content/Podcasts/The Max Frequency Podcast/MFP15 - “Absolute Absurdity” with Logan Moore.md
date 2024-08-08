@@ -12,6 +12,8 @@ tags:
 URL: https://maxfrequency.net/2022/06/06/mfp-15/
 permalink: 2022/06/06/mfp-15/
 ---
+# MFP15 - “Absolute Absurdity” with Logan Moore
+
 It is that magical time in the Summer where Max Roberts and Logan Moore get together to predict E3/Summer Games Fest.
 
 <audio controls>

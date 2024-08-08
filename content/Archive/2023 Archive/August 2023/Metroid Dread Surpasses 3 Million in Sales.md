@@ -1,0 +1,22 @@
+---
+Published: 2023-08-15
+URL: https://maxfrequency.net/2023/08/15/metroid-dread-surpasses-3-million-in-sales/
+permalink: 2023/08/15/metroid-dread-surpasses-3-million-in-sales/
+tags:
+  - Metroid/Dread
+---
+# Metroid Dread Surpasses 3 Million in Sales
+
+[MercurySteam CEO talks *Metroid Dread* success and allegations of ‘chaotic’ production](https://www.videogameschronicle.com/news/mercurysteam-ceo-talks-metroid-dread-success-and-allegations-of-chaotic-production/) by Jordan Middler for VGC
+
+> “We were also very hungry for leaving our own mark on the franchise. And we never ceased to suggest and propose ideas. Many of them ended up in the final product. So, we are very proud of the collaboration between us and Nintendo. And, yeah, as I said, one of the best development experiences we could possibly dream of.”
+> 
+> In 2021 it was alleged that the development of the game was “chaotic,” however, in response to this, Álvarez has pointed to the game’s success as a rebuttal.
+> 
+> “I don’t think the development was chaotic. Chaotic development doesn’t end with one of the best games in the franchise. It doesn’t end with a game that has sold over three point-something million copies. It doesn’t end with a game that won TGA awards. That’s all I have to say about it.”
+
+Not only is *Metroid Dread* the best selling *Metroid* game, but it seems to be Mercury Steam’s best selling title as well. Dread is a great game. I [[My Favorite Games I Played in 2022|beat it at the start of last year]] and had this to say,
+
+> I wrapped 2021 by starting *Dread* and finished it just a few days into the new year. A stellar game from top to bottom. Mercury Steam put forward such slick design. Samus has never been so fluid and dynamic.
+
+This sounds like it is roughly double their previous best seller, *Lords of Shadow*, which I will get to experience before too long as a part of [[S8 - Castlevania|Chapter Select Season 8 – Castlevania]].

@@ -14,6 +14,8 @@ tags:
   - MGS
 permalink: 2015/06/18/mgs-e3-2015-playstation/
 ---
+# Millennial Gaming Speak – E3 2015 – Breaking Down Sony’s Press Conference
+
 <iframe src="https://podcasters.spotify.com/pod/show/millennialgamingspeak/embed/episodes/E3-2015-Breaking-Down-Sonys-Press-Conference-e1adhrb/a-a6ts42a" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 [RSS](https://anchor.fm/s/74aa3858/podcast/rss) – [Apple](https://podcasts.apple.com/us/podcast/episode-3-gdc-wrap-up/id1000915981?i=1000542222515) – [Spotify](https://open.spotify.com/episode/7wePXT4Bt22LWifVLx3n8y) – [Overcast](https://overcast.fm/+EtIgeWxEU)
